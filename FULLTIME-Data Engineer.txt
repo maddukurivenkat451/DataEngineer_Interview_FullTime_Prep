@@ -1,0 +1,94 @@
+########DATA ENGINEER & SR DATA ENGINEER #############
+
+
+***************Data warehousing*****************
+Concepts:
+
+1)geek for geeks problems for python
+2)dataframe opertaions
+3)database design 
+4)concepts like entity relationship diagram
+5) deisgn star schema etc
+6)given a table, create entity relationship , for example 
+7) normalization
+
+Dimension modelling:
+https://www.guru99.com/dimensional-model-data-warehouse.html
+
+Data warehousing:
+https://panoply.io/data-warehouse-guide/data-warehouse-concepts-traditional-vs-cloud/
+https://medium.com/@michelle.xie/explain-by-example-oltp-vs-olap-d5603ac2038b
+https://towardsdatascience.com/guide-to-data-warehousing-6fdcf30b6fbe
+https://www.javatpoint.com/data-warehouse-architecture
+
+
+
+Next-Gen Data Movement Platform at PayPal
+
+https://medium.com/paypal-engineering/next-gen-data-movement-platform-at-paypal-100f70a7a6b
+
+Data Warehousing and ETLs:
+
+https://medium.com/engineering-housing/data-warehousing-and-etls-3f5d048eaba
+
+How did we build a Data Warehouse in six months?
+
+https://medium.com/everoad/building-a-data-warehouse-in-six-months-what-did-we-learn-e058e42446f1
+
+
+
+ER diagram:
+
+https://www.youtube.com/watch?v=ZBgXb66Ckz0&t=72s
+https://www.guru99.com/er-diagram-tutorial-dbms.html
+
+
+Examples for converting to 1,2,3 NF:
+https://towardsdatascience.com/database-normalization-explained-53e60a494495
+https://www.w3schools.in/dbms/database-normalization/
+https://beginnersbook.com/2015/05/normalization-in-dbms/
+
+
+Normalize DB:
+
+https://www.youtube.com/watch?v=QqlPXKxN6LQ
+https://medium.com/@kimtnguyen/relational-database-schema-design-overview-70e447ff66f9
+https://towardsdatascience.com/data-modeling-for-a-music-streaming-app-db46a4595e4e
+
+
+Data Reconciliation:
+
+https://www.guru99.com/what-is-data-reconciliation.html
+
+Change Data Capture(CDC) for Data Lake Data Ingestion:
+
+https://towardsdatascience.com/change-data-capture-cdc-for-data-ingestion-ca81ff5934d2
+
+
+******************PYTHON**************************
+
+numpy tutorial
+https://www.youtube.com/watch?v=rN0TREj8G7U&list=PLeo1K3hjS3uset9zIVzJWqplaWBiacTEU
+
+Python Pandas 
+https://www.youtube.com/watch?v=CmorAWRsCAw&list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy
+
+python data structures
+
+Design patterns:
+https://codeburst.io/design-patterns-101-9fe18d5a1bd9
+
+Data Structures & Algorithms:
+https://www.youtube.com/watch?v=_t2GVaQasRY&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12
+
+
+*************SQL************
+
+https://www.geeksforgeeks.org/sql-top-n-queries/
+https://www.sqlshack.com/overview-of-the-sql-row-number-function/
+
+
+
+*********coding practise**********
+
+https://leetcode.com/

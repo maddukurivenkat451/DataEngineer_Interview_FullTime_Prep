@@ -1,0 +1,101 @@
+############################################
+****** AWS AWS AWS*******:
+#############################################
+
+
+AWS Basics
+
+https://dzone.com/articles/aws-basics
+
+https://dev.to/harshaambati/aws-cheatsheet-2f0k
+
+
+AWS S3 Tutorial For Beginners| Introduction to Amazon S3|AWS S3 Bucket Tutorial|Cloud storage on AWS
+
+https://www.youtube.com/watch?v=Cij5_4yLHLA
+
+GLUE:
+
+AWS Glue Crawler Tutorial with Hands On Lab | AWS Glue Tutorials | AWS Glue Hand-On Tutorial
+
+https://www.youtube.com/watch?v=32oVe1RLGxM
+
+https://www.youtube.com/watch?v=8O03fAZS1Vc
+
+Trigger AWS Glue Crawler from Lambda | Event Trigger of Glue Crawlers | AWS Glue Tutorials Hands-on
+
+https://www.youtube.com/watch?v=6f1FccQXZ18
+
+Athena & Lambda:
+
+AWS Athena Overview - Key Concepts | Serverless Interactive Query Service
+
+https://www.youtube.com/watch?v=UwnRi4ZDJEk
+
+AWS Athena Partitioning | Athena Tutorials | Athena Query Performance Improvement | AWS Tutorials
+
+https://www.youtube.com/watch?v=okp25X03J-0
+
+AWS Athena Partitions with Lambda Function | Automatically Load Partitions | Athena + Lambda + S3
+
+https://www.youtube.com/watch?v=5ipPwfU6sFs
+
+Athena JDBC Connection Example | Querying Athena from Java | AWS Athena Tutorial | Athena Data Lake
+
+https://www.youtube.com/watch?v=tZ21W5V0UKg
+
+AWS Athena Tutorial l Athena Hands On LAB | Athena + Glue + S3 Data Lake | Athena AWS Tutorials
+
+https://www.youtube.com/watch?v=8VOf1PUFE0I
+
+How to Schedule Athena Queries with Lambda in AWS
+
+https://www.youtube.com/watch?v=jr54fOkT25w
+
+How to Use Athena with Json Data in AWS
+
+https://www.youtube.com/watch?v=PLtMYA7LpbE
+
+
+AWS LAMBDA:
+
+AWS Lambda Tutorial for Beginners | What is AWS Lambda | AWS Lambda Getting started | AWS Lambda
+
+https://www.youtube.com/watch?v=7HXjzrE8VWk&pbjreload=101
+
+https://www.youtube.com/watch?v=CgY2uxQPflY&list=PL5KTLzN85O4KO0qEeUVvwTTcHFsdE6Dhx
+
+AWS Lambda function | Copy files from one S3 bucket to another S3 bucket as soon as uploaded
+
+https://www.youtube.com/watch?v=edqL5Rcf3ws
+
+AWS Read CSV file data from S3 via Lambda function and insert into MySQL
+
+https://www.youtube.com/watch?v=ozbsi3AVcZY
+
+
+Kinesis:
+
+Kinesis Data Stream & Data Analytics Tutorial | AWS Kinesis Tutorial | Kinesis Stream Introduction
+
+https://www.youtube.com/watch?v=RR0hhZUyjjc&list=PLLv1Hn1N3bRwhRLFm37JGCgkcI8wWtQ-a
+
+Kinesis Firehose Tutorial
+
+https://www.youtube.com/watch?v=RFx1QmhjIws
+
+https://www.youtube.com/watch?v=I7fPRkZkld0&list=PLLv1Hn1N3bRw7nU-vYEuBz_3z6thTb3jl
+
+URLS:
+https://towardsdatascience.com/delivering-real-time-streaming-data-to-amazon-s3-using-amazon-kinesis-data-firehose-2cda5c4d1efe
+
+Spark Streaming & Real Time Analytics on AWS
+
+https://medium.com/swlh/spark-streaming-real-time-analytics-on-aws-59f731f36aa2
+
+https://medium.com/swlh/aws-step-functions-and-lambda-5a649d255a6
+
+
+Build ETL Pipeline With PySpark on AWS EC2 (1) — Setup PySpark Environment
+
+https://medium.com/swlh/build-et-pipeline-with-pyspark-on-aws-ec2-1-setup-pyspark-environment-ff17d7f5544f
