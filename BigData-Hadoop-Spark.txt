@@ -1,0 +1,287 @@
+####################################################################
+#****************BIG DATA - BIG DATA - BIG DATA#****************
+###############################################################
+
+
+****************LAMBDA ARCHITECTURE**********************
+
+What Is Lambda Architecture:
+
+https://hazelcast.com/glossary/lambda-architecture/
+
+https://hazelcast.com/glossary/change-data-capture/
+
+Data Challenges in Big Data
+
+https://luminousmen.com/post/data-challenges-in-big-data
+
+
+****************HDFS HDFS HDFS****************************
+
+HDFS Architecture:
+
+https://www.youtube.com/watch?v=YjyXL3-FPik
+
+https://www.analyticsvidhya.com/blog/2020/10/hadoop-distributed-file-system-hdfs-architecture-a-guide-to-hdfs-for-every-data-engineer/
+
+https://www.guru99.com/learn-hdfs-a-beginners-guide.html
+
+
+****************MapReduce****************
+
+
+What is MapReduce in Hadoop? Architecture | Example
+
+https://www.guru99.com/introduction-to-mapreduce.html
+
+
+
+*********************SQOOP SQOOP SQOOP****
+
+Apache Sqoop:
+
+Documentation:
+
+https://sqoop.apache.org/docs/1.4.7/SqoopUserGuide.html 
+
+Sqoop Cheat cheet:
+
+https://www.janbasktraining.com/blog/sqoop-commands-cheat-sheet/
+
+Apache Sqoop : Incremental import with sqoop-job 
+
+https://medium.com/@nitingupta.bciit/apache-sqoop-incremental-import-with-sqoop-job-949b60e1101a
+
+merge data-sets imported via incremental import using Sqoop:
+
+https://sodocumentation.net/sqoop/topic/5673/merge-data-sets-imported-via-incremental-import-using-sqoop
+
+
+*********************HIVE HIVE HIVE *********************
+
+Hive Architecture in Depth
+
+https://medium.com/plumbersofdatascience/hive-architecture-in-depth-ba44e8946cbc
+
+Architecture and Working of Hive:
+
+https://www.geeksforgeeks.org/architecture-and-working-of-hive/
+
+Data Engineering for Beginners – Partitioning vs Bucketing:
+
+https://www.analyticsvidhya.com/blog/2020/11/data-engineering-for-beginners-partitioning-vs-bucketing-in-apache-hive/
+
+https://www.guru99.com/hive-partitions-buckets-example.html
+
+https://sparkbyexamples.com/apache-hive/hive-partitioning-vs-bucketing-with-examples/
+
+MSCK REPAIR:
+
+https://analyticshut.com/msck-repair-fixing-partitions-in-hive-table/
+
+
+Big Data File Formats:
+
+https://blog.clairvoyantsoft.com/big-data-file-formats-3fb659903271
+
+https://www.youtube.com/watch?v=jKfKmBdPuT4
+
+Row based vs Column based file formats:
+
+https://www.youtube.com/watch?v=HpAZDbke0As
+
+ORC vs Parquet file format:
+
+https://www.youtube.com/watch?v=Q9Nz7CgRQKU
+
+
+Incremental Data Load in Hive:
+
+https://www.youtube.com/watch?v=B51yDF04xLw&list=PLHoQFin5tpu8HLQxhTF1O4gW_aJPsSHTw
+
+FOUR STEP STRATEGY FOR INCREMENTAL UPDATES IN APACHE HIVE ON HADOOP:**********************************************************
+
+https://community.cloudera.com/t5/Community-Articles/FOUR-STEP-STRATEGY-FOR-INCREMENTAL-UPDATES-IN-APACHE-HIVE-ON/ta-p/246015
+
+https://medium.com/@sumit.varshney/incremental-update-in-apache-hive-ff8dca966387
+
+Incremental updates in HDInsight:
+
+https://www.valdas.blog/2017/03/21/incremental-updates-in-apache-hive/
+
+Using Hive ACID Transactions to Insert, Update and Delete Data:
+
+https://www.cloudera.com/tutorials/using-hive-acid-transactions-to-insert-update-and-delete-data.html 
+
+
+************SPARK SPARK SPARK***********
+
+Apache Spark for Data Engineering and Analysis - Overview:
+
+https://www.youtube.com/watch?v=3kX5ry0RCOQ
+
+Udemy course:
+
+https://www.udemy.com/course/introduction-to-python-for-big-data-engineering-with-pyspark/
+
+Certification practise:
+
+https://www.udemy.com/course/databricks-apache-spark-3x-python-certification-practice/
+
+
+Beginners Guide to PySpark:
+
+https://towardsdatascience.com/beginners-guide-to-pyspark-bbe3b553b79f
+
+https://hackersandslackers.com/series/learning-apache-spark/
+
+https://hackersandslackers.com/learning-to-use-apache-spark-pyspark/
+
+Apache Spark Architecture – How Spark works?
+
+https://www.data-stats.com/apache-spark-architecture-how-spark-works/
+
+https://queirozf.com/entries/apache-spark-architecture-overview-clusters-jobs-stages-tasks
+
+Spark! Core Concepts Revisited:
+
+https://www.linkedin.com/pulse/just-enough-spark-core-concepts-revisited-deepak-rajak
+
+
+Persist and Cache in Apache Spark
+
+https://www.learntospark.com/2020/05/persist-and-cache-in-apache-spark.html?m=1
+
+Bucketing in Spark
+
+https://blog.clairvoyantsoft.com/bucketing-in-spark-878d2e02140f
+
+
+Spark Partitions:
+
+https://luminousmen.com/post/spark-partitions
+
+Spark Tips. Partition Tuning
+
+https://luminousmen.com/post/spark-tips-partition-tuning
+
+How Spark dataframe shuffling can hurt your partitioning
+
+https://medium.com/@manuelmourato25/how-spark-dataframe-shuffling-can-hurt-your-partitioning-28d05fdcb6fa
+
+Managing Spark Partitions with Coalesce and Repartition
+
+https://mrpowers.medium.com/managing-spark-partitions-with-coalesce-and-repartition-4050c57ad5c4
+
+https://blog.knoldus.com/apache-spark-repartitioning-v-s-coalesce/
+
+
+
+Apache Spark Internals: Tips and Optimizations:
+
+https://itnext.io/apache-spark-internals-tips-and-optimizations-8c3cad527ea2
+
+Key factors to consider when optimizing Spark Jobs:
+
+https://medium.com/datakaresolutions/key-factors-to-consider-when-optimizing-spark-jobs-72b1a0dc22bf
+
+
+
+Demystifying Joins in Apache Spark:
+
+https://www.data-stats.com/joins-in-pyspark/
+
+https://sparkbyexamples.com/pyspark/pyspark-join-explained-with-examples/
+
+https://towardsdatascience.com/demystifying-joins-in-apache-spark-38589701a88e\
+
+
+
+Smart Resource Utilization With Spark Dynamic Allocation
+
+https://dzone.com/articles/spark-dynamic-allocation#:~:text=For%20this%2C%20Spark%20comes%20to,resources%20to%20complete%20those%20tasks.
+
+Tuning Resource Allocation in Apache Spark
+
+https://www.justanalytics.com/blog/technical-know-how/tuning-resource-allocation-in-apache-spark
+
+
+Apache Spark Memory Management 
+
+https://databricks.com/blog/2015/05/28/tuning-java-garbage-collection-for-spark-applications.html
+
+https://www.youtube.com/watch?v=iLpjNItogwc
+
+https://luminousmen.com/post/dive-into-spark-memory
+
+http://spark-configuration.luminousmen.com/
+
+https://medium.com/analytics-vidhya/apache-spark-memory-management-49682ded3d42
+
+Spark Out of Memory Issue | Spark Memory Tuning
+
+https://www.youtube.com/watch?v=FdT5o7M35kU
+
+
+Encrypting column of a spark dataframe
+
+https://medium.com/swlh/encrypting-column-of-a-spark-dataframe-35d64b0db00f
+
+
+
+Pyspark Complex Json Processing
+
+https://www.youtube.com/watch?v=1dEflnG0iho&t=1024s
+
+Create Row for each array Element using PySpark Explode
+
+https://dwgeek.com/pyspark-creating-row-for-each-array-element-explode.html/
+
+PYSPARK EXPLODE NESTED ARRAY, ARRAY OR MAP TO ROWS
+
+https://amiradata.com/pyspark-explode-nested-array-map-to-rows/
+
+PySpark Aggregations – Cube, Rollup:
+
+https://www.data-stats.com/pyspark-aggregations-cube-rollup/
+
+Update Data using Spark – Four Step Strategy(VERY VERY IMPT)
+
+https://www.data-stats.com/update-data-using-spark-four-step-strategy/
+
+
+Spark SQL:
+
+https://www.youtube.com/watch?v=y7Otu8MC_eM
+
+https://www.youtube.com/watch?v=DBp2zG-YVxg
+
+https://www.youtube.com/watch?v=048wM8Npjbo
+
+Apache Spark interview questions Set 2
+
+https://goraidebashree7.medium.com/apache-spark-interview-questions-set-2-b443e6bbf6b
+
+https://ashutosh-bitmesra.medium.com/55-spark-interview-questions-for-senior-developers-c3c86f9682b4
+
+
+
+*************Delta Lake****************
+
+Introduction to Delta Lake:
+
+https://www.data-stats.com/introduction-to-delta-lake/
+
+Apache HUDI vs Delta Lake:
+
+https://medium.com/swlh/apache-hudi-vs-delta-lake-295c019fe3c5
+
+Migrating from Hive to Delta Lake + Hive in Hybrid Cloud Environment:
+
+https://medium.com/amobee-engineering/migrating-from-hive-to-delta-lake-hive-in-hybrid-cloud-environment-38269ed45632
+
+Data Lakehouse: Building the Next Generation of Data Lakes using Apache Hudi:
+
+https://medium.com/slalom-build/data-lakehouse-building-the-next-generation-of-data-lakes-using-apache-hudi-41550f62f5f
+
+
