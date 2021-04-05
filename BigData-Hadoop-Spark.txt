@@ -1,6 +1,6 @@
-##################################
-###################BIG DATA - BIG DATA - BIG DATA########
-#############################
+####################################################################
+#****************BIG DATA - BIG DATA - BIG DATA#****************
+###############################################################
 
 
 ****************LAMBDA ARCHITECTURE**********************
@@ -38,7 +38,6 @@ https://www.guru99.com/introduction-to-mapreduce.html
 
 *********************SQOOP SQOOP SQOOP****
 
-############### 1 ###############
 Apache Sqoop:
 
 Documentation:
@@ -58,7 +57,7 @@ merge data-sets imported via incremental import using Sqoop:
 https://sodocumentation.net/sqoop/topic/5673/merge-data-sets-imported-via-incremental-import-using-sqoop
 
 
-*********************HIVE HIVE HIVE ****
+*********************HIVE HIVE HIVE *********************
 
 Hive Architecture in Depth
 
@@ -138,19 +137,25 @@ https://hackersandslackers.com/series/learning-apache-spark/
 
 https://hackersandslackers.com/learning-to-use-apache-spark-pyspark/
 
-Apache Spark interview questions Set 2
+Apache Spark Architecture – How Spark works?
 
-https://goraidebashree7.medium.com/apache-spark-interview-questions-set-2-b443e6bbf6b
+https://www.data-stats.com/apache-spark-architecture-how-spark-works/
+
+https://queirozf.com/entries/apache-spark-architecture-overview-clusters-jobs-stages-tasks
+
+Spark! Core Concepts Revisited:
+
+https://www.linkedin.com/pulse/just-enough-spark-core-concepts-revisited-deepak-rajak
+
+
+Persist and Cache in Apache Spark
+
+https://www.learntospark.com/2020/05/persist-and-cache-in-apache-spark.html?m=1
 
 Bucketing in Spark
 
 https://blog.clairvoyantsoft.com/bucketing-in-spark-878d2e02140f
 
-Managing Spark Partitions with Coalesce and Repartition
-
-https://mrpowers.medium.com/managing-spark-partitions-with-coalesce-and-repartition-4050c57ad5c4
-
-https://blog.knoldus.com/apache-spark-repartitioning-v-s-coalesce/
 
 Spark Partitions:
 
@@ -164,6 +169,14 @@ How Spark dataframe shuffling can hurt your partitioning
 
 https://medium.com/@manuelmourato25/how-spark-dataframe-shuffling-can-hurt-your-partitioning-28d05fdcb6fa
 
+Managing Spark Partitions with Coalesce and Repartition
+
+https://mrpowers.medium.com/managing-spark-partitions-with-coalesce-and-repartition-4050c57ad5c4
+
+https://blog.knoldus.com/apache-spark-repartitioning-v-s-coalesce/
+
+
+
 Apache Spark Internals: Tips and Optimizations:
 
 https://itnext.io/apache-spark-internals-tips-and-optimizations-8c3cad527ea2
@@ -171,6 +184,8 @@ https://itnext.io/apache-spark-internals-tips-and-optimizations-8c3cad527ea2
 Key factors to consider when optimizing Spark Jobs:
 
 https://medium.com/datakaresolutions/key-factors-to-consider-when-optimizing-spark-jobs-72b1a0dc22bf
+
+
 
 Demystifying Joins in Apache Spark:
 
@@ -180,7 +195,6 @@ https://sparkbyexamples.com/pyspark/pyspark-join-explained-with-examples/
 
 https://towardsdatascience.com/demystifying-joins-in-apache-spark-38589701a88e\
 
-https://sparkbyexamples.com/pyspark/pyspark-join-explained-with-examples/#pyspark-left-semi-join
 
 
 Smart Resource Utilization With Spark Dynamic Allocation
@@ -200,15 +214,20 @@ https://www.youtube.com/watch?v=iLpjNItogwc
 
 https://luminousmen.com/post/dive-into-spark-memory
 
+http://spark-configuration.luminousmen.com/
+
 https://medium.com/analytics-vidhya/apache-spark-memory-management-49682ded3d42
 
 Spark Out of Memory Issue | Spark Memory Tuning
 
 https://www.youtube.com/watch?v=FdT5o7M35kU
 
+
 Encrypting column of a spark dataframe
 
 https://medium.com/swlh/encrypting-column-of-a-spark-dataframe-35d64b0db00f
+
+
 
 Pyspark Complex Json Processing
 
@@ -230,6 +249,7 @@ Update Data using Spark – Four Step Strategy(VERY VERY IMPT)
 
 https://www.data-stats.com/update-data-using-spark-four-step-strategy/
 
+
 Spark SQL:
 
 https://www.youtube.com/watch?v=y7Otu8MC_eM
@@ -237,6 +257,12 @@ https://www.youtube.com/watch?v=y7Otu8MC_eM
 https://www.youtube.com/watch?v=DBp2zG-YVxg
 
 https://www.youtube.com/watch?v=048wM8Npjbo
+
+Apache Spark interview questions Set 2
+
+https://goraidebashree7.medium.com/apache-spark-interview-questions-set-2-b443e6bbf6b
+
+https://ashutosh-bitmesra.medium.com/55-spark-interview-questions-for-senior-developers-c3c86f9682b4
 
 
 
@@ -247,6 +273,7 @@ Introduction to Delta Lake:
 https://www.data-stats.com/introduction-to-delta-lake/
 
 Apache HUDI vs Delta Lake:
+
 https://medium.com/swlh/apache-hudi-vs-delta-lake-295c019fe3c5
 
 Migrating from Hive to Delta Lake + Hive in Hybrid Cloud Environment:
@@ -256,3 +283,5 @@ https://medium.com/amobee-engineering/migrating-from-hive-to-delta-lake-hive-in-
 Data Lakehouse: Building the Next Generation of Data Lakes using Apache Hudi:
 
 https://medium.com/slalom-build/data-lakehouse-building-the-next-generation-of-data-lakes-using-apache-hudi-41550f62f5f
+
+
