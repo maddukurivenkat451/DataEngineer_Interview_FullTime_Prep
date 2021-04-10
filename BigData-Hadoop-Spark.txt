@@ -201,6 +201,11 @@ Spark Optimization Technique | How to improve performance for your Spark Applica
 https://nivedita-mondal.medium.com/spark-optimization-technique-how-to-improve-performance-for-your-spark-application-f75dc58b6b86
 
 
+Spark Optimization Techniques — Broad Cast Join
+
+https://vamsi-krish601.medium.com/spark-optimization-techniques-broad-cast-join-6838baf68e45
+
+
 Optimizing the data reads in Spark: Part 1
 
 https://dataops-dev.medium.com/optimizing-the-data-reads-in-spark-part-1-pyspark-2-4-4f7206438b77
@@ -304,13 +309,6 @@ PySpark Syntax—5 Quick Tips
 https://medium.com/analytics-vidhya/pyspark-xp-syntax-f57a9e6a500f
 
 
-Apache Spark interview questions Set 2
-
-https://goraidebashree7.medium.com/apache-spark-interview-questions-set-2-b443e6bbf6b
-
-https://ashutosh-bitmesra.medium.com/55-spark-interview-questions-for-senior-developers-c3c86f9682b4
-
-
 
 *************Spark Structured Streaming****************
 
@@ -330,6 +328,24 @@ https://medium.com/expedia-group-tech/apache-spark-structured-streaming-output-s
 Spark Structured Streaming:
 
 https://docs.databricks.com/spark/latest/structured-streaming/index.html
+
+
+
+Spark interview: 
+
+Apache Spark interview questions Set 2
+
+https://goraidebashree7.medium.com/apache-spark-interview-questions-set-2-b443e6bbf6b
+
+https://ashutosh-bitmesra.medium.com/55-spark-interview-questions-for-senior-developers-c3c86f9682b4
+
+Spark Interview Guide : Part 1: Spark Core
+
+https://nivedita-mondal.medium.com/spark-interview-guide-spark-core-2ab0f57304eb
+
+Spark Interview Guide : Part 3 : Spark SQL & Dataframe
+
+https://nivedita-mondal.medium.com/spark-interview-guide-part-3-spark-sql-dataframe-12f04f168d6b
 
 
 
