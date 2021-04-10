@@ -1,0 +1,9 @@
+Full Time Preparation Flow to Follow:
+
+1) Data Engineer-DataWarehouse-Python-SQL
+
+2) BigData-Hadoop-Spark
+
+3) AWS-BigData
+
+4) KAFKA-Databricks-Airflow
