@@ -30,16 +30,6 @@ Data Analytics Lifecycle using AWS
 https://medium.com/analytics-vidhya/data-analytics-lifecycle-overview-aws-2bb73af90bad
 
 
-CERTIFICATION:
-
-Learnings from the AWS Data Analytics Speciality
-
-https://medium.com/datamindedbe/learnings-from-the-aws-data-analytics-speciality-952751dac9bf
-
-
-How to prepare for AWS Data Analytics Specialty Exam | Exam Guide and Resources for Data Analytics
-
-https://www.youtube.com/watch?v=TuuBo8--hCs
 
 **********************AWS S3**********************
 
@@ -80,6 +70,7 @@ https://www.youtube.com/watch?v=6f1FccQXZ18
 What is AWS Lambda? Lambda Function with Examples
 
 https://www.guru99.com/aws-lambda-function.html
+
 
 **********************Athena & Lambda**********************
 
