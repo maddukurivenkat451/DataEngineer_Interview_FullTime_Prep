@@ -2,6 +2,11 @@
 #*************KAFKA - AIRFLOW - DATABRICKS****************
 ###################################################
 
+Concepts To Focus:
+1) KAFKA
+2) Databricks
+3) AIRFLOW
+
 
 *************KAFKA****************
 
@@ -31,8 +36,6 @@ https://www.youtube.com/watch?v=ZvsOzji_8ow
 
 
 
-
-
 *************AIRFLOW*************
 
 Data Engineering 101 – Getting Started with Apache Airflow:
@@ -52,7 +55,7 @@ Managed Apache Airflow on AWS — New AWS Service For Data Pipelines:
 https://towardsdatascience.com/managed-apache-airflow-on-aws-new-aws-service-for-data-pipelines-91908ee9e5fc
 
 
-### Airflow CLI Command List:
+Airflow CLI Command List:
 https://airflow.apache.org/docs/apache-airflow/stable/cli-and-env-variables-ref.html
 
 

@@ -3,6 +3,17 @@
 ###############################################################
 
 
+Concepts To Focus:
+1) LAMBDA ARCHITECTURE*
+2) HDFS
+3) MapReduce
+4) SQOOP
+5) HIVE
+6) SPARK
+7) Spark Structured Streaming
+8) SNOWFLAKE PYSPARK
+9) Delta Lake
+
 ****************LAMBDA ARCHITECTURE**********************
 
 What Is Lambda Architecture:

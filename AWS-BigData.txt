@@ -2,8 +2,18 @@
 ****** AWS AWS AWS*******:
 #############################################
 
+Concepts To Focus:
+1) AWS Basics
+2) AWS S3
+3) AWS PYSPARK
+4) AWS GLUE
+5) Athena & Lambda
+6) AWS LAMBDA
+7) Kinesis
+8) AWS Step Functions
+9) AWS EMR
 
-AWS Basics
+************AWS Basics************
 
 https://dzone.com/articles/aws-basics
 
@@ -66,6 +76,10 @@ https://www.youtube.com/watch?v=8O03fAZS1Vc
 Trigger AWS Glue Crawler from Lambda | Event Trigger of Glue Crawlers | AWS Glue Tutorials Hands-on
 
 https://www.youtube.com/watch?v=6f1FccQXZ18
+
+What is AWS Lambda? Lambda Function with Examples
+
+https://www.guru99.com/aws-lambda-function.html
 
 **********************Athena & Lambda**********************
 
