@@ -150,3 +150,9 @@ https://www.sqlshack.com/overview-of-the-sql-row-number-function/
 
 
 https://leetcode.com/
+
+
+How to Crack the Data Engineer Interview at Facebook
+
+
+https://palakdatascientist.medium.com/how-to-crack-the-data-engineer-interview-at-facebook-7e16ae65e0be

@@ -185,6 +185,14 @@ Key factors to consider when optimizing Spark Jobs:
 
 https://medium.com/datakaresolutions/key-factors-to-consider-when-optimizing-spark-jobs-72b1a0dc22bf
 
+Spark Optimization Technique | How to improve performance for your Spark Application
+
+https://nivedita-mondal.medium.com/spark-optimization-technique-how-to-improve-performance-for-your-spark-application-f75dc58b6b86
+
+
+Optimizing the data reads in Spark: Part 1
+
+https://dataops-dev.medium.com/optimizing-the-data-reads-in-spark-part-1-pyspark-2-4-4f7206438b77
 
 
 Demystifying Joins in Apache Spark:
@@ -250,6 +258,10 @@ Update Data using Spark – Four Step Strategy(VERY VERY IMPT)
 https://www.data-stats.com/update-data-using-spark-four-step-strategy/
 
 
+Slowly Changing Dimensions (SCD)Type-2:
+
+https://dataops-dev.medium.com/slowly-changing-dimensions-scd-type-2-pyspark-implementation-in-2-4-53368f9e1b74
+
 Spark SQL:
 
 https://www.youtube.com/watch?v=y7Otu8MC_eM
@@ -258,11 +270,69 @@ https://www.youtube.com/watch?v=DBp2zG-YVxg
 
 https://www.youtube.com/watch?v=048wM8Npjbo
 
+
+Deep Dive into Apache Spark DateTime Functions
+
+https://medium.com/expedia-group-tech/deep-dive-into-apache-spark-datetime-functions-b66de737950a
+
+
+Window Functions:
+
+Deep dive into Apache Spark Window Functions
+
+https://medium.com/expedia-group-tech/deep-dive-into-apache-spark-window-functions-7b4e39ad3c86
+
+Deep Dive into Apache Spark Array Functions:
+
+https://medium.com/expedia-group-tech/deep-dive-into-apache-spark-array-functions-720b8fbfa729
+
+
+
+PySpark Syntax—5 Quick Tips
+
+https://medium.com/analytics-vidhya/pyspark-xp-syntax-f57a9e6a500f
+
+
 Apache Spark interview questions Set 2
 
 https://goraidebashree7.medium.com/apache-spark-interview-questions-set-2-b443e6bbf6b
 
 https://ashutosh-bitmesra.medium.com/55-spark-interview-questions-for-senior-developers-c3c86f9682b4
+
+
+
+*************Spark Structured Streaming****************
+
+Apache Spark Structured Streaming — First Streaming Example 
+
+https://medium.com/expedia-group-tech/apache-spark-structured-streaming-first-streaming-example-1-of-6-e8f3219748ef
+
+Apache Spark Structured Streaming — Input Sources (2 of 6)
+
+https://medium.com/expedia-group-tech/apache-spark-structured-streaming-input-sources-2-of-6-6a72f798838c
+
+Apache Spark Structured Streaming — Output Sinks (3 of 6)
+
+https://medium.com/expedia-group-tech/apache-spark-structured-streaming-output-sinks-3-of-6-ed3247545fbc
+
+
+Spark Structured Streaming:
+
+https://docs.databricks.com/spark/latest/structured-streaming/index.html
+
+
+
+*************SNOWFLAKE PYSPARK****************
+
+
+PySpark Snowflake Data Warehouse Read Write operations — Part1 (Read-Only)
+
+https://pub.towardsai.net/pyspark-snowflake-data-warehouse-read-write-operations-part1-read-only-3331d113635e
+
+PySpark Snowflake Data Warehouse Read Write operations — Part2 (Read-Write)
+
+https://pub.towardsai.net/pyspark-snowflake-data-warehouse-read-write-operations-part2-read-write-c129a1260f7f
+
 
 
 

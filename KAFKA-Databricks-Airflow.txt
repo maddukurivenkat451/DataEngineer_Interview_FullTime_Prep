@@ -30,6 +30,9 @@ Azure Logic Apps Tutorial:
 https://www.youtube.com/watch?v=ZvsOzji_8ow
 
 
+
+
+
 *************AIRFLOW*************
 
 Data Engineering 101 – Getting Started with Apache Airflow:
@@ -47,3 +50,18 @@ https://christo-lagali.medium.com/getting-airflow-up-and-running-on-an-ec2-insta
 Managed Apache Airflow on AWS — New AWS Service For Data Pipelines:
 
 https://towardsdatascience.com/managed-apache-airflow-on-aws-new-aws-service-for-data-pipelines-91908ee9e5fc
+
+
+### Airflow CLI Command List:
+https://airflow.apache.org/docs/apache-airflow/stable/cli-and-env-variables-ref.html
+
+
+
+
+
+
+
+
+
+
+
