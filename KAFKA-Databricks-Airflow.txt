@@ -10,6 +10,14 @@ Concepts To Focus:
 
 *************KAFKA****************
 
+Getting Started with Apache Kafka — Beginners Tutorial
+
+https://pub.towardsai.net/getting-started-with-apache-kafka-beginners-tutorial-d38e3634706c
+
+Pyspark Kafka Structured Streaming Data Pipeline
+
+https://pub.towardsai.net/pyspark-kafka-structured-streaming-data-pipeline-803095b7398a
+
 How to implement Change Data Capture using Kafka Streams
 
 https://www.freecodecamp.org/news/how-to-implement-the-change-data-capture-pattern-using-kafka-streams/

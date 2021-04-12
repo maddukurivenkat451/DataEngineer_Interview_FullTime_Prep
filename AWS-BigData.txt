@@ -12,6 +12,7 @@ Concepts To Focus:
 7) Kinesis
 8) AWS Step Functions
 9) AWS EMR
+10) Few AWS BLOGS
 
 ************AWS Basics************
 
@@ -28,6 +29,7 @@ https://solegaonkar.medium.com/data-analytics-on-aws-what-why-how-42531d386fec
 Data Analytics Lifecycle using AWS
 
 https://medium.com/analytics-vidhya/data-analytics-lifecycle-overview-aws-2bb73af90bad
+
 
 
 
@@ -53,6 +55,10 @@ Apache Spark with Amazon S3 Examples
 
 https://supergloo.com/spark/apache-spark-amazon-s3/
 
+
+PySpark AWS S3 Read Write Operations
+
+https://pub.towardsai.net/pyspark-aws-s3-read-write-operations-f473e5bee30f
 
 
 ********************** AWS GLUE**********************
@@ -166,6 +172,11 @@ https://medium.com/swlh/aws-step-functions-and-lambda-5a649d255a6
 Analyzing Big Data with Amazon EMR
 
 https://medium.com/analytics-vidhya/analyzing-big-data-with-amazon-emr-4cb0f2e845c5
+
+
+Building a Real Life Data Lake in AWS
+
+https://towardsdatascience.com/building-a-real-life-data-lake-in-aws-ee3bc9b8bba1
 
 
 Creating Data Lake & Discovering Your Data Using AWS Lake Formation Capabilities

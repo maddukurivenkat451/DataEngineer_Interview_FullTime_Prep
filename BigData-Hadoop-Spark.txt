@@ -278,6 +278,8 @@ Slowly Changing Dimensions (SCD)Type-2:
 
 https://dataops-dev.medium.com/slowly-changing-dimensions-scd-type-2-pyspark-implementation-in-2-4-53368f9e1b74
 
+
+
 Spark SQL:
 
 https://www.youtube.com/watch?v=y7Otu8MC_eM
@@ -324,6 +326,20 @@ Apache Spark Structured Streaming — Output Sinks (3 of 6)
 
 https://medium.com/expedia-group-tech/apache-spark-structured-streaming-output-sinks-3-of-6-ed3247545fbc
 
+Apache Spark Structured Streaming — Checkpoints and Triggers (4 of 6)
+
+https://medium.com/expedia-group-tech/apache-spark-structured-streaming-checkpoints-and-triggers-4-of-6-b6f15d5cfd8d
+
+
+Apache Spark Structured Streaming — Operations (5 of 6)
+
+https://medium.com/expedia-group-tech/apache-spark-structured-streaming-operations-5-of-6-40d907866fa7
+
+
+Apache Spark Structured Streaming — Watermarking (6 of 6)
+
+https://medium.com/expedia-group-tech/apache-spark-structured-streaming-watermarking-6-of-6-1187542d779f
+
 
 Spark Structured Streaming:
 
@@ -342,6 +358,10 @@ https://ashutosh-bitmesra.medium.com/55-spark-interview-questions-for-senior-dev
 Spark Interview Guide : Part 1: Spark Core
 
 https://nivedita-mondal.medium.com/spark-interview-guide-spark-core-2ab0f57304eb
+
+Spark Interview Guide : Part 2 : RDD
+
+https://nivedita-mondal.medium.com/spark-interview-guide-part-2-rdd-7911519e68c1
 
 Spark Interview Guide : Part 3 : Spark SQL & Dataframe
 
