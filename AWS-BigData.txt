@@ -146,6 +146,11 @@ https://www.youtube.com/watch?v=I7fPRkZkld0&list=PLLv1Hn1N3bRw7nU-vYEuBz_3z6thTb
 URLS:
 https://towardsdatascience.com/delivering-real-time-streaming-data-to-amazon-s3-using-amazon-kinesis-data-firehose-2cda5c4d1efe
 
+
+How to build a simple data lake using Amazon Kinesis Data Firehose and Amazon S3
+
+https://medium.com/dataseries/how-to-build-a-simple-data-lake-using-amazon-kinesis-data-firehose-and-amazon-s3-1a6a6887f441
+
 Spark Streaming & Real Time Analytics on AWS
 
 https://medium.com/swlh/spark-streaming-real-time-analytics-on-aws-59f731f36aa2
@@ -154,6 +159,8 @@ https://medium.com/swlh/spark-streaming-real-time-analytics-on-aws-59f731f36aa2
 Creating A Realtime Analytics & Event Processing System For Big Data Using Amazon Kinesis
 
 https://faun.pub/creating-a-realtime-analytics-event-processing-system-for-big-data-using-amazon-kinesis-756f5e5d1abf
+
+
 
 **********************AWS Step Functions**********************
 
