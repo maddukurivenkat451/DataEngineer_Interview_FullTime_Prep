@@ -18,6 +18,10 @@ Concepts To focus:
 
 
 
+Data Engineering Interview Prep Guide:(Brief!)
+
+https://medium.com/@m_mcclarty/data-engineering-interview-guide-7a14d10887dd
+
 
 ***************Data Warehouse***************
 

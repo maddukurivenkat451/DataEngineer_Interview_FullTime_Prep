@@ -148,6 +148,8 @@ https://hackersandslackers.com/series/learning-apache-spark/
 
 https://hackersandslackers.com/learning-to-use-apache-spark-pyspark/
 
+
+
 Apache Spark Architecture – How Spark works?
 
 https://www.data-stats.com/apache-spark-architecture-how-spark-works/
@@ -311,6 +313,14 @@ PySpark Syntax—5 Quick Tips
 https://medium.com/analytics-vidhya/pyspark-xp-syntax-f57a9e6a500f
 
 
+Too Small Data — Solving Small Files issue using Spark
+
+https://sauravagarwaldigital.medium.com/too-small-data-solving-small-files-issue-using-spark-b7ef66827a24
+
+
+Integrating Pyspark with Pycharm + Pytest:
+
+https://awainerc.medium.com/integrating-pyspark-with-pycharm-pytest-f1234356c9a6
 
 *************Spark Structured Streaming****************
 
@@ -344,6 +354,7 @@ https://medium.com/expedia-group-tech/apache-spark-structured-streaming-watermar
 Spark Structured Streaming:
 
 https://docs.databricks.com/spark/latest/structured-streaming/index.html
+
 
 
 

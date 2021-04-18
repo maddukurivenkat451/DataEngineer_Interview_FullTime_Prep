@@ -30,3 +30,9 @@ https://medium.com/globant/the-4-steps-program-to-get-the-aws-data-analytics-cer
 Databricks Certified Associate Developer for Apache Spark 3.0- Preparation Tips, Info & Clarifications
 
 https://medium.com/@sriramn84_34423/crack-databricks-certified-associate-developer-for-apache-spark-3-0-cf4cb89df61d
+
+
+
+50 Data Engineer Interview Questions to Help You Prepare
+
+https://www.indeed.com/career-advice/interviewing/data-engineer-interview-questions
