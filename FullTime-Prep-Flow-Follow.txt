@@ -1,12 +1,14 @@
-Full Time Preparation Flow to Follow:
+*******Full Time Preparation Flow to Follow STEP-BY-STEP******************
 
-1) Data Engineer-DataWarehouse-Python-SQL
+1) DataWarehouse-ETL-Concepts
 
-2) BigData-Hadoop-Spark
+2) Python-SQL-Coding
 
-3) AWS-BigData
+3) BigData-Hadoop-Spark
+	
+4) AWS-BigData
 
-4) KAFKA-Databricks-Airflow
+5) KAFKA-Databricks-Airflow
 
 
 
@@ -36,3 +38,9 @@ https://medium.com/@sriramn84_34423/crack-databricks-certified-associate-develop
 50 Data Engineer Interview Questions to Help You Prepare
 
 https://www.indeed.com/career-advice/interviewing/data-engineer-interview-questions
+
+
+How to Crack the Data Engineer Interview at Facebook
+
+
+https://palakdatascientist.medium.com/how-to-crack-the-data-engineer-interview-at-facebook-7e16ae65e0be
