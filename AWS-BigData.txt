@@ -9,10 +9,10 @@ Concepts To Focus:
 4) AWS GLUE
 5) Athena & Lambda
 6) AWS LAMBDA
-7) Kinesis
+7) AWS Kinesis
 8) AWS Step Functions
 9) AWS EMR
-10) Few AWS BLOGS
+10) AWS BLOGS
 
 ************AWS Basics************
 
@@ -51,6 +51,11 @@ How to access S3 data from Spark
 
 https://blog.insightdatascience.com/how-to-access-s3-data-from-spark-74e40e0b2231
 
+
+How to read parquet data from S3 using the S3A protocol and temporary credentials in PySpark
+
+https://medium.com/@bogdan.cojocar/how-to-read-parquet-data-from-s3-using-the-s3a-protocol-and-temporary-credentials-in-pyspark-f94071bf8c6a
+
 Apache Spark with Amazon S3 Examples
 
 https://supergloo.com/spark/apache-spark-amazon-s3/
@@ -59,6 +64,8 @@ https://supergloo.com/spark/apache-spark-amazon-s3/
 PySpark AWS S3 Read Write Operations
 
 https://pub.towardsai.net/pyspark-aws-s3-read-write-operations-f473e5bee30f
+
+
 
 
 ********************** AWS GLUE**********************
@@ -131,7 +138,22 @@ AWS Read CSV file data from S3 via Lambda function and insert into MySQL
 https://www.youtube.com/watch?v=ozbsi3AVcZY
 
 
-**********************Kinesis**********************
+14 Use Cases for AWS Lambda: How to Make the Most of It
+
+https://medium.com/techmagic/14-use-cases-for-aws-lambda-how-to-make-the-most-of-it-45c6f02144df
+
+
+How to trigger a spark job from AWS Lambda
+
+https://www.startdataengineering.com/post/trigger-emr-spark-job-from-lambda/
+
+How to Pull Data from an API, Using AWS Lambda
+
+https://www.youtube.com/watch?v=iiIcS4FlX0M
+
+https://www.startdataengineering.com/post/pull-data-from-api-using-lambda-s3/
+
+**********************AWS Kinesis**********************
 
 Kinesis Data Stream & Data Analytics Tutorial | AWS Kinesis Tutorial | Kinesis Stream Introduction
 
@@ -145,6 +167,11 @@ https://www.youtube.com/watch?v=I7fPRkZkld0&list=PLLv1Hn1N3bRw7nU-vYEuBz_3z6thTb
 
 URLS:
 https://towardsdatascience.com/delivering-real-time-streaming-data-to-amazon-s3-using-amazon-kinesis-data-firehose-2cda5c4d1efe
+
+
+How to run a real-time pipeline in AWS Kinesis using PySpark Structured Streaming
+
+https://towardsdatascience.com/how-to-run-a-real-time-pipeline-in-aws-kinesis-using-pyspark-structured-streaming-1b6bc5e6edc9
 
 
 How to build a simple data lake using Amazon Kinesis Data Firehose and Amazon S3
@@ -181,6 +208,9 @@ Analyzing Big Data with Amazon EMR
 https://medium.com/analytics-vidhya/analyzing-big-data-with-amazon-emr-4cb0f2e845c5
 
 
+
+************ AWS BLOGS ************
+
 Building a Real Life Data Lake in AWS
 
 https://towardsdatascience.com/building-a-real-life-data-lake-in-aws-ee3bc9b8bba1
@@ -204,6 +234,11 @@ https://medium.com/analytics-vidhya/analysing-census-data-using-aws-5ce13167994c
 Document Understanding Solution Using AWS
 
 https://adit-modi24.medium.com/document-understanding-solution-using-aws-5801292c58ab
+
+
+Serverless Architecture Patterns in AWS
+
+https://waswani.medium.com/serverless-architecture-patterns-in-aws-edeab0e46a32
 
 
 How does AWS CodeBuild & AWS CodePipeline Compare?

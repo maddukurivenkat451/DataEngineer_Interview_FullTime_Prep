@@ -1,4 +1,4 @@
-*******Full Time Preparation Flow to Follow STEP-BY-STEP******************
+*******Data Engineer Full Time Preparation Flow to Follow STEP-BY-STEP******************
 
 1) DataWarehouse-ETL-Concepts
 
@@ -10,6 +10,12 @@
 
 5) KAFKA-Databricks-Airflow
 
+
+
+
+Start Data Engineering
+
+https://www.startdataengineering.com/
 
 
 *****************CERTIFICATION*****************
@@ -35,6 +41,10 @@ https://medium.com/@sriramn84_34423/crack-databricks-certified-associate-develop
 
 
 
+
+
+*****************INTERVIEW TIPS*****************
+
 50 Data Engineer Interview Questions to Help You Prepare
 
 https://www.indeed.com/career-advice/interviewing/data-engineer-interview-questions
@@ -44,3 +54,8 @@ How to Crack the Data Engineer Interview at Facebook
 
 
 https://palakdatascientist.medium.com/how-to-crack-the-data-engineer-interview-at-facebook-7e16ae65e0be
+
+
+Watch a technical mock interview with an Airbnb engineer:
+
+https://interviewing.io/recordings/Python-Airbnb-4/

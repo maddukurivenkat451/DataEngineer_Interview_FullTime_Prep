@@ -6,7 +6,7 @@
 ***************Data warehousing*****************
 Concepts To focus:
 
-1)Data Warehouse Architecture
+1)Data Modelling- Data Warehouse Architecture
 2)dataframe opertaions
 3)database design -ER Diagram
 4)concepts like entity relationship diagram
@@ -22,7 +22,21 @@ Data Engineering Interview Prep Guide:(Brief!)
 https://medium.com/@m_mcclarty/data-engineering-interview-guide-7a14d10887dd
 
 
-***************Data Warehouse***************
+Responsibilities of a Data Engineer
+
+https://www.startdataengineering.com/post/n-job-reponsibilities-of-a-data-engineer/
+
+
+Skills to Ace Your Data Engineering Interview
+
+https://www.startdataengineering.com/post/10-skills-to-ace-your-data-engineering-interview/
+
+
+How to gather requirements to re-engineer a legacy data pipeline
+
+https://www.startdataengineering.com/post/how-to-gather-requirements-reengineering-data-pipeline/
+
+***************Data Modelling - Data Warehouse***************
 
 Data Warehouse Architecture: 
 https://www.javatpoint.com/data-warehouse-architecture
@@ -114,4 +128,13 @@ Slowly changing dimensions explained with real examples
 https://www.youtube.com/watch?v=XqdZF0DJpUs
 
 https://medium.com/@atriadplt/slowly-changing-dimension-whats-that-8ebf7cfef113
+
+How to Join a fact and a type 2 dimension (SCD2) table
+
+https://www.startdataengineering.com/post/how-to-join-fact-scd2-tables/
+
+
+*************** Master Window Functions ***************
+
+https://www.startdataengineering.com/post/6-concepts-to-clearly-understand-window-functions/
 
