@@ -30,6 +30,11 @@ https://www.youtube.com/watch?v=CmorAWRsCAw&list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnoz
 
 python data structures
 
+
+Data Engineering Cheat Sheet
+
+https://shahinrahbariasl.medium.com/data-engineering-cheat-sheet-28c653859da0
+
 Design patterns:
 
 https://codeburst.io/design-patterns-101-9fe18d5a1bd9

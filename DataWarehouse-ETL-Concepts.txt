@@ -61,6 +61,11 @@ OLTP vs OLAP: Difference Between OLTP and OLAP:
 
 https://www.guru99.com/oltp-vs-olap.html
 
+
+What is OLAP? Cube, Operations & Types in Data Warehouse
+
+https://www.guru99.com/online-analytical-processing.html
+
 How did we build a Data Warehouse in six months?
 
 https://medium.com/everoad/building-a-data-warehouse-in-six-months-what-did-we-learn-e058e42446f1
@@ -69,6 +74,14 @@ https://medium.com/everoad/building-a-data-warehouse-in-six-months-what-did-we-l
 
 https://www.guru99.com/dimensional-model-data-warehouse.html
 
+
+What to do with a Late Arriving Dimension or Early Arriving Facts
+
+https://www.matillion.com/resources/blog/what-to-do-with-a-late-arriving-dimension-or-early-arriving-facts
+
+Early Arriving Facts / Late Arriving Dimensions
+
+https://www.leapfrogbi.com/early-arriving-facts-late-arriving-dimensions/
 
 ***************ER diagram***************
 
