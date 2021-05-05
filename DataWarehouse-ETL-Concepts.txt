@@ -7,7 +7,7 @@
 Concepts To focus:
 
 1)Data Modelling- Data Warehouse Architecture
-2)dataframe opertaions
+2)Dimension Modelling
 3)database design -ER Diagram
 4)concepts like entity relationship diagram
 5)deisgn star schema etc
