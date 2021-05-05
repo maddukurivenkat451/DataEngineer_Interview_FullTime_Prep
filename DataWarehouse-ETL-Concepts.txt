@@ -39,36 +39,19 @@ https://www.startdataengineering.com/post/how-to-gather-requirements-reengineeri
 ***************Data Modelling - Data Warehouse***************
 
 Data Warehouse Architecture: 
+
 https://www.javatpoint.com/data-warehouse-architecture
-
-Guide to Data Warehousing:
-
-https://towardsdatascience.com/guide-to-data-warehousing-6fdcf30b6fbe
-
-Cloud Data Warehouse vs Traditional Data Warehouse Concepts:
-
-https://panoply.io/data-warehouse-guide/data-warehouse-concepts-traditional-vs-cloud/
-
-Data Warehousing and ETLs:
-
-https://medium.com/engineering-housing/data-warehousing-and-etls-3f5d048eaba
-
-Explain By Example: OLTP vs. OLAP
-
-https://medium.com/@michelle.xie/explain-by-example-oltp-vs-olap-d5603ac2038b
-
-OLTP vs OLAP: Difference Between OLTP and OLAP:
-
-https://www.guru99.com/oltp-vs-olap.html
 
 
 What is OLAP? Cube, Operations & Types in Data Warehouse
 
 https://www.guru99.com/online-analytical-processing.html
 
-How did we build a Data Warehouse in six months?
 
-https://medium.com/everoad/building-a-data-warehouse-in-six-months-what-did-we-learn-e058e42446f1
+OLTP vs OLAP: Difference Between OLTP and OLAP:
+
+https://www.guru99.com/oltp-vs-olap.html
+
 
 ***************Dimension modelling***************
 
@@ -82,6 +65,7 @@ https://www.matillion.com/resources/blog/what-to-do-with-a-late-arriving-dimensi
 Early Arriving Facts / Late Arriving Dimensions
 
 https://www.leapfrogbi.com/early-arriving-facts-late-arriving-dimensions/
+
 
 ***************ER diagram***************
 
