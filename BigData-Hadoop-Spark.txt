@@ -413,3 +413,20 @@ Data Lakehouse: Building the Next Generation of Data Lakes using Apache Hudi:
 https://medium.com/slalom-build/data-lakehouse-building-the-next-generation-of-data-lakes-using-apache-hudi-41550f62f5f
 
 
+*************PYTEST-PYSPARK*************
+
+Unit Testing in Python with pytest 
+
+https://www.youtube.com/watch?v=L6N3BgZh2AA
+
+Introduction to Unit Testing with PySpark.
+
+https://www.confessionsofadataguy.com/introduction-to-unit-testing-with-pyspark/
+
+Testing PySpark Code
+
+https://mungingdata.com/pyspark/testing-pytest-chispa/
+
+How to unittest PySpark applications
+
+https://www.knowru.com/blog/how-unittest-pyspark-applications/

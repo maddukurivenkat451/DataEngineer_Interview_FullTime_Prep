@@ -129,6 +129,16 @@ https://www.youtube.com/watch?v=7HXjzrE8VWk&pbjreload=101
 
 https://www.youtube.com/watch?v=CgY2uxQPflY&list=PL5KTLzN85O4KO0qEeUVvwTTcHFsdE6Dhx
 
+
+What Is Serverless AWS Lambda and How to Use It
+
+https://pub.towardsai.net/what-is-serverless-aws-lambda-and-how-to-use-it-2c69672c0161
+
+
+Build AWS Serverless Application
+
+https://mjpereira.medium.com/aws-serverless-application-model-7e2ebc18350f
+
 AWS Lambda function | Copy files from one S3 bucket to another S3 bucket as soon as uploaded
 
 https://www.youtube.com/watch?v=edqL5Rcf3ws
@@ -207,6 +217,32 @@ Analyzing Big Data with Amazon EMR
 
 https://medium.com/analytics-vidhya/analyzing-big-data-with-amazon-emr-4cb0f2e845c5
 
+Amazon EMR introduces EMR runtime for Presto, providing a 2.6 times speedup
+
+https://aws.amazon.com/blogs/big-data/amazon-emr-introduces-emr-runtime-for-prestodb-which-provides-a-2-6-times-speedup/
+
+
+************AWS CI\CD****************
+
+How to create a AWS Code Pipeline using AWS Code Commit , Code Build and Code Deploy
+
+https://medium.com/beeranddiapers/how-to-create-a-aws-code-pipeline-using-aws-code-commit-code-build-and-code-deploy-8c555a6401fc
+
+CI/CD in AWS — Intro — A pipeline with CodeBuild and CodeDeploy
+
+https://medium.com/@elmanhasa/ci-cd-in-aws-a-pipeline-with-codebuild-and-codedeploy-226b70574f83
+
+CI/CD in AWS — Continuous Integration with CodeBuild
+
+https://medium.com/@elmanhasa/ci-cd-in-aws-continuous-integration-with-codebuild-30c0dcefb7a3
+
+CI/CD in AWS — Configure Auto Scaling for CodeDeploy
+
+https://medium.com/@elmanhasa/ci-cd-in-aws-configure-auto-scaling-for-codedeploy-28063b9e714
+
+CI/CD in AWS — Continuous Deployment with CodeDeploy
+
+https://medium.com/@elmanhasa/ci-cd-in-aws-continuous-deployment-with-codedeploy-5c3d5f554d4f
 
 
 ************ AWS BLOGS ************
@@ -238,14 +274,4 @@ https://adit-modi24.medium.com/document-understanding-solution-using-aws-5801292
 
 Serverless Architecture Patterns in AWS
 
-https://waswani.medium.com/serverless-architecture-patterns-in-aws-edeab0e46a32
-
-
-How does AWS CodeBuild & AWS CodePipeline Compare?
-
-https://medium.com/analytics-vidhya/how-does-aws-codebuild-aws-codepipeline-compare-4ec2ee05f467
-
-
-Build ETL Pipeline With PySpark on AWS EC2 (1) — Setup PySpark Environment
-
-https://medium.com/swlh/build-et-pipeline-with-pyspark-on-aws-ec2-1-setup-pyspark-environment-ff17d7f5544f
+https://waswani.medium.com/serverless-ar
