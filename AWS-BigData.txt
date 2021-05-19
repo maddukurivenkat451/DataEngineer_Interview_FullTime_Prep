@@ -12,7 +12,8 @@ Concepts To Focus:
 7) AWS Kinesis
 8) AWS Step Functions
 9) AWS EMR
-10) AWS BLOGS
+10) AWS CI\CD
+11) AWS BLOGS
 
 ************AWS Basics************
 
@@ -215,11 +216,21 @@ https://medium.com/swlh/aws-step-functions-and-lambda-5a649d255a6
 
 Analyzing Big Data with Amazon EMR
 
-https://medium.com/analytics-vidhya/analyzing-big-data-with-amazon-emr-4cb0f2e845c5
+
+https://dimensionless.in/analyzing-big-data-with-spark-and-amazon-emr/
 
 Amazon EMR introduces EMR runtime for Presto, providing a 2.6 times speedup
 
 https://aws.amazon.com/blogs/big-data/amazon-emr-introduces-emr-runtime-for-prestodb-which-provides-a-2-6-times-speedup/
+
+
+EMR EC2 Supported Instance Types:
+
+https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-supported-instance-types.html
+
+Supported Amazon EC2 Instances for Amazon EMR Clusters
+
+https://docs.aws.amazon.com/datapipeline/latest/DeveloperGuide/dp-emr-supported-instance-types.html
 
 
 ************AWS CI\CD****************

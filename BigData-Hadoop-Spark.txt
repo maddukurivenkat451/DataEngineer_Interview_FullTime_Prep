@@ -383,6 +383,17 @@ https://nivedita-mondal.medium.com/spark-interview-guide-part-3-spark-sql-datafr
 *************SNOWFLAKE PYSPARK****************
 
 
+Snowflake Architecture - Learn How Snowflake Stores Table data
+
+https://www.youtube.com/watch?v=dxrEHqMFUWI
+
+
+SNOWFLAKE DATAWAREHOUSE
+
+https://www.youtube.com/watch?v=WkXybqZ3GyA&list=PL3GCZkoyKK4ehbIEFG54P4NYG30rIIyRd&index=2
+
+https://www.youtube.com/watch?v=KG58ixkU2Es&list=PL3GCZkoyKK4ehbIEFG54P4NYG30rIIyRd&index=3
+
 PySpark Snowflake Data Warehouse Read Write operations — Part1 (Read-Only)
 
 https://pub.towardsai.net/pyspark-snowflake-data-warehouse-read-write-operations-part1-read-only-3331d113635e

@@ -1,0 +1,199 @@
+####################################################
+##########Bigdata -AWS Interview questions:###########
+#########################################################
+
+
+********* BIG DATA ****************
+
+
+What Is Lambda Architecture?
+
+Data Challenges in Big Data
+
+Why do we need Hadoop?
+
+What are the steps involved in deploying a big data solution?
+
+What do you understand by edge nodes in Hadoop?
+
+https://svrtechnologies.com/top-50-hadoop-interview-questions-and-answers-pdf/
+
+********* HDFS ****************
+
+HDFS Architecture
+
+
+HDFS COMMANDS
+
+Difference between Local FS vs HDFS
+
+Default block size of a file in HDFS
+
+How can you overwrite the replication factors in HDFS?
+
+What happens to a NameNode that has no data?
+
+What is a checkpoint?
+
+What happens when a Data node fails?
+
+What happens when a Name node fails?
+
+How will you resolve the NameNode failure issue?
+
+What is HDFS High Availability?
+
+
+********* YARN ****************
+
+What is YARN and explain its components?
+
+
+********* SQOOP ***************
+
+
+What is Sqoop Metastore? Explain it?
+
+What file formats does Sqoop support while importing the data?
+
+Can we control the number of mappers in sqoop? If yes, How?
+
+What is Sqoop-merge and explain its use?
+
+What is the split-by clause, and when do we use it?
+
+What is sqoop eval?
+
+What is boundary query in sqoop?
+
+Sqoop Blob and clob columns
+
+Sqoop Incremental data
+
+By Default how many mappers will sqoop import have?
+
+##########
+--boundary-query During sqoop import process, it uses this query to calculate the boundary for creating splits: select min(), max() from table_name.
+
+********* Hive ***************
+
+Hive Architecture
+
+Hive metastore
+
+Defalut hive warehouse directory or location?
+
+Mention what are the different types of tables available in Hive? Explain?
+
+Difference between Hive Partition vs Bucketing? When to use partition or Bucketing
+
+Difference between Static vs Dynamic partition
+
+Hive performance tuning?
+
+Hive File formats(Avro, Parquet, ORC)
+
+Difference between AVRO vs Parquet vs ORC? When to use which one ?
+
+Parquet comes with snappy compression what is the use of it?
+
+Hive Map side join vs reduce side join?
+
+What is Hive on TEZ?
+
+Hive different types of joins(Left, right, Inner, Left anti, Left semi)
+
+What is Sort merge Bucket join in Hive?
+
+Hive window analytical functions(Row_numer, Rank, Dense_rank, Lead, Lag)
+
+How can you handle Incremental updates in Hive? Explain the process
+
+Hive small files issue what happen and how did you solve them?
+
+********* Spark ***************
+
+Explain about Spark Architecture?
+
+What are benefits of Spark over MapReduce?
+
+Explain spark flow when a job is submitted(i.e., explain spark architecture regarding driver manager,cluster manager ,executors ,DAG,execution plan etc flow)
+
+
+How are stages split into tasks in Spark?
+
+How many tasks does an executor Spark have?
+
+what are the spark job and spark task and spark staging?
+
+How Spark Internally Executes a Program?
+
+What are different deployment modes in spark (cluster mode and client mode) and how are different?
+
+
+RDD:
+
+What is RDD?
+
+What are the main operations of RDD?
+
+Define Transformations in Spark?
+
+What are the Actions in Spark?
+
+Narrow vs wide transformation in spark ?expamples and explain?
+
+Difference between Map vs flatmap?
+
+Difference between map() and mapPartitions() function in Spark?
+
+Define RDD Lineage?
+
+Difference between cache vs persist()
+
+What are the different levels of persistence in Spark?
+
+
+DataFrame:
+
+What is Dataframe?
+
+What are broadcast variables?
+
+Difference between RDD and Dataframe?
+
+Difference between Coalesce vs repartition? Adavantage and Disadvantages?
+
+Difference between Groupby key vs Reduceby key?
+
+Difference between Cluster mode vs client mode?
+
+When should we use DataFrames or Datasets?
+
+maxRecordsPerFile in spark?
+
+Apache Spark Limitations?
+
+DATA SKEWNESS IN SPARK?
+
+How do I stop spark shuffling data?
+
+Broadcast Join?
+
+Shuffle join in Spark SQL?
+
+Shuffle partitions in Spark?
+
+Sort -Merge Join in Spark?
+
+Hash Partitioning in Spark?
+
+Spark Performance tuning or optimization techniques?
+
+Memory Management in Spark?
+
+
+***********Spark Streaming **************
+
+What is window and sliding interval in spark streaming?
+

@@ -73,12 +73,16 @@ Airflow CLI Command List:
 https://airflow.apache.org/docs/apache-airflow/stable/cli-and-env-variables-ref.html
 
 
+Dagster
 
+*************Dagster*************
 
+Moving past Airflow: Why Dagster is the next-generation data orchestrator
 
+https://medium.com/dagster-io/moving-past-airflow-why-dagster-is-the-next-generation-data-orchestrator-e5d297447189
 
+Testing and Deploying PySpark Jobs with Dagster
 
-
-
+https://medium.com/dagster-io/testing-and-deploying-pyspark-jobs-with-dagster-8f4afefc7287
 
 

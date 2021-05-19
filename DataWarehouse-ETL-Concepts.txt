@@ -13,6 +13,8 @@ Concepts To focus:
 5)deisgn star schema etc
 6)given a table, create entity relationship , for example 
 7)normalization
+8)Data Reconciliation
+9)Slowly Changing Dimension
 
 
 
