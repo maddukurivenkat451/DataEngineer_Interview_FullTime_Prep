@@ -9,6 +9,12 @@ Concepts To focus:
 2)Data Structures
 3)SQL Leetcode Practise
 
+
+CODING TIPS:
+
+https://youtu.be/K_oJLQx2ySY
+
+
 ******************PYTHON**************************
 
 Python Programming Examples
@@ -42,6 +48,17 @@ https://codeburst.io/design-patterns-101-9fe18d5a1bd9
 Data Structures & Algorithms:
 
 https://www.youtube.com/watch?v=_t2GVaQasRY&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12
+
+
+Algoexpert (Problem Solving)
+
+https://mega.nz/folder/WEVGkRpB#piUgI_XI5q8qyomyQEajjA
+
+
+Python Interview Questions:
+
+https://www.youtube.com/playlist?list=PLFV6T8f5WU2FRO_Hu7q9b18yB1P98NSZd
+
 
 
 *************SQL************

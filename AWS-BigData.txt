@@ -232,6 +232,10 @@ Supported Amazon EC2 Instances for Amazon EMR Clusters
 
 https://docs.aws.amazon.com/datapipeline/latest/DeveloperGuide/dp-emr-supported-instance-types.html
 
+Amazon EMR supports Apache Hive ACID transactions
+
+https://aws.amazon.com/blogs/big-data/amazon-emr-supports-apache-hive-acid-transactions/
+
 
 ************AWS CI\CD****************
 

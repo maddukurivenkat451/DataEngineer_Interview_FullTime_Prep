@@ -1,6 +1,6 @@
-####################################################
-##########Bigdata -AWS Interview questions:###########
-#########################################################
+####################################################################
+##########Bigdata: HADOOP -SPARK-KAFKA Interview questions:#########
+#################################################################
 
 
 ********* BIG DATA ****************
@@ -11,6 +11,8 @@ What Is Lambda Architecture?
 Data Challenges in Big Data
 
 Why do we need Hadoop?
+
+Why do we need NIgdata?
 
 What are the steps involved in deploying a big data solution?
 
@@ -72,6 +74,18 @@ Sqoop Incremental data
 
 By Default how many mappers will sqoop import have?
 
+Volume of data you handeled in sqoop on daily basis, Weeklybasis, Monthly basis?
+
+Is your tables from RDBMS to hadoop if full load or Incremental? 
+
+if full load volume of data whay you are doing full load for  those tables?
+
+If you are handling Incremental how are you doing and volume of data you are loading in to hive tables?
+
+Why do we need sqoop? Why not spark?
+
+What issues you have faced while doing sqoop import? Explain?
+
 ##########
 --boundary-query During sqoop import process, it uses this query to calculate the boundary for creating splits: select min(), max() from table_name.
 
@@ -83,7 +97,7 @@ Hive metastore
 
 Defalut hive warehouse directory or location?
 
-Mention what are the different types of tables available in Hive? Explain?
+Mention what are the different types of tables (External bs Mangaged)available in Hive? Explain?
 
 Difference between Hive Partition vs Bucketing? When to use partition or Bucketing
 
@@ -113,12 +127,17 @@ Hive small files issue what happen and how did you solve them?
 
 ********* Spark ***************
 
+
+https://www.knowledgehut.com/interview-questions/spark
+
+
 Explain about Spark Architecture?
 
 What are benefits of Spark over MapReduce?
 
-Explain spark flow when a job is submitted(i.e., explain spark architecture regarding driver manager,cluster manager ,executors ,DAG,execution plan etc flow)
+What is an Executor in spark and how it supports to perform operation on volume of data?
 
+Explain spark flow when a job is submitted(i.e., explain spark architecture regarding driver manager,cluster manager ,executors ,DAG,execution plan etc flow)
 
 How are stages split into tasks in Spark?
 
@@ -130,6 +149,7 @@ How Spark Internally Executes a Program?
 
 What are different deployment modes in spark (cluster mode and client mode) and how are different?
 
+What is spark SQL Warehouse Dir?
 
 RDD:
 
@@ -192,8 +212,13 @@ Spark Performance tuning or optimization techniques?
 
 Memory Management in Spark?
 
+How did you handle CDC change data capture in SPARK?
 
 ***********Spark Streaming **************
 
 What is window and sliding interval in spark streaming?
 
+
+***********Kafka**************
+
+https://www.zeolearn.com/interview-questions/kafka

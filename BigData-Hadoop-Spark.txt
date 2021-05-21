@@ -59,6 +59,10 @@ Sqoop Cheat cheet:
 
 https://www.janbasktraining.com/blog/sqoop-commands-cheat-sheet/
 
+Sqoop Process:
+
+https://towardsdatascience.com/apache-sqoop-1113ce453639
+
 Apache Sqoop : Incremental import with sqoop-job 
 
 https://medium.com/@nitingupta.bciit/apache-sqoop-incremental-import-with-sqoop-job-949b60e1101a
@@ -124,6 +128,12 @@ Using Hive ACID Transactions to Insert, Update and Delete Data:
 
 https://www.cloudera.com/tutorials/using-hive-acid-transactions-to-insert-update-and-delete-data.html 
 
+
+Hive ACID Properties:
+
+https://blog.clairvoyantsoft.com/hive-acid-transactions-part-i-f08da70b591b
+
+https://blog.clairvoyantsoft.com/hive-acid-transactions-part-ii-6f5e478bbff
 
 ************SPARK SPARK SPARK***********
 
@@ -213,13 +223,15 @@ Optimizing the data reads in Spark: Part 1
 https://dataops-dev.medium.com/optimizing-the-data-reads-in-spark-part-1-pyspark-2-4-4f7206438b77
 
 
-Demystifying Joins in Apache Spark:
+Demystifying Joins in Apache Spark: The art of joining in Spark:
 
 https://www.data-stats.com/joins-in-pyspark/
 
 https://sparkbyexamples.com/pyspark/pyspark-join-explained-with-examples/
 
 https://towardsdatascience.com/demystifying-joins-in-apache-spark-38589701a88e\
+
+https://towardsdatascience.com/the-art-of-joining-in-spark-dcbd33d693c
 
 
 
@@ -379,49 +391,10 @@ Spark Interview Guide : Part 3 : Spark SQL & Dataframe
 https://nivedita-mondal.medium.com/spark-interview-guide-part-3-spark-sql-dataframe-12f04f168d6b
 
 
-
-*************SNOWFLAKE PYSPARK****************
-
-
-Snowflake Architecture - Learn How Snowflake Stores Table data
-
-https://www.youtube.com/watch?v=dxrEHqMFUWI
+https://medium.com/cloudzone/apache-spark-3-0-review-what-the-spark-is-all-about-998844e12b3c
 
 
-SNOWFLAKE DATAWAREHOUSE
-
-https://www.youtube.com/watch?v=WkXybqZ3GyA&list=PL3GCZkoyKK4ehbIEFG54P4NYG30rIIyRd&index=2
-
-https://www.youtube.com/watch?v=KG58ixkU2Es&list=PL3GCZkoyKK4ehbIEFG54P4NYG30rIIyRd&index=3
-
-PySpark Snowflake Data Warehouse Read Write operations — Part1 (Read-Only)
-
-https://pub.towardsai.net/pyspark-snowflake-data-warehouse-read-write-operations-part1-read-only-3331d113635e
-
-PySpark Snowflake Data Warehouse Read Write operations — Part2 (Read-Write)
-
-https://pub.towardsai.net/pyspark-snowflake-data-warehouse-read-write-operations-part2-read-write-c129a1260f7f
-
-
-
-
-*************Delta Lake****************
-
-Introduction to Delta Lake:
-
-https://www.data-stats.com/introduction-to-delta-lake/
-
-Apache HUDI vs Delta Lake:
-
-https://medium.com/swlh/apache-hudi-vs-delta-lake-295c019fe3c5
-
-Migrating from Hive to Delta Lake + Hive in Hybrid Cloud Environment:
-
-https://medium.com/amobee-engineering/migrating-from-hive-to-delta-lake-hive-in-hybrid-cloud-environment-38269ed45632
-
-Data Lakehouse: Building the Next Generation of Data Lakes using Apache Hudi:
-
-https://medium.com/slalom-build/data-lakehouse-building-the-next-generation-of-data-lakes-using-apache-hudi-41550f62f5f
+https://www.knowledgehut.com/interview-questions/spark
 
 
 *************PYTEST-PYSPARK*************
