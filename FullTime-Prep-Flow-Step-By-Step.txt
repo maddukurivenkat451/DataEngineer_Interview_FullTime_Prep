@@ -40,10 +40,16 @@ Databricks Certified Associate Developer for Apache Spark 3.0- Preparation Tips,
 https://medium.com/@sriramn84_34423/crack-databricks-certified-associate-developer-for-apache-spark-3-0-cf4cb89df61d
 
 
+Study guide for clearing “Databricks Certified Associate Developer for Apache Spark 3.0” exam (python)
 
-
+https://shrutibhawsar94.medium.com/study-guide-for-clearing-databricks-certified-associate-developer-for-apache-spark-3-0-69377dba0107
 
 *****************INTERVIEW TIPS*****************
+
+
+Preparing For AWS Interview Questions
+
+https://neal-davis.medium.com/preparing-for-aws-interview-questions-ac493da5f60a
 
 50 Data Engineer Interview Questions to Help You Prepare
 

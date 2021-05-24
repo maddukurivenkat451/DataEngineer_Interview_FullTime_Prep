@@ -218,6 +218,10 @@ Spark Optimization Techniques — Broad Cast Join
 https://vamsi-krish601.medium.com/spark-optimization-techniques-broad-cast-join-6838baf68e45
 
 
+SPARK 3.0 : Enhancements and Optimization
+
+https://medium.com/xebia-engineering/spark-3-0-enhancements-and-optimization-94a1cda8f1b1
+
 Optimizing the data reads in Spark: Part 1
 
 https://dataops-dev.medium.com/optimizing-the-data-reads-in-spark-part-1-pyspark-2-4-4f7206438b77
@@ -330,9 +334,8 @@ Too Small Data — Solving Small Files issue using Spark
 https://sauravagarwaldigital.medium.com/too-small-data-solving-small-files-issue-using-spark-b7ef66827a24
 
 
-Integrating Pyspark with Pycharm + Pytest:
 
-https://awainerc.medium.com/integrating-pyspark-with-pycharm-pytest-f1234356c9a6
+
 
 *************Spark Structured Streaming****************
 
@@ -397,6 +400,11 @@ https://medium.com/cloudzone/apache-spark-3-0-review-what-the-spark-is-all-about
 https://www.knowledgehut.com/interview-questions/spark
 
 
+Don’t use union in Spark when merging DataFrames — The story of null values when using union
+
+https://medium.com/@danielschruhl/dont-use-union-in-spark-when-merging-dataframes-the-story-of-null-values-when-using-union-1913dbe6feb8
+
+
 *************PYTEST-PYSPARK*************
 
 Unit Testing in Python with pytest 
@@ -414,3 +422,7 @@ https://mungingdata.com/pyspark/testing-pytest-chispa/
 How to unittest PySpark applications
 
 https://www.knowru.com/blog/how-unittest-pyspark-applications/
+
+Integrating Pyspark with Pycharm + Pytest:
+
+https://awainerc.medium.com/integrating-pyspark-with-pycharm-pytest-f1234356c9a6

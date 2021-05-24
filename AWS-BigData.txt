@@ -41,6 +41,15 @@ AWS S3 Tutorial For Beginners| Introduction to Amazon S3|AWS S3 Bucket Tutorial|
 https://www.youtube.com/watch?v=Cij5_4yLHLA
 
 
+Explanation of The S3 Consistency Model
+
+https://medium.com/analytics-vidhya/explanation-of-the-s3-consistency-model-82720b581b2e
+
+What does s3 Data Consistency mean?
+
+https://twwip.com/2019/11/29/what-does-s3-data-consistency-mean/amp/
+
+
 ************AWS PYSPARK****************
 
 Building Apache Spark 3.x to support S3 / GCS
@@ -81,9 +90,7 @@ Trigger AWS Glue Crawler from Lambda | Event Trigger of Glue Crawlers | AWS Glue
 
 https://www.youtube.com/watch?v=6f1FccQXZ18
 
-What is AWS Lambda? Lambda Function with Examples
 
-https://www.guru99.com/aws-lambda-function.html
 
 
 **********************Athena & Lambda**********************
@@ -130,11 +137,18 @@ https://www.youtube.com/watch?v=7HXjzrE8VWk&pbjreload=101
 
 https://www.youtube.com/watch?v=CgY2uxQPflY&list=PL5KTLzN85O4KO0qEeUVvwTTcHFsdE6Dhx
 
+What is AWS Lambda? Lambda Function with Examples
+
+https://www.guru99.com/aws-lambda-function.html
 
 What Is Serverless AWS Lambda and How to Use It
 
 https://pub.towardsai.net/what-is-serverless-aws-lambda-and-how-to-use-it-2c69672c0161
 
+
+14 Use Cases for AWS Lambda: How to Make the Most of It
+
+https://medium.com/techmagic/14-use-cases-for-aws-lambda-how-to-make-the-most-of-it-45c6f02144df
 
 Build AWS Serverless Application
 
@@ -149,9 +163,9 @@ AWS Read CSV file data from S3 via Lambda function and insert into MySQL
 https://www.youtube.com/watch?v=ozbsi3AVcZY
 
 
-14 Use Cases for AWS Lambda: How to Make the Most of It
+Running Spark Application in the EMR Cluster through AWS Lambda Function
 
-https://medium.com/techmagic/14-use-cases-for-aws-lambda-how-to-make-the-most-of-it-45c6f02144df
+https://medium.com/swlh/running-spark-application-in-the-emr-cluster-through-aws-lambda-function-20ff598e63fe
 
 
 How to trigger a spark job from AWS Lambda
@@ -163,6 +177,14 @@ How to Pull Data from an API, Using AWS Lambda
 https://www.youtube.com/watch?v=iiIcS4FlX0M
 
 https://www.startdataengineering.com/post/pull-data-from-api-using-lambda-s3/
+
+Triggering an AWS Lambda with Kafka
+
+https://medium.com/aos-engineering-blog/triggering-an-aws-lambda-with-kafka-248fd238aed1
+
+Exploring AWS Lambda Deployment Limits
+
+https://dzone.com/articles/exploring-aws-lambda-deployment-limits
 
 **********************AWS Kinesis**********************
 

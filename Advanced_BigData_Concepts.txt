@@ -41,10 +41,17 @@ Data Lakehouse: Building the Next Generation of Data Lakes using Apache Hudi:
 
 https://medium.com/slalom-build/data-lakehouse-building-the-next-generation-of-data-lakes-using-apache-hudi-41550f62f5f
 
+Introduction to Apache Hudi with PySpark
+
+https://medium.com/analytics-vidhya/introduction-to-apache-hudi-with-pyspark-62915e1a6c5c
+
 Hudi, Iceberg and Delta Lake: Data Lake Table Formats Compared:
 
 https://psingman.medium.com/hudi-iceberg-and-delta-lake-data-lake-table-formats-compared-27af5ab1de6e
 
+Delta Lake: The Data Engineer’s missing piece Part-1
+
+https://databeans-blogs.medium.com/delta-lake-the-data-engineers-missing-piece-part-1-ebab66a3f8c0
 
 
 *************DBT****************
