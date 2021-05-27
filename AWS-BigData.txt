@@ -22,6 +22,12 @@ https://dzone.com/articles/aws-basics
 https://dev.to/harshaambati/aws-cheatsheet-2f0k
 
 
+Operational Excellence,Security,Reliability,Performance Efficiency,Cost Optimization
+
+https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/
+
+
+
 Data Analytics on AWS — What, Why & How
 
 https://solegaonkar.medium.com/data-analytics-on-aws-what-why-how-42531d386fec
