@@ -27,16 +27,9 @@ Operational Excellence,Security,Reliability,Performance Efficiency,Cost Optimiza
 https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/
 
 
-
 Data Analytics on AWS — What, Why & How
 
 https://solegaonkar.medium.com/data-analytics-on-aws-what-why-how-42531d386fec
-
-
-Data Analytics Lifecycle using AWS
-
-https://medium.com/analytics-vidhya/data-analytics-lifecycle-overview-aws-2bb73af90bad
-
 
 
 
@@ -192,6 +185,11 @@ Exploring AWS Lambda Deployment Limits
 
 https://dzone.com/articles/exploring-aws-lambda-deployment-limits
 
+
+How to Save Hundreds of Hours on Lambda Debugging?
+
+https://blog.devgenius.io/how-to-save-hundreds-of-hours-on-lambda-debugging-13edf5b2535
+
 **********************AWS Kinesis**********************
 
 Kinesis Data Stream & Data Analytics Tutorial | AWS Kinesis Tutorial | Kinesis Stream Introduction
@@ -265,6 +263,11 @@ Amazon EMR supports Apache Hive ACID transactions
 https://aws.amazon.com/blogs/big-data/amazon-emr-supports-apache-hive-acid-transactions/
 
 
+Delta Lake on AWS EMR — #1
+
+https://datapipelineguy.medium.com/delta-lake-on-aws-emr-part-1-896aa3896cbb
+
+
 ************AWS CI\CD****************
 
 How to create a AWS Code Pipeline using AWS Code Commit , Code Build and Code Deploy
@@ -288,11 +291,30 @@ CI/CD in AWS — Continuous Deployment with CodeDeploy
 https://medium.com/@elmanhasa/ci-cd-in-aws-continuous-deployment-with-codedeploy-5c3d5f554d4f
 
 
-************ AWS BLOGS ************
+************ AWS Important BLOGS ***********************
+
+Data Analytics Lifecycle using AWS
+
+https://medium.com/analytics-vidhya/data-analytics-lifecycle-overview-aws-2bb73af90bad
 
 Building a Real Life Data Lake in AWS
 
 https://towardsdatascience.com/building-a-real-life-data-lake-in-aws-ee3bc9b8bba1
+
+
+Building Data Lake on AWS — Data Processing
+
+https://blog.clairvoyantsoft.com/building-data-lake-on-aws-data-processing-e1545a5e25bd
+
+
+Complete Guide to AWS Data Lake
+
+https://anandtripathi5.medium.com/complete-guide-to-aws-data-lake-4cc85259deb0
+
+
+AWS Data Ingestion Methods
+
+https://namanjainyr.medium.com/aws-data-ingestion-methods-2881b3657604
 
 
 Creating Data Lake & Discovering Your Data Using AWS Lake Formation Capabilities
@@ -317,4 +339,11 @@ https://adit-modi24.medium.com/document-understanding-solution-using-aws-5801292
 
 Serverless Architecture Patterns in AWS
 
-https://waswani.medium.com/serverless-ar
+https://waswani.medium.com/serverless-architecture-patterns-in-aws-edeab0e46a32
+
+
+AWS Cross Account Access
+
+https://crishantha.medium.com/aws-cross-account-access-70c5b2fac543
+
+https://crishantha.medium.com/aws-cross-account-access-6db4d7be37de

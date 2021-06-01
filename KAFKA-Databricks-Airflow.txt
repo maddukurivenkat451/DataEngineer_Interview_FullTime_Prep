@@ -31,7 +31,9 @@ Streaming a Kafka topic in a Delta table on S3 using Spark Structured Streaming
 https://keestalkstech.com/2019/11/streaming-a-kafka-topic-to-a-delta-table-on-s3-with-spark-structured-streaming/
 
 
+Building Enterprise Real-Time ETL systems using Kafka Streams — Part 1
 
+https://zencoding.medium.com/building-enterprise-real-time-etl-systems-using-kafka-streams-part-1-9e009b85d60
 
 
 *************Databricks****************

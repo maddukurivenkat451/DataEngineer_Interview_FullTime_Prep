@@ -54,6 +54,11 @@ Delta Lake: The Data Engineer’s missing piece Part-1
 https://databeans-blogs.medium.com/delta-lake-the-data-engineers-missing-piece-part-1-ebab66a3f8c0
 
 
+Databricks Delta Lake — A Friendly Intro
+
+https://sertiscorp.medium.com/databricks-delta-lake-a-friendly-intro-9c3ff627e9f8
+
+
 *************DBT****************
 
 Data Build Tool) Tutorial

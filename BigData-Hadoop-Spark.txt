@@ -63,6 +63,18 @@ Sqoop Process:
 
 https://towardsdatascience.com/apache-sqoop-1113ce453639
 
+BigWorld with BigData: Apache Sqoop — Part 1
+
+https://kmuthakana.medium.com/bigworld-with-bigdata-zero-to-hero-apache-sqoop-part-1-183180ae203c
+
+BigWorld with BigData: Apache Sqoop — Part 2
+
+https://kmuthakana.medium.com/bigworld-with-bigdata-apache-sqoop-part-2-b028d69d76ae
+
+BigWorld with BigData: Apache Sqoop — Part 3
+
+https://kmuthakana.medium.com/bigworld-with-bigdata-apache-sqoop-part-3-c9a6460d9e11
+
 Apache Sqoop : Incremental import with sqoop-job 
 
 https://medium.com/@nitingupta.bciit/apache-sqoop-incremental-import-with-sqoop-job-949b60e1101a
@@ -70,6 +82,8 @@ https://medium.com/@nitingupta.bciit/apache-sqoop-incremental-import-with-sqoop-
 merge data-sets imported via incremental import using Sqoop:
 
 https://sodocumentation.net/sqoop/topic/5673/merge-data-sets-imported-via-incremental-import-using-sqoop
+
+
 
 
 *********************HIVE HIVE HIVE *********************
@@ -227,6 +241,11 @@ Optimizing the data reads in Spark: Part 1
 https://dataops-dev.medium.com/optimizing-the-data-reads-in-spark-part-1-pyspark-2-4-4f7206438b77
 
 
+Apache Spark — Performance Tuning
+
+https://sharadgupta619.medium.com/apache-spark-performance-tuning-a8d1cc59e859
+
+
 Demystifying Joins in Apache Spark: The art of joining in Spark:
 
 https://www.data-stats.com/joins-in-pyspark/
@@ -373,7 +392,7 @@ https://docs.databricks.com/spark/latest/structured-streaming/index.html
 
 
 
-Spark interview: 
+******************Spark interview: *******************
 
 Apache Spark interview questions Set 2
 
