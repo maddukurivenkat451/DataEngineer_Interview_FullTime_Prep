@@ -32,6 +32,11 @@ Data Analytics on AWS — What, Why & How
 https://solegaonkar.medium.com/data-analytics-on-aws-what-why-how-42531d386fec
 
 
+Introduction to AWS Services
+
+https://www.youtube.com/watch?app=desktop&v=Z3SYDTMP3ME
+
+
 
 **********************AWS S3**********************
 
