@@ -11,8 +11,7 @@ Concepts To Focus:
 5) HIVE
 6) SPARK
 7) Spark Structured Streaming
-8) SNOWFLAKE PYSPARK
-9) Delta Lake
+
 
 ****************LAMBDA ARCHITECTURE**********************
 
@@ -256,6 +255,7 @@ https://towardsdatascience.com/demystifying-joins-in-apache-spark-38589701a88e\
 
 https://towardsdatascience.com/the-art-of-joining-in-spark-dcbd33d693c
 
+https://nivedita-mondal.medium.com/spark-join-strategies-fb984b50441d
 
 
 Smart Resource Utilization With Spark Dynamic Allocation

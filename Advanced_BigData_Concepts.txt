@@ -1,3 +1,11 @@
+############################################
+****** SNOWFLAKE | Delta Lake | DBT*******:
+#############################################
+
+1) SNOWFLAKE PYSPARK
+2) Delta Lake
+3) DBT
+
 *************SNOWFLAKE PYSPARK****************
 
 
@@ -29,6 +37,10 @@ Introduction to Delta Lake:
 
 https://www.data-stats.com/introduction-to-delta-lake/
 
+Delta lake with Spark: What and Why?
+
+https://towardsdatascience.com/delta-lake-with-spark-what-and-why-6d08bef7b963
+
 Apache HUDI vs Delta Lake:
 
 https://medium.com/swlh/apache-hudi-vs-delta-lake-295c019fe3c5
@@ -57,6 +69,8 @@ https://databeans-blogs.medium.com/delta-lake-the-data-engineers-missing-piece-p
 Databricks Delta Lake — A Friendly Intro
 
 https://sertiscorp.medium.com/databricks-delta-lake-a-friendly-intro-9c3ff627e9f8
+
+https://docs.delta.io/latest/quick-start.html#create-a-table
 
 
 *************DBT****************

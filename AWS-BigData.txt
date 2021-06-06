@@ -81,7 +81,6 @@ https://pub.towardsai.net/pyspark-aws-s3-read-write-operations-f473e5bee30f
 
 
 
-
 ********************** AWS GLUE**********************
 
 AWS Glue Crawler Tutorial with Hands On Lab | AWS Glue Tutorials | AWS Glue Hand-On Tutorial
@@ -94,7 +93,21 @@ Trigger AWS Glue Crawler from Lambda | Event Trigger of Glue Crawlers | AWS Glue
 
 https://www.youtube.com/watch?v=6f1FccQXZ18
 
+Essential Functionalities to Guide you While using AWS Glue and PySpark!
 
+https://www.analyticsvidhya.com/blog/2020/08/essential-functionalities-to-guide-you-while-using-aws-glue-and-pyspark/
+
+
+Optimizing Spark applications with workload partitioning in AWS Glue
+
+https://aws.amazon.com/blogs/big-data/optimizing-spark-applications-with-workload-partitioning-in-aws-glue/
+
+
+ANALYTICS ON AWS
+
+https://intro-to-analytics-on-aws.workshop.aws/en/
+
+https://intro-to-analytics-on-aws.workshop.aws/en/lab-guide.html
 
 
 **********************Athena & Lambda**********************
