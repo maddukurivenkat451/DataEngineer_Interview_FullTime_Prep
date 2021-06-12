@@ -73,6 +73,10 @@ https://sertiscorp.medium.com/databricks-delta-lake-a-friendly-intro-9c3ff627e9f
 https://docs.delta.io/latest/quick-start.html#create-a-table
 
 
+Simplify your streaming CDC architecture using Delta Streams
+
+https://databeans-blogs.medium.com/simplify-your-streaming-cdc-architecture-using-delta-streams-a61c2ae4543e
+
 *************DBT****************
 
 Data Build Tool) Tutorial

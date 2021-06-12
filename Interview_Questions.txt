@@ -86,6 +86,8 @@ Why do we need sqoop? Why not spark?
 
 What issues you have faced while doing sqoop import? Explain?
 
+Sqoop Parallelism? How to do it.
+
 ##########
 --boundary-query During sqoop import process, it uses this query to calculate the boundary for creating splits: select min(), max() from table_name.
 

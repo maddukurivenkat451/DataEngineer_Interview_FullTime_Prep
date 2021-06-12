@@ -302,6 +302,11 @@ PYSPARK EXPLODE NESTED ARRAY, ARRAY OR MAP TO ROWS
 
 https://amiradata.com/pyspark-explode-nested-array-map-to-rows/
 
+
+How to read complex json data in Pyspark
+
+https://grkamarnath.medium.com/how-to-read-complex-json-data-in-pyspark-16a0e9149f0
+
 PySpark Aggregations – Cube, Rollup:
 
 https://www.data-stats.com/pyspark-aggregations-cube-rollup/

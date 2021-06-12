@@ -37,6 +37,16 @@ Introduction to AWS Services
 https://www.youtube.com/watch?app=desktop&v=Z3SYDTMP3ME
 
 
+Data Warehousing in AWS part 1
+
+https://medium.com/analytics-vidhya/data-warehousing-in-aws-c5e097249cf6
+
+
+Data Warehousing in AWS part 2
+
+https://medium.com/analytics-vidhya/data-warehousing-in-aws-part-2-aea9c458b383
+
+
 
 **********************AWS S3**********************
 
@@ -208,6 +218,10 @@ How to Save Hundreds of Hours on Lambda Debugging?
 
 https://blog.devgenius.io/how-to-save-hundreds-of-hours-on-lambda-debugging-13edf5b2535
 
+Your AWS Lambda Function Failed, What Now?
+
+https://medium.com/equinox-media-tech/your-aws-lambda-function-failed-what-now-b534e10ebbba
+
 **********************AWS Kinesis**********************
 
 Kinesis Data Stream & Data Analytics Tutorial | AWS Kinesis Tutorial | Kinesis Stream Introduction
@@ -257,6 +271,10 @@ https://medium.com/swlh/aws-step-functions-and-lambda-5a649d255a6
 
 ************AWS EMR****************
 
+
+AWS Elastic Map Reduce— Intro!
+
+https://medium.com/nerd-for-tech/aws-elastic-map-reduce-intro-55206fd47c85
 
 Analyzing Big Data with Amazon EMR
 
@@ -365,3 +383,8 @@ AWS Cross Account Access
 https://crishantha.medium.com/aws-cross-account-access-70c5b2fac543
 
 https://crishantha.medium.com/aws-cross-account-access-6db4d7be37de
+
+
+Building a Customer Data Platform using Databricks in AWS
+
+https://aws.plainenglish.io/building-a-customer-data-platform-using-databricks-in-aws-7cc5810c84a5

@@ -19,25 +19,6 @@ Concepts To focus:
 
 
 
-Data Engineering Interview Prep Guide:(Brief!)
-
-https://medium.com/@m_mcclarty/data-engineering-interview-guide-7a14d10887dd
-
-
-Responsibilities of a Data Engineer
-
-https://www.startdataengineering.com/post/n-job-reponsibilities-of-a-data-engineer/
-
-
-Skills to Ace Your Data Engineering Interview
-
-https://www.startdataengineering.com/post/10-skills-to-ace-your-data-engineering-interview/
-
-
-How to gather requirements to re-engineer a legacy data pipeline
-
-https://www.startdataengineering.com/post/how-to-gather-requirements-reengineering-data-pipeline/
-
 ***************Data Modelling - Data Warehouse***************
 
 Data Warehouse Architecture: 
