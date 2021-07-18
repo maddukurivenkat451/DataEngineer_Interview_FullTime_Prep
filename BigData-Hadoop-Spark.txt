@@ -26,6 +26,10 @@ Data Challenges in Big Data
 https://luminousmen.com/post/data-challenges-in-big-data
 
 
+Data Ingestion Platform
+
+https://medium.com/oneassist-tech-blog/data-ingestion-platform-a3a0019e410a
+
 ****************HDFS HDFS HDFS****************************
 
 HDFS Architecture:
