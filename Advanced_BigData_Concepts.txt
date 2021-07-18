@@ -73,6 +73,10 @@ https://sertiscorp.medium.com/databricks-delta-lake-a-friendly-intro-9c3ff627e9f
 https://docs.delta.io/latest/quick-start.html#create-a-table
 
 
+Delta Lake: Powering Change Data Capture(CDC) Through Lakehouse Architecture
+
+https://swapnil-chougule.medium.com/delta-lake-powering-change-data-capture-cdc-through-lakehouse-architecture-11ad60e10b79
+
 Simplify your streaming CDC architecture using Delta Streams
 
 https://databeans-blogs.medium.com/simplify-your-streaming-cdc-architecture-using-delta-streams-a61c2ae4543e
@@ -86,3 +90,13 @@ https://www.startdataengineering.com/post/dbt-data-build-tool-tutorial/
 Aggregate CloudTrail logs with DBT and Spark
 
 https://medium.com/slalom-australia/aggregate-cloudtrail-logs-with-dbt-and-spark-d3196248d2d4
+
+Leveraging DBT as a Data Modeling tool
+
+https://medium.com/analytics-and-data/leveraging-dbt-as-a-data-modeling-tool-b3caf78f4a3a
+
+*************KUBERNETES****************
+
+Kubernetes Fundamentals For Absolute Beginners: Architecture & Components
+
+https://medium.com/the-programmer/kubernetes-fundamentals-for-absolute-beginners-architecture-components-1f7cda8ea536

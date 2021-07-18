@@ -429,6 +429,25 @@ Don’t use union in Spark when merging DataFrames — The story of null values 
 https://medium.com/@danielschruhl/dont-use-union-in-spark-when-merging-dataframes-the-story-of-null-values-when-using-union-1913dbe6feb8
 
 
+ISSUES IN SPARK:
+
+Understanding common Performance Issues in Apache Spark
+
+https://michaelheil.medium.com/understanding-common-performance-issues-in-apache-spark-9e1fe1f0b3d
+
+Understanding common Performance Issues in Apache Spark - Deep Dive: Data Spill
+
+https://michaelheil.medium.com/understanding-common-performance-issues-in-apache-spark-deep-dive-data-spill-7cdba81e697e
+
+Understanding common Performance Issues in Apache Spark - Deep Dive: Data Skew
+
+https://michaelheil.medium.com/understanding-common-performance-issues-in-apache-spark-deep-dive-data-skew-e962909f3d07
+
+Big Data Slowly Changing Dimension Type2 with Spark and Delta Lake
+
+https://medium.com/@erkansirin/big-data-slowly-changing-dimension-type2-with-spark-and-delta-lake-79a89673f9f9
+
+
 *************PYTEST-PYSPARK*************
 
 Unit Testing in Python with pytest 
