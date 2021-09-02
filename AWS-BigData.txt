@@ -165,10 +165,6 @@ How to Use Athena with Json Data in AWS
 https://www.youtube.com/watch?v=PLtMYA7LpbE
 
 
-AWS Athena Glue and QuickSight Tutorial | Athena and QuickSight Integration | Serverless Analytics
-
-https://www.youtube.com/watch?v=Cg4DNZcLh5A
-
 
 **********************AWS LAMBDA**********************
 
