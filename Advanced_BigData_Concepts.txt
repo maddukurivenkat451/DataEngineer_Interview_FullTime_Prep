@@ -49,6 +49,11 @@ Migrating from Hive to Delta Lake + Hive in Hybrid Cloud Environment:
 
 https://medium.com/amobee-engineering/migrating-from-hive-to-delta-lake-hive-in-hybrid-cloud-environment-38269ed45632
 
+
+Delta Lake (Part 1) — What’s the need?
+
+https://medium.com/@sarfarazhussain211/delta-lake-part-1-whats-the-need-e0d319fe910
+
 Data Lakehouse: Building the Next Generation of Data Lakes using Apache Hudi:
 
 https://medium.com/slalom-build/data-lakehouse-building-the-next-generation-of-data-lakes-using-apache-hudi-41550f62f5f
@@ -85,6 +90,18 @@ https://swapnil-chougule.medium.com/delta-lake-powering-change-data-capture-cdc-
 Simplify your streaming CDC architecture using Delta Streams
 
 https://databeans-blogs.medium.com/simplify-your-streaming-cdc-architecture-using-delta-streams-a61c2ae4543e
+
+From Warehouse to Lakehouse Pt.1 – Slowly Changing Dimensions (SCD) with Delta
+
+https://headinthecloud.blog/2021/08/17/from-warehouse-to-lakehouse-slowly-changing-dimensions-scd-with-delta-and-sql/
+
+From Warehouse to Lakehouse Pt.2 – Slowly Changing Dimensions (SCD) with Delta
+
+https://headinthecloud.blog/2021/08/24/from-warehouse-to-lakehouse-pt-2-slowly-changing-dimensions-scd-with-delta/amp/
+
+Delta Lake Cheatsheet
+
+https://pages.databricks.com/rs/094-YMS-629/images/Delta-Lake-cheat-sheet.pdf
 
 *************DBT****************
 
