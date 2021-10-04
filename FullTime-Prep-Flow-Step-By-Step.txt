@@ -50,6 +50,11 @@ Start Data Engineering
 https://www.startdataengineering.com/
 
 
+How I became a Data Engineer from scratch
+
+https://medium.com/@lucaspressi/how-i-became-a-data-engineer-from-scratch-6bb5165e67e6
+
+
 *****************CERTIFICATION*****************
 
 Learnings from the AWS Data Analytics Speciality
@@ -99,3 +104,8 @@ https://palakdatascientist.medium.com/how-to-crack-the-data-engineer-interview-a
 Watch a technical mock interview with an Airbnb engineer:
 
 https://interviewing.io/recordings/Python-Airbnb-4/
+
+
+Facebook data engineer interview: the only post you'll need to read
+
+https://igotanoffer.com/blogs/tech/facebook-data-engineer-interview
