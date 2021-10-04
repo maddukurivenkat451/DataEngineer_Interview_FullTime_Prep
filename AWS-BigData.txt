@@ -93,16 +93,6 @@ https://pub.towardsai.net/pyspark-aws-s3-read-write-operations-f473e5bee30f
 
 ********************** AWS GLUE**********************
 
-
-AWS Glue: A Complete ETL Solution | Part 1
-
-https://medium.com/bazaar-tech/aws-glue-a-complete-etl-solution-part-1-6a1eb6fb56c7
-
-Guide - AWS Glue and PySpark
-
-https://dev.to/anandp86/using-aws-glue-and-pyspark-56fi
-
-
 AWS Glue Crawler Tutorial with Hands On Lab | AWS Glue Tutorials | AWS Glue Hand-On Tutorial
 
 https://www.youtube.com/watch?v=32oVe1RLGxM
@@ -123,9 +113,10 @@ Optimizing Spark applications with workload partitioning in AWS Glue
 https://aws.amazon.com/blogs/big-data/optimizing-spark-applications-with-workload-partitioning-in-aws-glue/
 
 
-Reading excel files with Pyspark in AWS Glue and EMR
+UPSERTS and DELETES using AWS Glue and Delta Lake
 
-https://siraj-deen.medium.com/reading-excel-file-with-pyspark-in-aws-glue-and-emr-181f8a765f4d
+https://dev.to/awscommunity-asean/making-your-data-lake-acid-compliant-using-aws-glue-and-delta-lake-gk9
+
 
 ANALYTICS ON AWS
 
@@ -164,6 +155,10 @@ How to Use Athena with Json Data in AWS
 
 https://www.youtube.com/watch?v=PLtMYA7LpbE
 
+
+AWS Athena Glue and QuickSight Tutorial | Athena and QuickSight Integration | Serverless Analytics
+
+https://www.youtube.com/watch?v=Cg4DNZcLh5A
 
 
 **********************AWS LAMBDA**********************
@@ -314,14 +309,6 @@ Delta Lake on AWS EMR — #1
 https://datapipelineguy.medium.com/delta-lake-on-aws-emr-part-1-896aa3896cbb
 
 
-How to submit Spark jobs to EMR cluster from Airflow
-
-https://www.startdataengineering.com/post/how-to-submit-spark-jobs-to-emr-cluster-from-airflow/
-
-Presto and Hive on AWS EMR
-
-https://katerynababich.medium.com/presto-and-hive-on-aws-emr-cce7261195e
-
 ************AWS CI\CD****************
 
 How to create a AWS Code Pipeline using AWS Code Commit , Code Build and Code Deploy
@@ -406,8 +393,3 @@ https://crishantha.medium.com/aws-cross-account-access-6db4d7be37de
 Building a Customer Data Platform using Databricks in AWS
 
 https://aws.plainenglish.io/building-a-customer-data-platform-using-databricks-in-aws-7cc5810c84a5
-
-
-AWS Data Lake Query Engine Options:
-
-https://www.upsolver.com/blog/aws-data-lake-query-engine

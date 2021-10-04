@@ -20,6 +20,21 @@ https://www.youtube.com/watch?v=WkXybqZ3GyA&list=PL3GCZkoyKK4ehbIEFG54P4NYG30rII
 
 https://www.youtube.com/watch?v=KG58ixkU2Es&list=PL3GCZkoyKK4ehbIEFG54P4NYG30rIIyRd&index=3
 
+
+Snowflake Architecture |
+
+
+https://www.youtube.com/watch?v=IocdgUB94KQ&t=1242s
+
+Snowflake Classic Legacy WebUI
+ 
+https://www.youtube.com/watch?v=bCQWVNwZnbM
+
+Data Types (Structured) Concepts Snowflake
+
+https://www.youtube.com/watch?v=u2F_ZU14Hog
+
+
 PySpark Snowflake Data Warehouse Read Write operations — Part1 (Read-Only)
 
 https://pub.towardsai.net/pyspark-snowflake-data-warehouse-read-write-operations-part1-read-only-3331d113635e
@@ -49,11 +64,6 @@ Migrating from Hive to Delta Lake + Hive in Hybrid Cloud Environment:
 
 https://medium.com/amobee-engineering/migrating-from-hive-to-delta-lake-hive-in-hybrid-cloud-environment-38269ed45632
 
-
-Delta Lake (Part 1) — What’s the need?
-
-https://medium.com/@sarfarazhussain211/delta-lake-part-1-whats-the-need-e0d319fe910
-
 Data Lakehouse: Building the Next Generation of Data Lakes using Apache Hudi:
 
 https://medium.com/slalom-build/data-lakehouse-building-the-next-generation-of-data-lakes-using-apache-hudi-41550f62f5f
@@ -65,11 +75,6 @@ https://medium.com/analytics-vidhya/introduction-to-apache-hudi-with-pyspark-629
 Hudi, Iceberg and Delta Lake: Data Lake Table Formats Compared:
 
 https://psingman.medium.com/hudi-iceberg-and-delta-lake-data-lake-table-formats-compared-27af5ab1de6e
-
-
-Data Lake + DWH = Lakehouse
-
-https://medium.com/geekculture/data-lake-dwh-lakehouse-2a3c903973e5
 
 Delta Lake: The Data Engineer’s missing piece Part-1
 
@@ -83,25 +88,10 @@ https://sertiscorp.medium.com/databricks-delta-lake-a-friendly-intro-9c3ff627e9f
 https://docs.delta.io/latest/quick-start.html#create-a-table
 
 
-Delta Lake: Powering Change Data Capture(CDC) Through Lakehouse Architecture
-
-https://swapnil-chougule.medium.com/delta-lake-powering-change-data-capture-cdc-through-lakehouse-architecture-11ad60e10b79
-
 Simplify your streaming CDC architecture using Delta Streams
 
 https://databeans-blogs.medium.com/simplify-your-streaming-cdc-architecture-using-delta-streams-a61c2ae4543e
 
-From Warehouse to Lakehouse Pt.1 – Slowly Changing Dimensions (SCD) with Delta
-
-https://headinthecloud.blog/2021/08/17/from-warehouse-to-lakehouse-slowly-changing-dimensions-scd-with-delta-and-sql/
-
-From Warehouse to Lakehouse Pt.2 – Slowly Changing Dimensions (SCD) with Delta
-
-https://headinthecloud.blog/2021/08/24/from-warehouse-to-lakehouse-pt-2-slowly-changing-dimensions-scd-with-delta/amp/
-
-Delta Lake Cheatsheet
-
-https://pages.databricks.com/rs/094-YMS-629/images/Delta-Lake-cheat-sheet.pdf
 
 *************DBT****************
 
@@ -112,13 +102,3 @@ https://www.startdataengineering.com/post/dbt-data-build-tool-tutorial/
 Aggregate CloudTrail logs with DBT and Spark
 
 https://medium.com/slalom-australia/aggregate-cloudtrail-logs-with-dbt-and-spark-d3196248d2d4
-
-Leveraging DBT as a Data Modeling tool
-
-https://medium.com/analytics-and-data/leveraging-dbt-as-a-data-modeling-tool-b3caf78f4a3a
-
-*************KUBERNETES****************
-
-Kubernetes Fundamentals For Absolute Beginners: Architecture & Components
-
-https://medium.com/the-programmer/kubernetes-fundamentals-for-absolute-beginners-architecture-components-1f7cda8ea536

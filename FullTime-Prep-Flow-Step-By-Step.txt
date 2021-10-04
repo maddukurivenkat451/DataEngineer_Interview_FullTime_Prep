@@ -10,6 +10,9 @@
 
 5) KAFKA-Databricks-Airflow
 
+6) Advanced_BigData_Concepts
+
+
 
 
 
@@ -72,6 +75,8 @@ https://medium.com/@sriramn84_34423/crack-databricks-certified-associate-develop
 Study guide for clearing “Databricks Certified Associate Developer for Apache Spark 3.0” exam (python)
 
 https://shrutibhawsar94.medium.com/study-guide-for-clearing-databricks-certified-associate-developer-for-apache-spark-3-0-69377dba0107
+
+
 
 *****************INTERVIEW TIPS*****************
 
