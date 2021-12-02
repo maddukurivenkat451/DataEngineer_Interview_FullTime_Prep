@@ -7,7 +7,7 @@ Concepts To focus:
 
 1)geek for geeks problems for python
 2)Data Structures
-3)SQL Leetcode Practise
+3)SQL Leetcode Practise- Create account in LEETOCDE and practise
 
 
 CODING TIPS:
@@ -28,15 +28,7 @@ Python Exercises, Practice Questions and Solutions
 
 https://www.geeksforgeeks.org/python-exercises-practice-questions-and-solutions/
 
-Numpy tutorial
-
-https://www.youtube.com/watch?v=rN0TREj8G7U&list=PLeo1K3hjS3uset9zIVzJWqplaWBiacTEU
-
-Python Pandas 
-
-https://www.youtube.com/watch?v=CmorAWRsCAw&list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy
-
-Python data structures
+https://www.programiz.com/python-programming/examples
 
 
 Data Engineering Cheat Sheet
@@ -67,7 +59,16 @@ DSA — Bubble Sort Algorithm
 
 https://yatin-pandit94.medium.com/dsa-bubble-sort-algorithm-dcd2fd59f72
 
+
 *************SQL************
+
+https://www.youtube.com/watch?v=4fJhFtxCgCc
+
+https://www.youtube.com/watch?v=K-_h-6NPak8&list=PLtPFQl_0853oNyMPC2Fd0K1uW9x41KQn6&index=16
+
+
+https://www.youtube.com/watch?v=OIRy7ZFSudA&list=PLtPFQl_0853oNyMPC2Fd0K1uW9x41KQn6&index=7
+
 
 https://www.geeksforgeeks.org/sql-top-n-queries/
 

@@ -1,8 +1,9 @@
+****************************************************************************************
 *******Data Engineer Full Time Preparation Flow to Follow STEP-BY-STEP******************
-
+****************************************************************************************
 1) DataWarehouse-ETL-Concepts
 
-2) Python-SQL-Coding
+2) Python-SQL-Coding 
 
 3) BigData-Hadoop-Spark
 	
