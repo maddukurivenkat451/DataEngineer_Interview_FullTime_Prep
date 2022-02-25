@@ -308,6 +308,10 @@ Delta Lake on AWS EMR — #1
 
 https://datapipelineguy.medium.com/delta-lake-on-aws-emr-part-1-896aa3896cbb
 
+Running Spark Pipelines on EMR Using Spots Instances
+
+https://medium.com/teads-engineering/running-spark-pipelines-on-emr-using-spots-instances-28fc561bdc97
+
 
 ************AWS CI\CD****************
 

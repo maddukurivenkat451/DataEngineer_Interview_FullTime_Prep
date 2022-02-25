@@ -267,6 +267,10 @@ Tuning Resource Allocation in Apache Spark
 
 https://www.justanalytics.com/blog/technical-know-how/tuning-resource-allocation-in-apache-spark
 
+Spark perfomance issues? Let’s optimize that code!
+
+https://medium.com/plumbersofdatascience/this-spark-code-is-slower-than-a-snail-lets-optimize-it-dbe6736c784d
+
 
 Apache Spark Memory Management 
 
@@ -290,6 +294,9 @@ Encrypting column of a spark dataframe
 https://medium.com/swlh/encrypting-column-of-a-spark-dataframe-35d64b0db00f
 
 
+How to Flatten Json Files Dynamically Using Apache PySpark
+
+https://medium.com/@thomaspt748/how-to-flatten-json-files-dynamically-using-apache-pyspark-c6b1b5fd4777
 
 Pyspark Complex Json Processing
 
@@ -359,10 +366,14 @@ Too Small Data — Solving Small Files issue using Spark
 https://sauravagarwaldigital.medium.com/too-small-data-solving-small-files-issue-using-spark-b7ef66827a24
 
 
+How to UPSERT data into a relational database using Apache Spark
+
+https://medium.com/@thomaspt748/how-to-upsert-data-into-a-relational-database-using-apache-spark-part-1-python-version-b43b9761bbf2
 
 
-
+*******************************************************
 *************Spark Structured Streaming****************
+*********************************************************
 
 Apache Spark Structured Streaming — First Streaming Example 
 

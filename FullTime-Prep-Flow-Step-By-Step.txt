@@ -19,6 +19,9 @@
 
 *****************DATA ENGINEER PROCESS*****************
 
+Data Engineering: Major Technologies To Learn
+
+https://algochan0310.medium.com/data-engineering-major-technologies-to-learn-in-2022-eb879de59cc5
 
 Data Engineering Interview Prep Guide:(Brief!)
 
@@ -82,6 +85,10 @@ Study guide for clearing “Databricks Certified Associate Developer for Apache 
 
 https://shrutibhawsar94.medium.com/study-guide-for-clearing-databricks-certified-associate-developer-for-apache-spark-3-0-69377dba0107
 
+
+AWS CERTIFICATION QUESTIONS:
+
+https://www.koenig-solutions.com/aws
 
 
 *****************INTERVIEW TIPS*****************
