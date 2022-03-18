@@ -66,6 +66,12 @@ What does s3 Data Consistency mean?
 https://twwip.com/2019/11/29/what-does-s3-data-consistency-mean/amp/
 
 
+
+************Amazon EC2************
+
+https://digitalcloud.training/amazon-ec2/
+
+
 ************AWS PYSPARK****************
 
 Building Apache Spark 3.x to support S3 / GCS
@@ -317,6 +323,11 @@ https://medium.com/teads-engineering/running-spark-pipelines-on-emr-using-spots-
 Running Spark Pipelines on EMR Using Spots Instances
 
 https://medium.com/teads-engineering/running-spark-pipelines-on-emr-using-spots-instances-28fc561bdc97
+
+
+Orchestration of AWS EMR Clusters Using Airflow —The Insider Way
+
+https://medium.com/insiderengineering/orchestration-of-aws-emr-clusters-using-airflow-the-insider-way-407abd6713a1
 
 
 ************AWS CI\CD****************

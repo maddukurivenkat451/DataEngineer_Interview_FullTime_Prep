@@ -36,6 +36,10 @@ OLTP vs OLAP: Difference Between OLTP and OLAP:
 https://www.guru99.com/oltp-vs-olap.html
 
 
+Designing a Data Model
+
+https://medium.com/geekculture/designing-a-data-model-56588cc27215
+
 ***************Dimension modelling***************
 
 https://www.guru99.com/dimensional-model-data-warehouse.html
@@ -112,6 +116,10 @@ https://medium.com/@atriadplt/slowly-changing-dimension-whats-that-8ebf7cfef113
 How to Join a fact and a type 2 dimension (SCD2) table
 
 https://www.startdataengineering.com/post/how-to-join-fact-scd2-tables/
+
+Resolving Late Arriving Dimensions
+
+https://medium.com/dataseries/resolving-late-arriving-dimensions-c0ebc9f818c3
 
 
 *************** Master Window Functions ***************
