@@ -5,15 +5,17 @@
 Concepts To Focus:
 1) AWS Basics
 2) AWS S3
-3) AWS PYSPARK
-4) AWS GLUE
-5) Athena & Lambda
-6) AWS LAMBDA
-7) AWS Kinesis
-8) AWS Step Functions
-9) AWS EMR
-10) AWS CI\CD
-11) AWS BLOGS
+3) Amazon EC2
+4) AWS PYSPARK
+5) AWS GLUE
+6) Athena & Lambda
+7) AWS LAMBDA
+8) AWS Kinesis
+9) AWS Step Functions
+10)AWS EMR
+11) AWS CI\CD
+12) AWS BLOGS
+
 
 ************AWS Basics************
 
@@ -307,6 +309,10 @@ https://aws.amazon.com/blogs/big-data/amazon-emr-supports-apache-hive-acid-trans
 Delta Lake on AWS EMR — #1
 
 https://datapipelineguy.medium.com/delta-lake-on-aws-emr-part-1-896aa3896cbb
+
+Running Spark Pipelines on EMR Using Spots Instances
+
+https://medium.com/teads-engineering/running-spark-pipelines-on-emr-using-spots-instances-28fc561bdc97
 
 Running Spark Pipelines on EMR Using Spots Instances
 

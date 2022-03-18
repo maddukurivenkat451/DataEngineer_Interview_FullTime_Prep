@@ -241,6 +241,18 @@ Optimizing the data reads in Spark: Part 1
 https://dataops-dev.medium.com/optimizing-the-data-reads-in-spark-part-1-pyspark-2-4-4f7206438b77
 
 
+*************SPARK DATA SKEW NESS*********
+
+Spark Performance Tuning: Skewness Part 1
+
+https://selectfrom.dev/spark-performance-tuning-skewness-part-1-82502246cb32
+
+
+Spark Performance Tuning: Skewness Part 2
+
+https://selectfrom.dev/spark-performance-tuning-skewness-part-2-9f50c765a87e
+
+
 Apache Spark — Performance Tuning
 
 https://sharadgupta619.medium.com/apache-spark-performance-tuning-a8d1cc59e859
@@ -327,6 +339,11 @@ https://www.data-stats.com/update-data-using-spark-four-step-strategy/
 Slowly Changing Dimensions (SCD)Type-2:
 
 https://dataops-dev.medium.com/slowly-changing-dimensions-scd-type-2-pyspark-implementation-in-2-4-53368f9e1b74
+
+
+How to UPSERT data into a relational database using Apache Spark: Part 1(Python Version)
+
+https://medium.com/@thomaspt748/how-to-upsert-data-into-a-relational-database-using-apache-spark-part-1-python-version-b43b9761bbf2
 
 
 
@@ -462,3 +479,8 @@ https://www.knowru.com/blog/how-unittest-pyspark-applications/
 Integrating Pyspark with Pycharm + Pytest:
 
 https://awainerc.medium.com/integrating-pyspark-with-pycharm-pytest-f1234356c9a6
+
+
+Data Quality Unit Tests in PySpark Using Great Expectations
+
+https://towardsdatascience.com/data-quality-unit-tests-in-pyspark-using-great-expectations-e2e2c0a2c102
