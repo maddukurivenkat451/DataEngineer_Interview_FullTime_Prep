@@ -44,6 +44,8 @@ How will you resolve the NameNode failure issue?
 
 What is HDFS High Availability?
 
+What do you understand by edge nodes in Hadoop?
+
 
 ********* YARN ****************
 
