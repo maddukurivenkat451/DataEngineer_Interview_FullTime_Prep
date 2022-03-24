@@ -46,8 +46,9 @@ What is MapReduce in Hadoop? Architecture | Example
 https://www.guru99.com/introduction-to-mapreduce.html
 
 
-
-*********************SQOOP SQOOP SQOOP****
+*************************************************************
+*********************SQOOP SQOOP SQOOP*****************
+*************************************************************
 
 Apache Sqoop:
 
@@ -85,8 +86,9 @@ https://sodocumentation.net/sqoop/topic/5673/merge-data-sets-imported-via-increm
 
 
 
-
+*************************************************************
 *********************HIVE HIVE HIVE *********************
+*************************************************************
 
 Hive Architecture in Depth
 
@@ -149,7 +151,11 @@ https://blog.clairvoyantsoft.com/hive-acid-transactions-part-i-f08da70b591b
 
 https://blog.clairvoyantsoft.com/hive-acid-transactions-part-ii-6f5e478bbff
 
-************SPARK SPARK SPARK***********
+
+*************************************************************
+************SPARK SPARK SPARK********************************
+**************************************************************
+
 
 Apache Spark for Data Engineering and Analysis - Overview:
 

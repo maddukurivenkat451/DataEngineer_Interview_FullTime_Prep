@@ -12,7 +12,7 @@ Data Challenges in Big Data
 
 Why do we need Hadoop?
 
-Why do we need NIgdata?
+Why do we need BIG Data?
 
 What are the steps involved in deploying a big data solution?
 
@@ -22,8 +22,7 @@ https://svrtechnologies.com/top-50-hadoop-interview-questions-and-answers-pdf/
 
 ********* HDFS ****************
 
-HDFS Architecture
-
+Explain HDFS Architecture
 
 HDFS COMMANDS
 
