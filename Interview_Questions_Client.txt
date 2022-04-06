@@ -78,7 +78,7 @@ More questions:
 2) gave a text file and write spark code to read data and write to a df
 
 
-***************NIKE*********
+***************Client 3*********
 
 Spark optimizations techniques
 
@@ -117,7 +117,7 @@ Explain Timetravel concept in Delta lake
 DElta tables advantages
 
 
-***************Client 3*********
+***************Client 4*********
 Question 1:
 5 columns 1 row
 transform to 5 rows 1 col
@@ -138,4 +138,4 @@ select * from test where rank = 1
 1. What is EMR Cluster? and about Kerberos?
 2. Behavioural questions realted to product owner? how do you manage work!
 
-###################################
+***************Lowes*********

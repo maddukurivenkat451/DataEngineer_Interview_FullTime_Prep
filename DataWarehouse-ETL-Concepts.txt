@@ -25,6 +25,9 @@ Data Warehouse Architecture:
 
 https://www.javatpoint.com/data-warehouse-architecture
 
+Data Warehouse Design
+
+https://medium.com/@Jeyakeerthanan/dataware-house-design-ca7dc3589134
 
 What is OLAP? Cube, Operations & Types in Data Warehouse
 
