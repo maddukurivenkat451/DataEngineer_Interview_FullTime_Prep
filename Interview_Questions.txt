@@ -3,7 +3,7 @@
 #################################################################
 
 
-********* BIG DATA ****************
+******************* BIG DATA ****************
 
 
 What Is Lambda Architecture?
@@ -20,7 +20,7 @@ What do you understand by edge nodes in Hadoop?
 
 https://svrtechnologies.com/top-50-hadoop-interview-questions-and-answers-pdf/
 
-********* HDFS ****************
+******************* HDFS ******************************
 
 Explain HDFS Architecture
 
@@ -52,7 +52,7 @@ What do you understand by edge nodes in Hadoop?
 What is YARN and explain its components?
 
 
-********* SQOOP ***************
+******************* SQOOP ***************
 
 
 What is Sqoop Metastore? Explain it?
@@ -134,7 +134,8 @@ How can you handle Incremental updates in Hive? Explain the process
 
 Hive small files issue what happen and how did you solve them?
 
-********* Spark ***************
+
+********* SPARK SPARK SPARK ***************
 
 
 https://www.knowledgehut.com/interview-questions/spark
@@ -249,3 +250,74 @@ What is window and sliding interval in spark streaming?
 ***********Kafka**************
 
 https://www.zeolearn.com/interview-questions/kafka
+
+
+********************AIRFLOW AIRFLOW AIRFLOW********************
+
+What is Airflow?
+
+What issues does Airflow resolve?
+
+Explain how workflow is designed in Airflow?
+
+How do we Instantiate a DAG?
+
+How do we Importing Modules in Airflow?
+
+How can we delete a DAG?
+
+What are the types of Executors in Airflow?
+
+What are the pros and cons of SequentialExecutor?
+
+What are the pros and cons of LocalExecutor?
+
+What are the pros and cons of CeleryExecutor?
+
+What are the pros and cons of KubernetesExecutor?
+
+How to define a workflow in Airflow?
+
+How do you make the module available to airflow if you're using Docker Compose?
+
+How to start scheduler DAG in Airflow?
+
+Default database in Airflow
+
+What is XComs In Airflow?
+
+What is xcom_pull in XCom Airflow?
+
+What is Jinja templates?
+
+How to use Airflow XComs in templates?
+
+What is sensor in airflow and use of it?
+
+
+
+***********SNOWFLAKE********************
+
+What are the features of Snowflake? 
+
+What is the schema in Snowflake?
+
+What kind of SQL does Snowflake use?
+
+What ETL tools do you use with Snowflake?
+
+What type of database is Snowflake?
+
+What is Snowflake Time Travel?
+
+What is SnowPipe?
+
+Is Snowflake OLTP or OLAP?
+
+How to create a Snowflake task?
+
+What do you mean by Horizontal and Vertical Scaling in SNOWFLAKE?
+
+How is Snowflake different from Redshift?
+
+What do you mean by zero-copy cloning in Snowflake Explain the commands?

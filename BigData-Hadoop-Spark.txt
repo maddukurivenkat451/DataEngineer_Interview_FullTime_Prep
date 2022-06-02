@@ -130,7 +130,7 @@ Incremental Data Load in Hive:
 
 https://www.youtube.com/watch?v=B51yDF04xLw&list=PLHoQFin5tpu8HLQxhTF1O4gW_aJPsSHTw
 
-FOUR STEP STRATEGY FOR INCREMENTAL UPDATES IN APACHE HIVE ON HADOOP:**********************************************************
+FOUR STEP STRATEGY FOR INCREMENTAL UPDATES IN APACHE HIVE ON HADOOP:
 
 https://community.cloudera.com/t5/Community-Articles/FOUR-STEP-STRATEGY-FOR-INCREMENTAL-UPDATES-IN-APACHE-HIVE-ON/ta-p/246015
 
