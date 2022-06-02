@@ -122,6 +122,12 @@ Hive different types of joins(Left, right, Inner, Left anti, Left semi)
 
 What is Sort merge Bucket join in Hive?
 
+Hive ALTER command and what is the use.
+
+How can you run hive query from command line with out logging in to hive.
+
+What is difference between Hive and beeline
+
 Hive window analytical functions(Row_numer, Rank, Dense_rank, Lead, Lag)
 
 How can you handle Incremental updates in Hive? Explain the process
@@ -216,6 +222,24 @@ Spark Performance tuning or optimization techniques?
 Memory Management in Spark?
 
 How did you handle CDC change data capture in SPARK?
+
+Difference between Spark 2.X vs Spark 3.X 
+
+Dynamic allocation in SPARK.
+
+Memory allocation in SPARK and explain
+
+How do you handle Data SkewNess in SPARK.
+
+Dynamic allocation in spark
+
+Spark 2.x VS spark 3.x
+
+If you want to rite a DF in to a s3 location on particular size what is the command ?
+
+How do you handle small file problems in spark and what would cause with small file problems.
+
+
 
 ***********Spark Streaming **************
 
