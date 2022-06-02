@@ -2,6 +2,29 @@
 ##########Bigdata: HADOOP -SPARK-KAFKA Interview questions:#########
 #################################################################
 
+******************ETL DATAWAREHOUSE *******************
+
+What is dimension Modelling
+
+Fact table vs dimension table
+
+What are late arriving records and late arriving dimensions
+
+Slowly changing dimensions and explain the types.
+
+OLTP VS OLAP
+
+Roll up, slicing and dicing concepts
+
+Primary key, foreign key, natural key and surrogate key and explain them.
+
+Union vs Union all
+
+CTE in sql and use of it
+
+Star Schema vs Snowflake Schema vs Galaxt schema.
+
+Window analytical functions in sql (Rank, dense rank, row number, lead, lag) explain
 
 ******************* BIG DATA ****************
 
