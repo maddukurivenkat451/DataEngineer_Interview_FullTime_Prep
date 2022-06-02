@@ -26,8 +26,11 @@ Star Schema vs Snowflake Schema vs Galaxt schema.
 
 Window analytical functions in sql (Rank, dense rank, row number, lead, lag) explain
 
+What is lookup tables and use of it.
+
 ******************* BIG DATA ****************
 
+Data Lake vs Data base vs Data warehouse
 
 What Is Lambda Architecture?
 
