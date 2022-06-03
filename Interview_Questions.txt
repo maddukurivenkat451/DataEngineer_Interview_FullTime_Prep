@@ -266,6 +266,19 @@ If you want to rite a DF in to a s3 location on particular size what is the comm
 
 How do you handle small file problems in spark and what would cause with small file problems.
 
+Numpartitions, Lowerbound, upperbound when to use and what is the use explain?
+
+What is the default parallelism in spark?
+
+How do I set spark SQL shuffle partitions in Spark session?
+
+What is the default number of partitions in Spark?
+
+How does Spark determine number of partitions?
+
+How Data Partitioning in Spark helps achieve more parallelism?
+
+Difference between spark.sql.shuffle.partitions vs spark.default.parallelism?
 
 
 ***********Spark Streaming **************
@@ -273,7 +286,7 @@ How do you handle small file problems in spark and what would cause with small f
 What is window and sliding interval in spark streaming?
 
 
-***********Kafka**************
+***********KAFKA KAFKA KAFKA**************
 
 https://www.zeolearn.com/interview-questions/kafka
 
@@ -320,6 +333,32 @@ How to use Airflow XComs in templates?
 
 What is sensor in airflow and use of it?
 
+What is Macros?
+
+Default timezone used to schedule in airflow dags.
+
+what is operator in airflow.
+
+How do you write a custom operator in Airflow?
+
+What is Dagrun_timeout?
+
+What is catch up in airflow?
+
+What is hook in Airflow?
+
+What is dummy operator?
+
+How do I submit spark jobs to EMR cluster from Airflow?
+
+How do you create an EMR cluster in Airflow?
+
+
+What is celery in Airflow?
+
+What is flower in Airflow?
+
+Can we create a single node cluster using EMR?
 
 
 ***********SNOWFLAKE********************

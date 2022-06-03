@@ -42,7 +42,7 @@ Difference between delta and parquet format
 
 Snowflake vs Redshift difference
 
-How do you Manage Airflow?
+How do you Manage Airflow? Is it EC2 manged or Aws Managed MWFAA?
 
 *************************Client 2****************
 1) situations where you had challenging parts in pipeline development
