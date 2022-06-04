@@ -1,0 +1,416 @@
+############################################
+****** AWS AWS AWS*******:
+#############################################
+
+Concepts To Focus:
+1) AWS Basics
+2) AWS S3
+3) Amazon EC2
+4) AWS PYSPARK
+5) AWS GLUE
+6) Athena & Lambda
+7) AWS LAMBDA
+8) AWS Kinesis
+9) AWS Step Functions
+10)AWS EMR
+11) AWS CI\CD
+12) AWS BLOGS
+
+
+************AWS Basics************
+
+https://dzone.com/articles/aws-basics
+
+https://dev.to/harshaambati/aws-cheatsheet-2f0k
+
+
+Operational Excellence,Security,Reliability,Performance Efficiency,Cost Optimization
+
+https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/
+
+
+Data Analytics on AWS — What, Why & How
+
+https://solegaonkar.medium.com/data-analytics-on-aws-what-why-how-42531d386fec
+
+
+Introduction to AWS Services
+
+https://www.youtube.com/watch?app=desktop&v=Z3SYDTMP3ME
+
+
+Data Warehousing in AWS part 1
+
+https://medium.com/analytics-vidhya/data-warehousing-in-aws-c5e097249cf6
+
+
+Data Warehousing in AWS part 2
+
+https://medium.com/analytics-vidhya/data-warehousing-in-aws-part-2-aea9c458b383
+
+
+
+**********************AWS S3**********************
+
+AWS S3 Tutorial For Beginners| Introduction to Amazon S3|AWS S3 Bucket Tutorial|Cloud storage on AWS
+
+https://www.youtube.com/watch?v=Cij5_4yLHLA
+
+
+Explanation of The S3 Consistency Model
+
+https://medium.com/analytics-vidhya/explanation-of-the-s3-consistency-model-82720b581b2e
+
+What does s3 Data Consistency mean?
+
+https://twwip.com/2019/11/29/what-does-s3-data-consistency-mean/amp/
+
+
+
+************Amazon EC2************
+
+https://digitalcloud.training/amazon-ec2/
+
+
+************AWS PYSPARK****************
+
+Building Apache Spark 3.x to support S3 / GCS
+
+https://dev-listener.medium.com/building-apache-spark-3-x-for-s3-e84d2a143312
+
+
+How to access S3 data from Spark
+
+https://blog.insightdatascience.com/how-to-access-s3-data-from-spark-74e40e0b2231
+
+
+How to read parquet data from S3 using the S3A protocol and temporary credentials in PySpark
+
+https://medium.com/@bogdan.cojocar/how-to-read-parquet-data-from-s3-using-the-s3a-protocol-and-temporary-credentials-in-pyspark-f94071bf8c6a
+
+Apache Spark with Amazon S3 Examples
+
+https://supergloo.com/spark/apache-spark-amazon-s3/
+
+
+PySpark AWS S3 Read Write Operations
+
+https://pub.towardsai.net/pyspark-aws-s3-read-write-operations-f473e5bee30f
+
+
+
+********************** AWS GLUE**********************
+
+AWS Glue Crawler Tutorial with Hands On Lab | AWS Glue Tutorials | AWS Glue Hand-On Tutorial
+
+https://www.youtube.com/watch?v=32oVe1RLGxM
+
+https://www.youtube.com/watch?v=8O03fAZS1Vc
+
+Trigger AWS Glue Crawler from Lambda | Event Trigger of Glue Crawlers | AWS Glue Tutorials Hands-on
+
+https://www.youtube.com/watch?v=6f1FccQXZ18
+
+Essential Functionalities to Guide you While using AWS Glue and PySpark!
+
+https://www.analyticsvidhya.com/blog/2020/08/essential-functionalities-to-guide-you-while-using-aws-glue-and-pyspark/
+
+
+Optimizing Spark applications with workload partitioning in AWS Glue
+
+https://aws.amazon.com/blogs/big-data/optimizing-spark-applications-with-workload-partitioning-in-aws-glue/
+
+
+UPSERTS and DELETES using AWS Glue and Delta Lake
+
+https://dev.to/awscommunity-asean/making-your-data-lake-acid-compliant-using-aws-glue-and-delta-lake-gk9
+
+
+ANALYTICS ON AWS
+
+https://intro-to-analytics-on-aws.workshop.aws/en/
+
+https://intro-to-analytics-on-aws.workshop.aws/en/lab-guide.html
+
+
+**********************Athena & Lambda**********************
+
+AWS Athena Overview - Key Concepts | Serverless Interactive Query Service
+
+https://www.youtube.com/watch?v=UwnRi4ZDJEk
+
+AWS Athena Partitioning | Athena Tutorials | Athena Query Performance Improvement | AWS Tutorials
+
+https://www.youtube.com/watch?v=okp25X03J-0
+
+AWS Athena Partitions with Lambda Function | Automatically Load Partitions | Athena + Lambda + S3
+
+https://www.youtube.com/watch?v=5ipPwfU6sFs
+
+Athena JDBC Connection Example | Querying Athena from Java | AWS Athena Tutorial | Athena Data Lake
+
+https://www.youtube.com/watch?v=tZ21W5V0UKg
+
+AWS Athena Tutorial l Athena Hands On LAB | Athena + Glue + S3 Data Lake | Athena AWS Tutorials
+
+https://www.youtube.com/watch?v=8VOf1PUFE0I
+
+How to Schedule Athena Queries with Lambda in AWS
+
+https://www.youtube.com/watch?v=jr54fOkT25w
+
+How to Use Athena with Json Data in AWS
+
+https://www.youtube.com/watch?v=PLtMYA7LpbE
+
+
+AWS Athena Glue and QuickSight Tutorial | Athena and QuickSight Integration | Serverless Analytics
+
+https://www.youtube.com/watch?v=Cg4DNZcLh5A
+
+
+**********************AWS LAMBDA**********************
+
+AWS Lambda Tutorial for Beginners | What is AWS Lambda | AWS Lambda Getting started | AWS Lambda
+
+https://www.youtube.com/watch?v=7HXjzrE8VWk&pbjreload=101
+
+https://www.youtube.com/watch?v=CgY2uxQPflY&list=PL5KTLzN85O4KO0qEeUVvwTTcHFsdE6Dhx
+
+What is AWS Lambda? Lambda Function with Examples
+
+https://www.guru99.com/aws-lambda-function.html
+
+What Is Serverless AWS Lambda and How to Use It
+
+https://pub.towardsai.net/what-is-serverless-aws-lambda-and-how-to-use-it-2c69672c0161
+
+
+14 Use Cases for AWS Lambda: How to Make the Most of It
+
+https://medium.com/techmagic/14-use-cases-for-aws-lambda-how-to-make-the-most-of-it-45c6f02144df
+
+Build AWS Serverless Application
+
+https://mjpereira.medium.com/aws-serverless-application-model-7e2ebc18350f
+
+AWS Lambda function | Copy files from one S3 bucket to another S3 bucket as soon as uploaded
+
+https://www.youtube.com/watch?v=edqL5Rcf3ws
+
+AWS Read CSV file data from S3 via Lambda function and insert into MySQL
+
+https://www.youtube.com/watch?v=ozbsi3AVcZY
+
+
+Running Spark Application in the EMR Cluster through AWS Lambda Function
+
+https://medium.com/swlh/running-spark-application-in-the-emr-cluster-through-aws-lambda-function-20ff598e63fe
+
+
+How to trigger a spark job from AWS Lambda
+
+https://www.startdataengineering.com/post/trigger-emr-spark-job-from-lambda/
+
+How to Pull Data from an API, Using AWS Lambda
+
+https://www.youtube.com/watch?v=iiIcS4FlX0M
+
+https://www.startdataengineering.com/post/pull-data-from-api-using-lambda-s3/
+
+Triggering an AWS Lambda with Kafka
+
+https://medium.com/aos-engineering-blog/triggering-an-aws-lambda-with-kafka-248fd238aed1
+
+Exploring AWS Lambda Deployment Limits
+
+https://dzone.com/articles/exploring-aws-lambda-deployment-limits
+
+
+How to Save Hundreds of Hours on Lambda Debugging?
+
+https://blog.devgenius.io/how-to-save-hundreds-of-hours-on-lambda-debugging-13edf5b2535
+
+Your AWS Lambda Function Failed, What Now?
+
+https://medium.com/equinox-media-tech/your-aws-lambda-function-failed-what-now-b534e10ebbba
+
+**********************AWS Kinesis**********************
+
+Kinesis Data Stream & Data Analytics Tutorial | AWS Kinesis Tutorial | Kinesis Stream Introduction
+
+https://www.youtube.com/watch?v=RR0hhZUyjjc&list=PLLv1Hn1N3bRwhRLFm37JGCgkcI8wWtQ-a
+
+Kinesis Firehose Tutorial
+
+https://www.youtube.com/watch?v=RFx1QmhjIws
+
+https://www.youtube.com/watch?v=I7fPRkZkld0&list=PLLv1Hn1N3bRw7nU-vYEuBz_3z6thTb3jl
+
+URLS:
+https://towardsdatascience.com/delivering-real-time-streaming-data-to-amazon-s3-using-amazon-kinesis-data-firehose-2cda5c4d1efe
+
+
+How to run a real-time pipeline in AWS Kinesis using PySpark Structured Streaming
+
+https://towardsdatascience.com/how-to-run-a-real-time-pipeline-in-aws-kinesis-using-pyspark-structured-streaming-1b6bc5e6edc9
+
+
+How to build a simple data lake using Amazon Kinesis Data Firehose and Amazon S3
+
+https://medium.com/dataseries/how-to-build-a-simple-data-lake-using-amazon-kinesis-data-firehose-and-amazon-s3-1a6a6887f441
+
+Spark Streaming & Real Time Analytics on AWS
+
+https://medium.com/swlh/spark-streaming-real-time-analytics-on-aws-59f731f36aa2
+
+
+Creating A Realtime Analytics & Event Processing System For Big Data Using Amazon Kinesis
+
+https://faun.pub/creating-a-realtime-analytics-event-processing-system-for-big-data-using-amazon-kinesis-756f5e5d1abf
+
+
+
+**********************AWS Step Functions**********************
+
+ETL Orchestration on AWS with AWS Step Functions.
+
+https://medium.com/proud2becloud/etl-orchestration-on-aws-with-aws-step-functions-244c2089807a
+
+Serverless Orchestration Workflows using AWS Step functions and Lambda:
+
+https://medium.com/swlh/aws-step-functions-and-lambda-5a649d255a6
+
+
+************AWS EMR****************
+
+
+AWS Elastic Map Reduce— Intro!
+
+https://medium.com/nerd-for-tech/aws-elastic-map-reduce-intro-55206fd47c85
+
+Analyzing Big Data with Amazon EMR
+
+
+https://dimensionless.in/analyzing-big-data-with-spark-and-amazon-emr/
+
+Amazon EMR introduces EMR runtime for Presto, providing a 2.6 times speedup
+
+https://aws.amazon.com/blogs/big-data/amazon-emr-introduces-emr-runtime-for-prestodb-which-provides-a-2-6-times-speedup/
+
+
+EMR EC2 Supported Instance Types:
+
+https://docs.aws.amazon.com/emr/latest/ManagementGuide/emr-supported-instance-types.html
+
+Supported Amazon EC2 Instances for Amazon EMR Clusters
+
+https://docs.aws.amazon.com/datapipeline/latest/DeveloperGuide/dp-emr-supported-instance-types.html
+
+Amazon EMR supports Apache Hive ACID transactions
+
+https://aws.amazon.com/blogs/big-data/amazon-emr-supports-apache-hive-acid-transactions/
+
+
+Delta Lake on AWS EMR — #1
+
+https://datapipelineguy.medium.com/delta-lake-on-aws-emr-part-1-896aa3896cbb
+
+Running Spark Pipelines on EMR Using Spots Instances
+
+https://medium.com/teads-engineering/running-spark-pipelines-on-emr-using-spots-instances-28fc561bdc97
+
+Running Spark Pipelines on EMR Using Spots Instances
+
+https://medium.com/teads-engineering/running-spark-pipelines-on-emr-using-spots-instances-28fc561bdc97
+
+
+Orchestration of AWS EMR Clusters Using Airflow —The Insider Way
+
+https://medium.com/insiderengineering/orchestration-of-aws-emr-clusters-using-airflow-the-insider-way-407abd6713a1
+
+
+************AWS CI\CD****************
+
+How to create a AWS Code Pipeline using AWS Code Commit , Code Build and Code Deploy
+
+https://medium.com/beeranddiapers/how-to-create-a-aws-code-pipeline-using-aws-code-commit-code-build-and-code-deploy-8c555a6401fc
+
+CI/CD in AWS — Intro — A pipeline with CodeBuild and CodeDeploy
+
+https://medium.com/@elmanhasa/ci-cd-in-aws-a-pipeline-with-codebuild-and-codedeploy-226b70574f83
+
+CI/CD in AWS — Continuous Integration with CodeBuild
+
+https://medium.com/@elmanhasa/ci-cd-in-aws-continuous-integration-with-codebuild-30c0dcefb7a3
+
+CI/CD in AWS — Configure Auto Scaling for CodeDeploy
+
+https://medium.com/@elmanhasa/ci-cd-in-aws-configure-auto-scaling-for-codedeploy-28063b9e714
+
+CI/CD in AWS — Continuous Deployment with CodeDeploy
+
+https://medium.com/@elmanhasa/ci-cd-in-aws-continuous-deployment-with-codedeploy-5c3d5f554d4f
+
+
+************ AWS Important BLOGS ***********************
+
+Data Analytics Lifecycle using AWS
+
+https://medium.com/analytics-vidhya/data-analytics-lifecycle-overview-aws-2bb73af90bad
+
+Building a Real Life Data Lake in AWS
+
+https://towardsdatascience.com/building-a-real-life-data-lake-in-aws-ee3bc9b8bba1
+
+
+Building Data Lake on AWS — Data Processing
+
+https://blog.clairvoyantsoft.com/building-data-lake-on-aws-data-processing-e1545a5e25bd
+
+
+Complete Guide to AWS Data Lake
+
+https://anandtripathi5.medium.com/complete-guide-to-aws-data-lake-4cc85259deb0
+
+
+AWS Data Ingestion Methods
+
+https://namanjainyr.medium.com/aws-data-ingestion-methods-2881b3657604
+
+
+Creating Data Lake & Discovering Your Data Using AWS Lake Formation Capabilities
+
+https://medium.com/analytics-vidhya/creating-data-lake-discovering-your-data-using-aws-lake-formation-capabilities-193d497424a5
+
+
+Log-Analytics-Solution With AWS
+
+https://medium.com/analytics-vidhya/log-analytics-solution-with-aws-62c78a1f4dc7
+
+
+Analysing Census Data Using AWS
+
+https://medium.com/analytics-vidhya/analysing-census-data-using-aws-5ce13167994c
+
+
+Document Understanding Solution Using AWS
+
+https://adit-modi24.medium.com/document-understanding-solution-using-aws-5801292c58ab
+
+
+Serverless Architecture Patterns in AWS
+
+https://waswani.medium.com/serverless-architecture-patterns-in-aws-edeab0e46a32
+
+
+AWS Cross Account Access
+
+https://crishantha.medium.com/aws-cross-account-access-70c5b2fac543
+
+https://crishantha.medium.com/aws-cross-account-access-6db4d7be37de
+
+
+Building a Customer Data Platform using Databricks in AWS
+
+https://aws.plainenglish.io/building-a-customer-data-platform-using-databricks-in-aws-7cc5810c84a5

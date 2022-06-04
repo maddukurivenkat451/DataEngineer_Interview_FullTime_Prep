@@ -1,0 +1,492 @@
+####################################################################
+#****************BIG DATA - BIG DATA - BIG DATA#****************
+###############################################################
+
+
+Concepts To Focus:
+1) LAMBDA ARCHITECTURE*
+2) HDFS
+3) MapReduce
+4) SQOOP
+5) HIVE
+6) SPARK
+7) Spark Structured Streaming
+
+
+****************LAMBDA ARCHITECTURE**********************
+
+What Is Lambda Architecture:
+
+https://hazelcast.com/glossary/lambda-architecture/
+
+https://hazelcast.com/glossary/change-data-capture/
+
+Data Challenges in Big Data
+
+https://luminousmen.com/post/data-challenges-in-big-data
+
+
+****************HDFS HDFS HDFS****************************
+
+HDFS Architecture:
+
+https://www.youtube.com/watch?v=YjyXL3-FPik
+
+https://www.analyticsvidhya.com/blog/2020/10/hadoop-distributed-file-system-hdfs-architecture-a-guide-to-hdfs-for-every-data-engineer/
+
+https://www.guru99.com/learn-hdfs-a-beginners-guide.html
+
+https://images.linoxide.com/hadoop-hdfs-commands-cheatsheet.pdf
+
+****************MapReduce****************
+
+
+What is MapReduce in Hadoop? Architecture | Example
+
+https://www.guru99.com/introduction-to-mapreduce.html
+
+
+*************************************************************
+*********************SQOOP SQOOP SQOOP*****************
+*************************************************************
+
+Apache Sqoop:
+
+Documentation:
+
+https://sqoop.apache.org/docs/1.4.7/SqoopUserGuide.html 
+
+Sqoop Cheat cheet:
+
+https://www.janbasktraining.com/blog/sqoop-commands-cheat-sheet/
+
+Sqoop Process:
+
+https://towardsdatascience.com/apache-sqoop-1113ce453639
+
+BigWorld with BigData: Apache Sqoop — Part 1
+
+https://kmuthakana.medium.com/bigworld-with-bigdata-zero-to-hero-apache-sqoop-part-1-183180ae203c
+
+BigWorld with BigData: Apache Sqoop — Part 2
+
+https://kmuthakana.medium.com/bigworld-with-bigdata-apache-sqoop-part-2-b028d69d76ae
+
+BigWorld with BigData: Apache Sqoop — Part 3
+
+https://kmuthakana.medium.com/bigworld-with-bigdata-apache-sqoop-part-3-c9a6460d9e11
+
+Apache Sqoop : Incremental import with sqoop-job 
+
+https://medium.com/@nitingupta.bciit/apache-sqoop-incremental-import-with-sqoop-job-949b60e1101a
+
+merge data-sets imported via incremental import using Sqoop:
+
+https://sodocumentation.net/sqoop/topic/5673/merge-data-sets-imported-via-incremental-import-using-sqoop
+
+
+
+*************************************************************
+*********************HIVE HIVE HIVE *********************
+*************************************************************
+
+Hive Architecture in Depth
+
+https://medium.com/plumbersofdatascience/hive-architecture-in-depth-ba44e8946cbc
+
+Architecture and Working of Hive:
+
+https://www.geeksforgeeks.org/architecture-and-working-of-hive/
+
+Data Engineering for Beginners – Partitioning vs Bucketing:
+
+https://www.analyticsvidhya.com/blog/2020/11/data-engineering-for-beginners-partitioning-vs-bucketing-in-apache-hive/
+
+https://www.guru99.com/hive-partitions-buckets-example.html
+
+https://sparkbyexamples.com/apache-hive/hive-partitioning-vs-bucketing-with-examples/
+
+MSCK REPAIR:
+
+https://analyticshut.com/msck-repair-fixing-partitions-in-hive-table/
+
+
+Big Data File Formats:
+
+https://blog.clairvoyantsoft.com/big-data-file-formats-3fb659903271
+
+https://www.youtube.com/watch?v=jKfKmBdPuT4
+
+Row based vs Column based file formats:
+
+https://www.youtube.com/watch?v=HpAZDbke0As
+
+ORC vs Parquet file format:
+
+https://www.youtube.com/watch?v=Q9Nz7CgRQKU
+
+
+Incremental Data Load in Hive:
+
+https://www.youtube.com/watch?v=B51yDF04xLw&list=PLHoQFin5tpu8HLQxhTF1O4gW_aJPsSHTw
+
+FOUR STEP STRATEGY FOR INCREMENTAL UPDATES IN APACHE HIVE ON HADOOP:
+
+https://community.cloudera.com/t5/Community-Articles/FOUR-STEP-STRATEGY-FOR-INCREMENTAL-UPDATES-IN-APACHE-HIVE-ON/ta-p/246015
+
+https://medium.com/@sumit.varshney/incremental-update-in-apache-hive-ff8dca966387
+
+Incremental updates in HDInsight:
+
+https://www.valdas.blog/2017/03/21/incremental-updates-in-apache-hive/
+
+Using Hive ACID Transactions to Insert, Update and Delete Data:
+
+https://www.cloudera.com/tutorials/using-hive-acid-transactions-to-insert-update-and-delete-data.html 
+
+
+Hive ACID Properties:
+
+https://blog.clairvoyantsoft.com/hive-acid-transactions-part-i-f08da70b591b
+
+https://blog.clairvoyantsoft.com/hive-acid-transactions-part-ii-6f5e478bbff
+
+
+*************************************************************
+************SPARK SPARK SPARK********************************
+**************************************************************
+
+
+Apache Spark for Data Engineering and Analysis - Overview:
+
+https://www.youtube.com/watch?v=3kX5ry0RCOQ
+
+Udemy course:
+
+https://www.udemy.com/course/introduction-to-python-for-big-data-engineering-with-pyspark/
+
+Certification practise:
+
+https://www.udemy.com/course/databricks-apache-spark-3x-python-certification-practice/
+
+
+Beginners Guide to PySpark:
+
+https://towardsdatascience.com/beginners-guide-to-pyspark-bbe3b553b79f
+
+https://hackersandslackers.com/series/learning-apache-spark/
+
+https://hackersandslackers.com/learning-to-use-apache-spark-pyspark/
+
+
+
+Apache Spark Architecture – How Spark works?
+
+https://www.data-stats.com/apache-spark-architecture-how-spark-works/
+
+https://queirozf.com/entries/apache-spark-architecture-overview-clusters-jobs-stages-tasks
+
+Spark! Core Concepts Revisited:
+
+https://www.linkedin.com/pulse/just-enough-spark-core-concepts-revisited-deepak-rajak
+
+
+Persist and Cache in Apache Spark
+
+https://www.learntospark.com/2020/05/persist-and-cache-in-apache-spark.html?m=1
+
+Bucketing in Spark
+
+https://blog.clairvoyantsoft.com/bucketing-in-spark-878d2e02140f
+
+
+Spark Partitions:
+
+https://luminousmen.com/post/spark-partitions
+
+Spark Tips. Partition Tuning
+
+https://luminousmen.com/post/spark-tips-partition-tuning
+
+How Spark dataframe shuffling can hurt your partitioning
+
+https://medium.com/@manuelmourato25/how-spark-dataframe-shuffling-can-hurt-your-partitioning-28d05fdcb6fa
+
+Managing Spark Partitions with Coalesce and Repartition
+
+https://mrpowers.medium.com/managing-spark-partitions-with-coalesce-and-repartition-4050c57ad5c4
+
+https://blog.knoldus.com/apache-spark-repartitioning-v-s-coalesce/
+
+
+
+Apache Spark Internals: Tips and Optimizations:
+
+https://itnext.io/apache-spark-internals-tips-and-optimizations-8c3cad527ea2
+
+Key factors to consider when optimizing Spark Jobs:
+
+https://medium.com/datakaresolutions/key-factors-to-consider-when-optimizing-spark-jobs-72b1a0dc22bf
+
+Spark Optimization Technique | How to improve performance for your Spark Application
+
+https://nivedita-mondal.medium.com/spark-optimization-technique-how-to-improve-performance-for-your-spark-application-f75dc58b6b86
+
+
+Spark Optimization Techniques — Broad Cast Join
+
+https://vamsi-krish601.medium.com/spark-optimization-techniques-broad-cast-join-6838baf68e45
+
+
+SPARK 3.0 : Enhancements and Optimization
+
+https://medium.com/xebia-engineering/spark-3-0-enhancements-and-optimization-94a1cda8f1b1
+
+Optimizing the data reads in Spark: Part 1
+
+https://dataops-dev.medium.com/optimizing-the-data-reads-in-spark-part-1-pyspark-2-4-4f7206438b77
+
+
+*************SPARK DATA SKEW NESS*********
+
+Spark Performance Tuning: Skewness Part 1
+
+https://selectfrom.dev/spark-performance-tuning-skewness-part-1-82502246cb32
+
+
+Spark Performance Tuning: Skewness Part 2
+
+https://selectfrom.dev/spark-performance-tuning-skewness-part-2-9f50c765a87e
+
+
+Apache Spark — Performance Tuning
+
+https://sharadgupta619.medium.com/apache-spark-performance-tuning-a8d1cc59e859
+
+
+Demystifying Joins in Apache Spark: The art of joining in Spark:
+
+https://www.data-stats.com/joins-in-pyspark/
+
+https://sparkbyexamples.com/pyspark/pyspark-join-explained-with-examples/
+
+https://towardsdatascience.com/demystifying-joins-in-apache-spark-38589701a88e\
+
+https://towardsdatascience.com/the-art-of-joining-in-spark-dcbd33d693c
+
+https://nivedita-mondal.medium.com/spark-join-strategies-fb984b50441d
+
+
+Smart Resource Utilization With Spark Dynamic Allocation
+
+https://dzone.com/articles/spark-dynamic-allocation#:~:text=For%20this%2C%20Spark%20comes%20to,resources%20to%20complete%20those%20tasks.
+
+Tuning Resource Allocation in Apache Spark
+
+https://www.justanalytics.com/blog/technical-know-how/tuning-resource-allocation-in-apache-spark
+
+Spark perfomance issues? Let’s optimize that code!
+
+https://medium.com/plumbersofdatascience/this-spark-code-is-slower-than-a-snail-lets-optimize-it-dbe6736c784d
+
+
+Apache Spark Memory Management 
+
+https://databricks.com/blog/2015/05/28/tuning-java-garbage-collection-for-spark-applications.html
+
+https://www.youtube.com/watch?v=iLpjNItogwc
+
+https://luminousmen.com/post/dive-into-spark-memory
+
+http://spark-configuration.luminousmen.com/
+
+https://medium.com/analytics-vidhya/apache-spark-memory-management-49682ded3d42
+
+Spark Out of Memory Issue | Spark Memory Tuning
+
+https://www.youtube.com/watch?v=FdT5o7M35kU
+
+
+Encrypting column of a spark dataframe
+
+https://medium.com/swlh/encrypting-column-of-a-spark-dataframe-35d64b0db00f
+
+
+How to Flatten Json Files Dynamically Using Apache PySpark
+
+https://medium.com/@thomaspt748/how-to-flatten-json-files-dynamically-using-apache-pyspark-c6b1b5fd4777
+
+Pyspark Complex Json Processing
+
+https://www.youtube.com/watch?v=1dEflnG0iho&t=1024s
+
+Create Row for each array Element using PySpark Explode
+
+https://dwgeek.com/pyspark-creating-row-for-each-array-element-explode.html/
+
+PYSPARK EXPLODE NESTED ARRAY, ARRAY OR MAP TO ROWS
+
+https://amiradata.com/pyspark-explode-nested-array-map-to-rows/
+
+
+How to read complex json data in Pyspark
+
+https://grkamarnath.medium.com/how-to-read-complex-json-data-in-pyspark-16a0e9149f0
+
+PySpark Aggregations – Cube, Rollup:
+
+https://www.data-stats.com/pyspark-aggregations-cube-rollup/
+
+Update Data using Spark – Four Step Strategy(VERY VERY IMPT)
+
+https://www.data-stats.com/update-data-using-spark-four-step-strategy/
+
+
+Slowly Changing Dimensions (SCD)Type-2:
+
+https://dataops-dev.medium.com/slowly-changing-dimensions-scd-type-2-pyspark-implementation-in-2-4-53368f9e1b74
+
+
+How to UPSERT data into a relational database using Apache Spark: Part 1(Python Version)
+
+https://medium.com/@thomaspt748/how-to-upsert-data-into-a-relational-database-using-apache-spark-part-1-python-version-b43b9761bbf2
+
+
+
+Spark SQL:
+
+https://www.youtube.com/watch?v=y7Otu8MC_eM
+
+https://www.youtube.com/watch?v=DBp2zG-YVxg
+
+https://www.youtube.com/watch?v=048wM8Npjbo
+
+
+Deep Dive into Apache Spark DateTime Functions
+
+https://medium.com/expedia-group-tech/deep-dive-into-apache-spark-datetime-functions-b66de737950a
+
+
+Window Functions:
+
+Deep dive into Apache Spark Window Functions
+
+https://medium.com/expedia-group-tech/deep-dive-into-apache-spark-window-functions-7b4e39ad3c86
+
+Deep Dive into Apache Spark Array Functions:
+
+https://medium.com/expedia-group-tech/deep-dive-into-apache-spark-array-functions-720b8fbfa729
+
+
+
+PySpark Syntax—5 Quick Tips
+
+https://medium.com/analytics-vidhya/pyspark-xp-syntax-f57a9e6a500f
+
+
+Too Small Data — Solving Small Files issue using Spark
+
+https://sauravagarwaldigital.medium.com/too-small-data-solving-small-files-issue-using-spark-b7ef66827a24
+
+
+How to UPSERT data into a relational database using Apache Spark
+
+https://medium.com/@thomaspt748/how-to-upsert-data-into-a-relational-database-using-apache-spark-part-1-python-version-b43b9761bbf2
+
+
+*******************************************************
+*************Spark Structured Streaming****************
+*********************************************************
+
+Apache Spark Structured Streaming — First Streaming Example 
+
+https://medium.com/expedia-group-tech/apache-spark-structured-streaming-first-streaming-example-1-of-6-e8f3219748ef
+
+Apache Spark Structured Streaming — Input Sources (2 of 6)
+
+https://medium.com/expedia-group-tech/apache-spark-structured-streaming-input-sources-2-of-6-6a72f798838c
+
+Apache Spark Structured Streaming — Output Sinks (3 of 6)
+
+https://medium.com/expedia-group-tech/apache-spark-structured-streaming-output-sinks-3-of-6-ed3247545fbc
+
+Apache Spark Structured Streaming — Checkpoints and Triggers (4 of 6)
+
+https://medium.com/expedia-group-tech/apache-spark-structured-streaming-checkpoints-and-triggers-4-of-6-b6f15d5cfd8d
+
+
+Apache Spark Structured Streaming — Operations (5 of 6)
+
+https://medium.com/expedia-group-tech/apache-spark-structured-streaming-operations-5-of-6-40d907866fa7
+
+
+Apache Spark Structured Streaming — Watermarking (6 of 6)
+
+https://medium.com/expedia-group-tech/apache-spark-structured-streaming-watermarking-6-of-6-1187542d779f
+
+
+Spark Structured Streaming:
+
+https://docs.databricks.com/spark/latest/structured-streaming/index.html
+
+
+
+
+******************Spark interview: *******************
+
+Apache Spark interview questions Set 2
+
+https://goraidebashree7.medium.com/apache-spark-interview-questions-set-2-b443e6bbf6b
+
+https://ashutosh-bitmesra.medium.com/55-spark-interview-questions-for-senior-developers-c3c86f9682b4
+
+Spark Interview Guide : Part 1: Spark Core
+
+https://nivedita-mondal.medium.com/spark-interview-guide-spark-core-2ab0f57304eb
+
+Spark Interview Guide : Part 2 : RDD
+
+https://nivedita-mondal.medium.com/spark-interview-guide-part-2-rdd-7911519e68c1
+
+Spark Interview Guide : Part 3 : Spark SQL & Dataframe
+
+https://nivedita-mondal.medium.com/spark-interview-guide-part-3-spark-sql-dataframe-12f04f168d6b
+
+
+https://medium.com/cloudzone/apache-spark-3-0-review-what-the-spark-is-all-about-998844e12b3c
+
+
+https://www.knowledgehut.com/interview-questions/spark
+
+
+Don’t use union in Spark when merging DataFrames — The story of null values when using union
+
+https://medium.com/@danielschruhl/dont-use-union-in-spark-when-merging-dataframes-the-story-of-null-values-when-using-union-1913dbe6feb8
+
+
+*************PYTEST-PYSPARK*************
+
+Unit Testing in Python with pytest 
+
+https://www.youtube.com/watch?v=L6N3BgZh2AA
+
+Introduction to Unit Testing with PySpark.
+
+https://www.confessionsofadataguy.com/introduction-to-unit-testing-with-pyspark/
+
+Testing PySpark Code
+
+https://mungingdata.com/pyspark/testing-pytest-chispa/
+
+How to unittest PySpark applications
+
+https://www.knowru.com/blog/how-unittest-pyspark-applications/
+
+Integrating Pyspark with Pycharm + Pytest:
+
+https://awainerc.medium.com/integrating-pyspark-with-pycharm-pytest-f1234356c9a6
+
+
+Data Quality Unit Tests in PySpark Using Great Expectations
+
+https://towardsdatascience.com/data-quality-unit-tests-in-pyspark-using-great-expectations-e2e2c0a2c102

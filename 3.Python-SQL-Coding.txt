@@ -1,0 +1,85 @@
+####################################################################
+#****************DATA ENGINEER & SR DATA ENGINEER ****************
+****************PYTHON & SQL*******************
+###############################################################
+
+Concepts To focus:
+
+1)geek for geeks problems for python
+2)Data Structures
+3)SQL Leetcode Practise- Create account in LEETOCDE and practise
+
+
+CODING TIPS:
+
+https://youtu.be/K_oJLQx2ySY
+
+https://www.youtube.com/watch?v=27u8xHqLMZE
+
+
+******************PYTHON**************************
+
+Python Programming Examples
+
+https://www.geeksforgeeks.org/python-programming-examples/
+
+
+Python Exercises, Practice Questions and Solutions
+
+https://www.geeksforgeeks.org/python-exercises-practice-questions-and-solutions/
+
+https://www.programiz.com/python-programming/examples
+
+
+Data Engineering Cheat Sheet
+
+https://shahinrahbariasl.medium.com/data-engineering-cheat-sheet-28c653859da0
+
+Design patterns:
+
+https://codeburst.io/design-patterns-101-9fe18d5a1bd9
+
+Data Structures & Algorithms:
+
+https://www.youtube.com/watch?v=_t2GVaQasRY&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12
+
+
+Algoexpert (Problem Solving)
+
+https://mega.nz/folder/WEVGkRpB#piUgI_XI5q8qyomyQEajjA
+
+
+Python Interview Questions:
+
+https://www.youtube.com/playlist?list=PLFV6T8f5WU2FRO_Hu7q9b18yB1P98NSZd
+
+
+
+DSA — Bubble Sort Algorithm
+
+https://yatin-pandit94.medium.com/dsa-bubble-sort-algorithm-dcd2fd59f72
+
+
+*************SQL************
+
+https://www.youtube.com/watch?v=4fJhFtxCgCc
+
+https://www.youtube.com/watch?v=K-_h-6NPak8&list=PLtPFQl_0853oNyMPC2Fd0K1uW9x41KQn6&index=16
+
+
+https://www.youtube.com/watch?v=OIRy7ZFSudA&list=PLtPFQl_0853oNyMPC2Fd0K1uW9x41KQn6&index=7
+
+
+https://www.geeksforgeeks.org/sql-top-n-queries/
+
+https://www.sqlshack.com/overview-of-the-sql-row-number-function/
+
+Learn SQL Window Functions
+
+https://lohithyelamanchi.medium.com/learn-sql-window-functions-in-5-minutes-2f513019dd40
+
+
+
+*********coding practise(PYTHON & SQL)**********
+
+https://leetcode.com/
