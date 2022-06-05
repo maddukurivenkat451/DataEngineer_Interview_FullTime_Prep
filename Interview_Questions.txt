@@ -272,7 +272,7 @@ Hash Partitioning in Spark?
 
 Spark Performance tuning or optimization techniques?
 
-Memory Management in Spark?
+Memory Management in Spark? Explain how it works?
 
 How did you handle CDC change data capture in SPARK?
 
@@ -284,9 +284,7 @@ Memory allocation in SPARK and explain
 
 How do you handle Data SkewNess in SPARK.
 
-Dynamic allocation in spark
-
-Spark 2.x VS spark 3.x
+Difference Spark 2.x VS spark 3.x. what are the advantages in spark 3.x has over spark 2.x
 
 If you want to rite a DF in to a s3 location on particular size what is the command ?
 
@@ -305,6 +303,11 @@ How does Spark determine number of partitions?
 How Data Partitioning in Spark helps achieve more parallelism?
 
 Difference between spark.sql.shuffle.partitions vs spark.default.parallelism?
+
+Explain spark submit command and what are the parameters to send and explain them.
+–driver-memory 
+–executor-memory 
+–num-executors
 
 
 ***********Spark Streaming **************
