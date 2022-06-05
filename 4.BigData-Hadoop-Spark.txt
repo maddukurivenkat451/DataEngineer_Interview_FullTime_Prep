@@ -145,12 +145,28 @@ Using Hive ACID Transactions to Insert, Update and Delete Data:
 https://www.cloudera.com/tutorials/using-hive-acid-transactions-to-insert-update-and-delete-data.html 
 
 
+Performance Tuning Practices in Hive: Hive performance considerations, Apache Hive Optimization Techniques.
+
+https://www.analyticsvidhya.com/blog/2022/02/performance-tuning-practices-in-hive/
+
+https://medium.com/@abikoolin/hive-performance-considerations-307ef7c0aa5e
+
+https://medium.com/@puneeth_kumar/apache-hive-optimization-techniques-5aee0bb921b8
+
 Hive ACID Properties:
 
 https://blog.clairvoyantsoft.com/hive-acid-transactions-part-i-f08da70b591b
 
 https://blog.clairvoyantsoft.com/hive-acid-transactions-part-ii-6f5e478bbff
 
+
+HIVE CLI Commands:
+
+http://hadooptutorial.info/hive-cli-commands/
+
+Hive Cheat Sheet:
+
+https://blog.puneethabm.com/hive-cheat-sheet/
 
 *************************************************************
 ************SPARK SPARK SPARK********************************

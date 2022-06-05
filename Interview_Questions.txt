@@ -22,13 +22,13 @@ Union vs Union all
 
 CTE in sql and use of it
 
-Star Schema vs Snowflake Schema vs Galaxt schema.
+Star Schema vs Snowflake Schema vs Galaxy schema.
 
 Window analytical functions in sql (Rank, dense rank, row number, lead, lag) explain
 
 What is lookup tables and use of it.
 
-******************* BIG DATA ****************
+******************* BIG DATA - HADOOP ****************
 
 Data Lake vs Data base vs Data warehouse
 
@@ -44,6 +44,12 @@ What are the steps involved in deploying a big data solution?
 
 What do you understand by edge nodes in Hadoop?
 
+Why do we need Hadoop?
+
+What are the main components of a Hadoop Application?
+
+What are the most commonly defined input formats in Hadoop?
+
 https://svrtechnologies.com/top-50-hadoop-interview-questions-and-answers-pdf/
 
 ******************* HDFS ******************************
@@ -51,6 +57,8 @@ https://svrtechnologies.com/top-50-hadoop-interview-questions-and-answers-pdf/
 Explain HDFS Architecture
 
 HDFS COMMANDS
+
+https://medium.com/geekculture/hdfs-commands-cheat-sheet-1cd7bf22e795
 
 Difference between Local FS vs HDFS
 
@@ -70,8 +78,9 @@ How will you resolve the NameNode failure issue?
 
 What is HDFS High Availability?
 
-What do you understand by edge nodes in Hadoop?
+How can you overwrite the replication factors in HDFS?
 
+Explain about the indexing process in HDFS?
 
 ********* YARN ****************
 
@@ -80,6 +89,7 @@ What is YARN and explain its components?
 
 ******************* SQOOP ***************
 
+Sqoop Architecture
 
 What is Sqoop Metastore? Explain it?
 
@@ -103,6 +113,8 @@ By Default how many mappers will sqoop import have?
 
 Volume of data you handeled in sqoop on daily basis, Weeklybasis, Monthly basis?
 
+Is it possible to do an incremental import using Sqoop?
+
 Is your tables from RDBMS to hadoop if full load or Incremental? 
 
 if full load volume of data whay you are doing full load for  those tables?
@@ -115,10 +127,17 @@ What issues you have faced while doing sqoop import? Explain?
 
 Sqoop Parallelism? How to do it.
 
-##########
---boundary-query During sqoop import process, it uses this query to calculate the boundary for creating splits: select min(), max() from table_name.
+What is sqoop export? 
 
-********* Hive ***************
+What issues you have faced while doing sqoop export? Explain?
+
+Sqoop performance tuning. Explain.
+
+boundary-query During sqoop import process, it uses this query to calculate the boundary for creating splits: select min(), max() from table_name.
+
+**************** Hive **************************
+
+https://career.guru99.com/top-30-hive-interview-questions/
 
 Hive Architecture
 
@@ -126,7 +145,9 @@ Hive metastore
 
 Defalut hive warehouse directory or location?
 
-Mention what are the different types of tables (External bs Mangaged)available in Hive? Explain?
+Mention what are the different types of tables (External vs Mangaged)available in Hive? Explain?
+
+Mention when to choose “Internal Table” and “External Table” in Hive?
 
 Difference between Hive Partition vs Bucketing? When to use partition or Bucketing
 
@@ -160,6 +181,11 @@ How can you handle Incremental updates in Hive? Explain the process
 
 Hive small files issue what happen and how did you solve them?
 
+Hive index concepts?
+
+Explain what is a Hive variable? What for we use it?
+
+Mention what is (HS2) HiveServer2?
 
 ********* SPARK SPARK SPARK ***************
 
@@ -386,3 +412,8 @@ What do you mean by Horizontal and Vertical Scaling in SNOWFLAKE?
 How is Snowflake different from Redshift?
 
 What do you mean by zero-copy cloning in Snowflake Explain the commands?
+
+
+******************************************************
+*********************************AWS AWS AWS *********************************
+*************************************************************

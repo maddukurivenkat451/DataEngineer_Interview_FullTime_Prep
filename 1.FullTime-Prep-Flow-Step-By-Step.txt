@@ -117,3 +117,8 @@ https://interviewing.io/recordings/Python-Airbnb-4/
 Facebook data engineer interview: the only post you'll need to read
 
 https://igotanoffer.com/blogs/tech/facebook-data-engineer-interview
+
+
+Amazon Data Engineer
+
+https://prepfully.com/interview-guides/amazon-data-engineer
