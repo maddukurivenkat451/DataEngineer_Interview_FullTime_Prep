@@ -320,6 +320,28 @@ What is window and sliding interval in spark streaming?
 https://www.zeolearn.com/interview-questions/kafka
 
 
+***********OOZIE OOZIE OOZIE**************
+
+What is Apache Oozie Workflow?
+
+What are the key components of Apache Oozie Workflow? Explain?
+
+What are the different states of an Apache Oozie Workflow job?
+
+What are the different control flow nodes supported by Apache Oozie workflows that control the workflow execution path?
+
+What are the different Action nodes supported by Apache Oozie workflow?
+
+Describe the life-cycle of Apache Oozie workflow job?
+
+What is the use of Join and Fork nodes in Oozie?
+
+What are some of the useful EL functions in the Oozie workflow?
+
+
+***********UNIX SHELL COMMANDS**************
+
+
 ********************AIRFLOW AIRFLOW AIRFLOW********************
 
 What is Airflow?
