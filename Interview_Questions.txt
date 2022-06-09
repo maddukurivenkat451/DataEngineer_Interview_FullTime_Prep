@@ -28,6 +28,16 @@ Window analytical functions in sql (Rank, dense rank, row number, lead, lag) exp
 
 What is lookup tables and use of it.
 
+Explain what is data purging in ETL?
+
+What is meant by snapshots in ETL?
+
+What is the Staging area referring to?
+
+
+
+https://blog.imocha.io/etl-interview-questions-with-answers
+
 ******************* BIG DATA - HADOOP ****************
 
 Data Lake vs Data base vs Data warehouse
@@ -186,6 +196,11 @@ Hive index concepts?
 Explain what is a Hive variable? What for we use it?
 
 Mention what is (HS2) HiveServer2?
+
+show partitions in hive explain.
+
+MSCK repair in Hive explain.
+
 
 ********* SPARK SPARK SPARK ***************
 
@@ -442,3 +457,48 @@ What do you mean by zero-copy cloning in Snowflake Explain the commands?
 ******************************************************
 *********************************AWS AWS AWS *********************************
 *************************************************************
+
+What is EC2?
+
+What are the different types of EC2 instances based on their costs?
+
+What are Spot Instances and On-Demand Instances?
+
+What do you understand by stopping and terminating an EC2 Instance?
+
+What is SnowBall?
+
+What is CloudWatch?
+
+What do you understand by VPC?
+
+What are the Storage Classes available in Amazon S3?
+
+Explain what T2 instances are?
+
+What are Key-Pairs in AWS?
+
+Explain what S3 is?
+
+How can you send a request to Amazon S3?
+
+What are the different types of Instances in EC2 and EMR?
+
+What are the advantages of AWS IAM?
+
+What is AMI?
+
+Mention what the relationship between an instance and AMI is?
+
+What does an AMI include?
+
+How many buckets can you create in AWS by default?
+
+Explain can you vertically scale an Amazon instance? How?
+
+What are the advantages of auto-scaling?
+
+What is Amazon EMR?
+
+AWS EMR Master node, Worker Noode, Core Node types explain.
+
