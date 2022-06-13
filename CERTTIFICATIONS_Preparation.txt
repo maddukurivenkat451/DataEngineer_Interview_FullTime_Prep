@@ -1,0 +1,45 @@
+********************PYTHON ****************
+
+PCAP:
+https://www.itexams.com/exam/PCAP
+
+https://www.dumpsbase.com/freedumps/python-institute-pcap-certification-exam-updated-pcap-31-03-dumps-questions.html
+
+
+********************SPARK SPARK SPARK ***************
+
+
+Databricks Certified Associate Developer for Apache Spark 3.0- Preparation Tips, Info & Clarifications
+
+https://medium.com/@sriramn84_34423/crack-databricks-certified-associate-developer-for-apache-spark-3-0-cf4cb89df61d
+
+
+Study guide for clearing “Databricks Certified Associate Developer for Apache Spark 3.0” exam (python)
+
+https://shrutibhawsar94.medium.com/study-guide-for-clearing-databricks-certified-associate-developer-for-apache-spark-3-0-69377dba0107
+
+
+**************AWS AWS AWS*******************
+
+Learnings from the AWS Data Analytics Speciality
+
+https://medium.com/datamindedbe/learnings-from-the-aws-data-analytics-speciality-952751dac9bf
+
+
+How to prepare for AWS Data Analytics Specialty Exam | Exam Guide and Resources for Data Analytics
+
+https://www.youtube.com/watch?v=TuuBo8--hCs
+
+
+The 5-STEP program to get the AWS Data Analytics Certification in three months
+
+https://medium.com/globant/the-4-steps-program-to-get-the-aws-data-analytics-certification-2020-in-three-months-84733c00bb98
+
+
+AWS CERTIFICATION QUESTIONS:
+
+https://www.koenig-solutions.com/aws
+
+
+
+*******************SNOWFLAKE ***************

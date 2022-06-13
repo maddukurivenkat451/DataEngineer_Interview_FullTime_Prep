@@ -36,6 +36,8 @@ https://www.analyticsvidhya.com/blog/2020/10/hadoop-distributed-file-system-hdfs
 
 https://www.guru99.com/learn-hdfs-a-beginners-guide.html
 
+HDFS COMMANDS:
+
 https://images.linoxide.com/hadoop-hdfs-commands-cheatsheet.pdf
 
 ****************MapReduce****************
@@ -59,6 +61,8 @@ https://sqoop.apache.org/docs/1.4.7/SqoopUserGuide.html
 Sqoop Cheat cheet:
 
 https://www.janbasktraining.com/blog/sqoop-commands-cheat-sheet/
+
+http://www.prathapkudupublog.com/2018/01/sqop-cheat-sheet.html
 
 Sqoop Process:
 
@@ -448,7 +452,7 @@ https://docs.databricks.com/spark/latest/structured-streaming/index.html
 
 
 
-******************Spark interview: *******************
+******************Spark Interview Blogs*******************
 
 Apache Spark interview questions Set 2
 
