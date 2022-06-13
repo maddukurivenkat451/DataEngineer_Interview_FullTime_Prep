@@ -419,12 +419,15 @@ How do I submit spark jobs to EMR cluster from Airflow?
 
 How do you create an EMR cluster in Airflow?
 
-
 What is celery in Airflow?
 
 What is flower in Airflow?
 
 Can we create a single node cluster using EMR?
+
+What are advantages and disadvantages of AIRFLOW?
+
+What are the limitations in Airflow?
 
 
 ***********SNOWFLAKE********************
