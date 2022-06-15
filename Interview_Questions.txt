@@ -505,3 +505,4 @@ What is Amazon EMR?
 
 AWS EMR Master node, Worker Noode, Core Node types explain.
 
+What is bootstrapping in EMR and EC2? Explain
