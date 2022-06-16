@@ -6,7 +6,15 @@
 
 What is dimension Modelling
 
+What is data mart?
+
 Fact table vs dimension table
+
+Explain the fact and fact table
+
+What is the fact less fact?
+
+Explain dimension and attribute
 
 What are late arriving records and late arriving dimensions
 
@@ -18,9 +26,19 @@ Roll up, slicing and dicing concepts
 
 Primary key, foreign key, natural key and surrogate key and explain them.
 
+What is a primary key constraint?
+
+What is a composite primary key constraint?
+
+What is a composite foreign key constraint?
+
+What is a foreign key constraint?
+
 Union vs Union all
 
 CTE in sql and use of it
+
+List out various design schema in data modelling
 
 Star Schema vs Snowflake Schema vs Galaxy schema.
 
@@ -34,6 +52,28 @@ What is meant by snapshots in ETL?
 
 What is the Staging area referring to?
 
+What is an index?
+
+What is data modelling?
+
+What does the data model contain?
+
+Explain various types of data models?
+Conceptual,Logical and Physical
+
+What are a logical data model and logical data modeling?
+
+What are a physical data model and physical data modeling?
+
+What is the difference between a logical and physical data model?
+
+List out the types of normalization?
+ 
+When should you consider denormalization?
+
+What is database cardinality?
+
+What are the different types of cardinal relationships?
 
 
 https://blog.imocha.io/etl-interview-questions-with-answers
@@ -430,7 +470,9 @@ What are advantages and disadvantages of AIRFLOW?
 What are the limitations in Airflow?
 
 
-***********SNOWFLAKE********************
+******************************
+***********SNOWFLAKE* SNOWFLAKE*******************
+***************************************
 
 What are the features of Snowflake? 
 
@@ -506,3 +548,67 @@ What is Amazon EMR?
 AWS EMR Master node, Worker Noode, Core Node types explain.
 
 What is bootstrapping in EMR and EC2? Explain
+
+What is the AWS EMR step?
+
+What is the main use of EMR in AWS?
+
+How many EMR clusters can be run simultaneously?
+
+What is the difference between EC2 and EMR in AWS?
+
+Where does EMR run?
+
+What is a cluster in AWS EMR?
+
+Does EMR make use of yarn?
+
+How do you execute several steps in EMR?
+
+What is Ganglia in EMR?
+
+What is AWS Glue?
+
+What are the Features of AWS Glue?
+
+How can AWS Glue manage ETL Service?
+
+What are the use cases of AWS Glue?
+
+What are the drawbacks of AWS Glue?
+
+How can we Automate Data Onboarding?
+
+How to list all databases and tables in AWS Glue Catalog?
+
+What is AWS Glue Data Catalog?
+
+How can AWS Glue Data Catalog access with Amazon Athena?
+
+What are AWS Glue Crawlers?
+
+How do you trigger a glue crawler in AWS Glue?
+
+What is the AWS Glue Schema Registry?
+
+How does Schema Registry be integrated?
+
+How can we solve this HIVE PARTITION SCHEMA MISMATCH?
+
+How to define nested array to ingest data and convert?
+
+How to execute aws glue scripts using python 2.7 from local machine?
+
+What is AWS Glue Streaming ETL?
+
+How set name for crawled table?
+
+How to specify join types in AWS Glue?
+
+How to join / merge all rows of an RDD in PySpark / AWS Glue into one single long line?
+
+How to create AWS glue job using CLI commands?
+
+How to get the total number of partitions in AWS Glue for specific range?
+
+When an AWS Glue job times out, how do we Retry it?
