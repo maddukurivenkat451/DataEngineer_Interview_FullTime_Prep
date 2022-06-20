@@ -78,6 +78,11 @@ What are the different types of cardinal relationships?
 
 https://blog.imocha.io/etl-interview-questions-with-answers
 
+
+***********UNIX SHELL COMMANDS**************
+
+
+
 ******************* BIG DATA - HADOOP ****************
 
 Data Lake vs Data base vs Data warehouse
@@ -101,6 +106,7 @@ What are the main components of a Hadoop Application?
 What are the most commonly defined input formats in Hadoop?
 
 https://svrtechnologies.com/top-50-hadoop-interview-questions-and-answers-pdf/
+
 
 ******************* HDFS ******************************
 
@@ -185,7 +191,8 @@ Sqoop performance tuning. Explain.
 
 boundary-query During sqoop import process, it uses this query to calculate the boundary for creating splits: select min(), max() from table_name.
 
-**************** Hive **************************
+
+**************** Hive Hive Hive**************************
 
 https://career.guru99.com/top-30-hive-interview-questions/
 
@@ -212,6 +219,11 @@ Difference between AVRO vs Parquet vs ORC? When to use which one ?
 Parquet comes with snappy compression what is the use of it?
 
 Hive Map side join vs reduce side join?
+
+Different types of Execution engine in Hive? Explain below engines property to set?
+Map Reduce (MR)
+TEZ execution engine
+Spark execution engine
 
 What is Hive on TEZ?
 
@@ -241,8 +253,21 @@ show partitions in hive explain.
 
 MSCK repair in Hive explain.
 
+what does the below hive parameters does and explain?
 
-********* SPARK SPARK SPARK ***************
+SET mapreduce.map.memory.mb=5120 ;
+
+SET mapreduce.reduce.memory.mb=5120 ;
+
+SET mapreduce.map.java.opts=-Xmx4608m ;
+
+SET mapreduce.reduce.java.opts=-Xmx4608m;
+
+How to set the mapreduce heap settings for a hive session as parameters to hive client?
+
+
+****************************************************
+********* SPARK SPARK SPARK ***********************
 
 
 https://www.knowledgehut.com/interview-questions/spark
@@ -284,11 +309,14 @@ Difference between Map vs flatmap?
 
 Difference between map() and mapPartitions() function in Spark?
 
+What is the function of filer()?
+
 Define RDD Lineage?
 
 Difference between cache vs persist()
 
 What are the different levels of persistence in Spark?
+
 
 
 DataFrame:
@@ -364,10 +392,16 @@ Explain spark submit command and what are the parameters to send and explain the
 –executor-memory 
 –num-executors
 
+You have dataframe "mydf" which have three columns a1,a2,a3, but it is required to have column a2 with the new name b2, how would you do it ?
+
 
 ***********Spark Streaming **************
 
 What is window and sliding interval in spark streaming?
+
+What is Sliding Window in Spark? Give an example?
+
+What is Sliding Window in Spark? Give an example?
 
 
 ***********KAFKA KAFKA KAFKA**************
@@ -393,8 +427,6 @@ What is the use of Join and Fork nodes in Oozie?
 
 What are some of the useful EL functions in the Oozie workflow?
 
-
-***********UNIX SHELL COMMANDS**************
 
 
 ********************AIRFLOW AIRFLOW AIRFLOW********************

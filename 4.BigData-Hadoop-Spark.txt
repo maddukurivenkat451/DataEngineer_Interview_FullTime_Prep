@@ -163,6 +163,14 @@ https://blog.clairvoyantsoft.com/hive-acid-transactions-part-i-f08da70b591b
 
 https://blog.clairvoyantsoft.com/hive-acid-transactions-part-ii-6f5e478bbff
 
+Apache Hive and Apache Tez – Memory management and Tuning:
+
+https://www.justanalytics.com/blog/technical-know-how/apache-hive-memory-management-tuning
+
+How to set the different execution engine in Hive with examples
+
+https://www.revisitclass.com/hadoop/how-to-set-the-different-execution-engine-in-hive-with-examples/
+
 
 HIVE CLI Commands:
 
