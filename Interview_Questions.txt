@@ -394,6 +394,8 @@ Explain spark submit command and what are the parameters to send and explain the
 
 You have dataframe "mydf" which have three columns a1,a2,a3, but it is required to have column a2 with the new name b2, how would you do it ?
 
+How to Flatten Json Files Dynamically Using Apache Spark
+
 
 ***********Spark Streaming **************
 
