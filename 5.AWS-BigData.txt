@@ -330,6 +330,25 @@ Orchestration of AWS EMR Clusters Using Airflow —The Insider Way
 https://medium.com/insiderengineering/orchestration-of-aws-emr-clusters-using-airflow-the-insider-way-407abd6713a1
 
 
+
+************AWS Change Data Capture************
+
+AWS Change Data Capture project part 1
+
+https://subham-sahoo.medium.com/aws-change-data-capture-project-part-1-ce0103ba28e7
+
+AWS Change Data Capture project part 2
+
+https://subham-sahoo.medium.com/aws-change-data-capture-project-part-2-4c1fde84f85c
+
+AWS Change Data Capture project part 3
+
+https://subham-sahoo.medium.com/aws-change-data-capture-project-part-3-ccf745c2ca00
+
+AWS Change Data Capture project part 4
+
+https://subham-sahoo.medium.com/aws-change-data-capture-project-part-4-c4d5aa8e6ae4
+
 ************AWS CI\CD****************
 
 How to create a AWS Code Pipeline using AWS Code Commit , Code Build and Code Deploy
