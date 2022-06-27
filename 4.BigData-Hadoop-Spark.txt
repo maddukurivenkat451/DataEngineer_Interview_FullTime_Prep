@@ -26,6 +26,20 @@ Data Challenges in Big Data
 https://luminousmen.com/post/data-challenges-in-big-data
 
 
+****************Data Mart vs Data Warehouse vs Database vs Data Lake****************
+
+https://www.zuar.com/blog/data-mart-vs-data-warehouse-vs-database-vs-data-lake/
+
+https://medium.com/towards-data-engineering/database-vs-data-lake-vs-data-warehouse-d0941ef45f1c
+
+https://www.striim.com/blog/data-warehouse-vs-data-lake-vs-data-lakehouse-an-overview/
+
+
+****************Data Lake Vs Delta Lake****************
+
+https://medium.com/@harun.raseed093/data-lake-vs-delta-lake-105f126e6b3f
+
+
 ****************HDFS HDFS HDFS****************************
 
 HDFS Architecture:
@@ -180,6 +194,8 @@ Hive Cheat Sheet:
 
 https://blog.puneethabm.com/hive-cheat-sheet/
 
+
+
 *************************************************************
 ************SPARK SPARK SPARK********************************
 **************************************************************
@@ -188,14 +204,6 @@ https://blog.puneethabm.com/hive-cheat-sheet/
 Apache Spark for Data Engineering and Analysis - Overview:
 
 https://www.youtube.com/watch?v=3kX5ry0RCOQ
-
-Udemy course:
-
-https://www.udemy.com/course/introduction-to-python-for-big-data-engineering-with-pyspark/
-
-Certification practise:
-
-https://www.udemy.com/course/databricks-apache-spark-3x-python-certification-practice/
 
 
 Beginners Guide to PySpark:
@@ -270,12 +278,19 @@ SPARK 3.0 : Enhancements and Optimization
 
 https://medium.com/xebia-engineering/spark-3-0-enhancements-and-optimization-94a1cda8f1b1
 
+
+https://nivedita-mondal.medium.com/spark-3-0-adaptive-query-execution-dynamic-partition-pruning-2198d4eb274f
+
+
+https://teepika-r-m.medium.com/apache-spark-3-0-exciting-capabilities-f57132e158f
+
+
 Optimizing the data reads in Spark: Part 1
 
 https://dataops-dev.medium.com/optimizing-the-data-reads-in-spark-part-1-pyspark-2-4-4f7206438b77
 
 
-*************SPARK DATA SKEW NESS*********
+SPARK DATA SKEW NESS:
 
 Spark Performance Tuning: Skewness Part 1
 
@@ -383,13 +398,6 @@ https://medium.com/@thomaspt748/how-to-upsert-data-into-a-relational-database-us
 
 Spark SQL:
 
-https://www.youtube.com/watch?v=y7Otu8MC_eM
-
-https://www.youtube.com/watch?v=DBp2zG-YVxg
-
-https://www.youtube.com/watch?v=048wM8Npjbo
-
-
 Deep Dive into Apache Spark DateTime Functions
 
 https://medium.com/expedia-group-tech/deep-dive-into-apache-spark-datetime-functions-b66de737950a
@@ -420,6 +428,11 @@ https://sauravagarwaldigital.medium.com/too-small-data-solving-small-files-issue
 How to UPSERT data into a relational database using Apache Spark
 
 https://medium.com/@thomaspt748/how-to-upsert-data-into-a-relational-database-using-apache-spark-part-1-python-version-b43b9761bbf2
+
+
+How to Implement Change Data Capture (CDC)/SCD using Spark & Hive — Big Data?
+
+https://medium.com/@akashmehta10/change-data-capture-cdc-using-spark-hive-big-data-beca5afd669f
 
 
 *******************************************************
@@ -458,8 +471,7 @@ Spark Structured Streaming:
 https://docs.databricks.com/spark/latest/structured-streaming/index.html
 
 
-
-
+**************************
 ******************Spark Interview Blogs*******************
 
 Apache Spark interview questions Set 2

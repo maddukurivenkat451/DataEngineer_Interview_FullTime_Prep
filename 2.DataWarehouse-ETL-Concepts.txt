@@ -43,7 +43,21 @@ Designing a Data Model
 
 https://medium.com/geekculture/designing-a-data-model-56588cc27215
 
+
+****************ETL vs ELT****************
+
+https://medium.com/@asterasoftware1/etl-vs-elt-whats-the-difference-46107728cd7f
+
+https://medium.com/@chetandekate/etl-vs-elt-a-comparison-from-data-engineers-prospective-23651e588033
+
+https://www.guru99.com/etl-vs-elt.html
+
+
 ***************Dimension modelling***************
+
+Dimensional Modeling for a Data Warehouse
+
+https://sagadevan.medium.com/dimensional-modeling-for-a-data-warehouse-8e0922d0301b
 
 https://www.guru99.com/dimensional-model-data-warehouse.html
 

@@ -19,6 +19,16 @@ Study guide for clearing “Databricks Certified Associate Developer for Apache 
 https://shrutibhawsar94.medium.com/study-guide-for-clearing-databricks-certified-associate-developer-for-apache-spark-3-0-69377dba0107
 
 
+Udemy course:
+
+https://www.udemy.com/course/introduction-to-python-for-big-data-engineering-with-pyspark/
+
+Certification practise:
+
+https://www.udemy.com/course/databricks-apache-spark-3x-python-certification-practice/
+
+
+
 **************AWS AWS AWS*******************
 
 Learnings from the AWS Data Analytics Speciality
