@@ -118,6 +118,15 @@ Explain Timetravel concept in Delta lake
 
 DElta tables advantages
 
+what is snowpipe
+
+what is snowpark and advantages?
+
+explain Kafka Architecture
+
+Explain various types of data models?
+Conceptual,Logical and Physical
+
 
 ***************Client 4*********
 Question 1:

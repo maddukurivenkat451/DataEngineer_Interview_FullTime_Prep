@@ -18,13 +18,13 @@ Explain dimension and attribute
 
 What are late arriving records and late arriving dimensions
 
-Slowly changing dimensions and explain the types.
+Slowly changing dimensions and explain the types(SCD1, SCD2, SCD3)
 
 OLTP VS OLAP
 
 Roll up, slicing and dicing concepts
 
-Primary key, foreign key, natural key and surrogate key and explain them.
+What is Primary key, foreign key, natural key, Unique key and Surrogate key and explain them.
 
 What is a primary key constraint?
 
@@ -81,6 +81,9 @@ https://blog.imocha.io/etl-interview-questions-with-answers
 
 ***********UNIX SHELL COMMANDS**************
 
+What is grep use for and explain?
+
+Explain AWK, SED
 
 
 ******************* BIG DATA - HADOOP ****************
@@ -520,17 +523,44 @@ What type of database is Snowflake?
 
 What is Snowflake Time Travel?
 
-What is SnowPipe?
+What is SnowPipe
+
+What is “Stage” in Snowflake?
 
 Is Snowflake OLTP or OLAP?
+
+What makes Snowflake so fast?
 
 How to create a Snowflake task?
 
 What do you mean by Horizontal and Vertical Scaling in SNOWFLAKE?
 
+What is Auto-scaling in Snowflake?
+
 How is Snowflake different from Redshift?
 
 What do you mean by zero-copy cloning in Snowflake Explain the commands?
+
+How Does Snowflake Differ from AWS?
+
+How is metadata stored in Snowflake?
+
+What do you know about the failsafe in Snowflake?
+
+Why fail-safe instead of Backup?
+
+Can you store encrypted data in Snowflake?
+
+How data is secured in Snowflake?
+
+Explain the data compression in Snowflake?
+
+Name a few advantages that arise out of data compression in Snowflake?
+
+What is Snowflake Caching?
+
+What are the advantages of Snowflake Schema?
+
 
 
 ******************************************************
@@ -577,6 +607,10 @@ Explain can you vertically scale an Amazon instance? How?
 
 What are the advantages of auto-scaling?
 
+what is boto3 and advantage?
+
+******** AWS EMR*****************
+
 What is Amazon EMR?
 
 AWS EMR Master node, Worker Noode, Core Node types explain.
@@ -600,6 +634,8 @@ Does EMR make use of yarn?
 How do you execute several steps in EMR?
 
 What is Ganglia in EMR?
+
+******** AWS GLUE*****************
 
 What is AWS Glue?
 
@@ -646,3 +682,65 @@ How to create AWS glue job using CLI commands?
 How to get the total number of partitions in AWS Glue for specific range?
 
 When an AWS Glue job times out, how do we Retry it?
+
+
+******** AWS Lambda*****************
+
+What is AWS Lambda?
+
+What are the languages supported by AWS Lambda?
+
+What is automated deployment?
+
+What is Auto Scaling in Lambda?
+
+What type of storage is provided by Amazon?
+
+While performing DDOS, what is the limit for execution in Lambda?
+
+What do you think makes Lambda a timesaving approach?
+
+What is your understanding of AMI?
+
+Do you think there is a relation between Instance and AMI?
+
+What are the best practices for security in Lambda?
+
+What do you know about Zero downtime deployment?
+
+What restrictions apply to AWS Lambda function code?
+How long can an AWS Lambda function execute?
+
+How does AWS Lambda secure my code?
+
+On AWS Lambda what all kinds of code can run?
+
+Which all languages are supported by AWS Lambda?
+
+Is the infrastructure accessible on which the AWS Lambda runs?
+
+Can I use packages with AWS Lambda?
+
+Do the AWS Lambda-based functions stay available when code or its configuration is changed?
+Is there any limit to the quantity of AWS Lambda functions that can be executed at once?
+What happens when my account surpasses the default threshold limit on the executions?
+
+
+******** AWS Redshift*****************
+
+
+What is Amazon Redshift?
+Explain the process of Amazon Redshift?
+What is the purpose of using AWS Redshift database ?
+What are the features of Amazon Redshift?
+What is AQUA for Amazon Redshift?
+Which node types support AQUA?
+Explain the architecture of ELT and ETL patterna in AWS Redshift?
+What are the limitations of Amazon Redshift?
+How can we send a CSV File from S3 into Redshift with an AWS Lambda Function?
+How can we find size of database, schema, table in redshift?
+How to create an Index in Amazon Redshift?
+How to unload a table on RedShift to a single CSV file?
+How can Redshift load CSV File using Copy and Example?
+How can we measure table space on disk in RedShift?
+What is materialized views in Redshift?
