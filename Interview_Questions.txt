@@ -595,6 +595,12 @@ Explain what S3 is?
 
 How can you send a request to Amazon S3?
 
+What is the lifecycle of object stored in S3?
+
+How long does it take for S3 lifecycle policy to take effect?
+
+What is retention period in S3 bucket?
+
 What are the different types of Instances in EC2 and EMR?
 
 What are the advantages of AWS IAM?

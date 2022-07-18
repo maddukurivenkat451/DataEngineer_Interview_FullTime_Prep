@@ -4,6 +4,12 @@ Explain me about your self and latest project
 
 Explain me about working with AWS cloud services and how do you leverage them.
 
+How often do S3 lifecycle rules run?
+
+What is retention period in S3 bucket?
+
+What is the lifecycle of object stored in S3?
+
 Spark optimizations techniques
 
 SPARK Cache vs Persit and how it gonna be used
