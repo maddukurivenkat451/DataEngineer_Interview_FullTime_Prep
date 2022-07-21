@@ -292,9 +292,19 @@ what are the spark job and spark task and spark staging?
 
 How Spark Internally Executes a Program?
 
+What is resource manager in Spark?
+
+What are the different cluster managers supported by Spark?
+
 What are different deployment modes in spark (cluster mode and client mode) and how are different?
 
 What is spark SQL Warehouse Dir?
+
+How do you determine parallelism in Spark?
+
+Is Spark parallel or distributed?
+
+How do I run parallel processing in Pyspark?
 
 RDD:
 
@@ -302,7 +312,7 @@ What is RDD?
 
 What are the main operations of RDD?
 
-Define Transformations in Spark?
+Define Transformations in Spark? Examples of transformation used ad explain?
 
 What are the Actions in Spark?
 

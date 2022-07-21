@@ -26,6 +26,10 @@ Snowflake Architecture |
 
 https://www.youtube.com/watch?v=IocdgUB94KQ&t=1242s
 
+How Snowflake Can Transform the Way Data Engineering Works
+
+https://royalcyberinc.medium.com/how-snowflake-can-transform-the-way-data-engineering-works-c30f6b159f2
+
 Snowflake Classic Legacy WebUI
  
 https://www.youtube.com/watch?v=bCQWVNwZnbM
@@ -44,6 +48,13 @@ PySpark Snowflake Data Warehouse Read Write operations — Part2 (Read-Write)
 https://pub.towardsai.net/pyspark-snowflake-data-warehouse-read-write-operations-part2-read-write-c129a1260f7f
 
 
+
+******************DATABRICKS DATABRICKS************
+
+
+Revamping Data Engineering with Databricks
+
+https://royalcyberinc.medium.com/revamping-data-engineering-with-databricks-e85d799bd486
 
 
 *************Delta Lake & APACHE HUDI****************
