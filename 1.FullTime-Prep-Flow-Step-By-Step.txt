@@ -94,27 +94,3 @@ Amazon Data Engineer
 https://prepfully.com/interview-guides/amazon-data-engineer
 
 
-***********************COURSES TO PREPARE***********************************
-
-Hadoop Developer In Real World
-
-https://www.udemy.com/course/hadoopinrealworld/
-
-Sqoop, Hive and Impala for Data Analysts (Formerly CCA 159)
-
-https://www.udemy.com/course/cca-159-data-analyst-using-sqoop-hive-and-impala/
-
-
-Data Engineering Essentials using SQL, Python, and PySpark
-
-https://www.udemy.com/course/data-engineering-essentials-sql-python-and-spark/
-
-
-Data Engineering Master Class using AWS Analytics Services
-
-https://www.udemy.com/course/data-engineering-using-aws-analytics-services/
-
-
-Data Engineering using Databricks on AWS and Azure
-
-https://www.udemy.com/course/data-engineering-using-databricks-on-aws-and-azure/
