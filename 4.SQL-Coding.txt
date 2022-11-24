@@ -1,0 +1,17 @@
+
+
+#############################SQL#############################
+
+Introduction to SQL
+
+https://www.datacamp.com/courses/introduction-to-sql
+
+
+Practise SQL follow below youtube channel after you learn basic sql:
+
+https://www.youtube.com/@techTFQ
+
+
+SQL INTERVIEW QUESTIONS:
+
+https://www.youtube.com/watch?v=a3ngELoA9h0&list=PLtPFQl_0853oNyMPC2Fd0K1uW9x41KQn6
