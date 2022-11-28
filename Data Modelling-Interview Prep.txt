@@ -1,0 +1,12 @@
+####################################################################
+##########Data Modelling-Data Modelling-Data Modelling#########
+#################################################################
+
+amazon data model - 
+https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-relational-modeling.html
+
+uber data model - 
+https://allbigdatathings.blogspot.com/2019/04/uber-data-model.html
+
+facebook data model- 
+https://nehajirafe.medium.com/data-modeling-designing-facebook-style-comments-with-sql-4cf9e81eb164

@@ -61,6 +61,8 @@ https://sagadevan.medium.com/dimensional-modeling-for-a-data-warehouse-8e0922d03
 
 https://www.guru99.com/dimensional-model-data-warehouse.html
 
+https://www.geeksforgeeks.org/dimensional-data-modeling/
+
 
 What to do with a Late Arriving Dimension or Early Arriving Facts
 
@@ -69,6 +71,11 @@ https://www.matillion.com/resources/blog/what-to-do-with-a-late-arriving-dimensi
 Early Arriving Facts / Late Arriving Dimensions
 
 https://www.leapfrogbi.com/early-arriving-facts-late-arriving-dimensions/
+
+
+Resolving Late Arriving Dimensions
+
+https://medium.com/dataseries/resolving-late-arriving-dimensions-c0ebc9f818c3
 
 
 ***************ER diagram***************
@@ -86,6 +93,8 @@ https://www.guru99.com/er-diagram-tutorial-dbms.html
 
 https://www.youtube.com/watch?v=QqlPXKxN6LQ
 
+https://www.javatpoint.com/dbms-normalization
+
 
 Examples for converting to 1,2,3 NF:
 
@@ -102,10 +111,6 @@ https://towardsdatascience.com/database-normalization-explained-53e60a494495
 Relational Database Schema Design Overview:
 
 https://medium.com/@kimtnguyen/relational-database-schema-design-overview-70e447ff66f9
-
-Data Modeling for a Music Streaming App
-
-https://towardsdatascience.com/data-modeling-for-a-music-streaming-app-db46a4595e4e
 
 
 ***************Data Reconciliation***************
@@ -134,16 +139,9 @@ How to Join a fact and a type 2 dimension (SCD2) table
 
 https://www.startdataengineering.com/post/how-to-join-fact-scd2-tables/
 
-Resolving Late Arriving Dimensions
-
-https://medium.com/dataseries/resolving-late-arriving-dimensions-c0ebc9f818c3
 
 
 *************** Master Window Functions ***************
 
 https://www.startdataengineering.com/post/6-concepts-to-clearly-understand-window-functions/
 
-
-*************** System Design ***************
-
-System Design Basics: Horizontal vs. Vertical Scaling
