@@ -78,3 +78,8 @@ https://medium.com/dagster-io/testing-and-deploying-pyspark-jobs-with-dagster-8f
 
 
 
+************* 𝐂𝐡𝐚𝐧𝐠𝐞 𝐃𝐚𝐭𝐚 𝐂𝐚𝐩𝐭𝐮𝐫𝐞 (𝐂𝐃𝐂) *************
+𝐃𝐚𝐭𝐚 𝐈𝐧𝐠𝐞𝐬𝐭𝐢𝐨𝐧 𝐭𝐡𝐫𝐨𝐮𝐠𝐡 𝐂𝐡𝐚𝐧𝐠𝐞 𝐃𝐚𝐭𝐚 𝐂𝐚𝐩𝐭𝐮𝐫𝐞 (𝐂𝐃𝐂)
+
+https://medium.com/@binayalenka/-23f5c9870fe8
+

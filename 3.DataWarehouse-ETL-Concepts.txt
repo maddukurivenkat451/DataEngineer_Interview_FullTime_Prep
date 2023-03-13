@@ -78,6 +78,12 @@ Resolving Late Arriving Dimensions
 https://medium.com/dataseries/resolving-late-arriving-dimensions-c0ebc9f818c3
 
 
+***************Star Schema vs Snowflake Schema Vs Galaxy Schema ***************
+
+https://www.youtube.com/watch?v=hQvCOBv_-LE
+
+https://www.youtube.com/watch?v=gRE3E7VUzRU
+
 ***************ER diagram***************
 
 Logical Database Design and E-R Diagrams:
@@ -91,9 +97,16 @@ https://www.guru99.com/er-diagram-tutorial-dbms.html
 
 *************** Database Normalization***************
 
-https://www.youtube.com/watch?v=QqlPXKxN6LQ
+
+
+https://www.youtube.com/watch?v=rBPQ5fg_kiY
+
 
 https://www.javatpoint.com/dbms-normalization
+
+
+https://www.youtube.com/watch?v=QqlPXKxN6LQ
+
 
 
 Examples for converting to 1,2,3 NF:

@@ -10,3 +10,11 @@ https://allbigdatathings.blogspot.com/2019/04/uber-data-model.html
 
 facebook data model- 
 https://nehajirafe.medium.com/data-modeling-designing-facebook-style-comments-with-sql-4cf9e81eb164
+
+Data Modeling in the Modern Data Stack:
+
+https://www.youtube.com/watch?v=IdCmMkQLvGA
+
+Design a Database for Flight Booking System from Scratch:
+
+https://medium.com/@abhishek.manjunath.1999/design-a-database-for-flight-booking-system-from-scratch-8f0e900ac9df

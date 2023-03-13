@@ -10,13 +10,15 @@ Data Warehouse - The Ultimate Guide Master Data Warehousing, Dimensional Modelin
 
 https://external-teksystems.udemy.com/course/data-warehouse-the-ultimate-guide/
 
+https://www.udemy.com/course/data-warehouse-the-ultimate-guide/
+
 
 
 2) SQL
 
 15 Days of SQL: The Complete SQL Masterclass 2022
 
-https://external-teksystems.udemy.com/course/15-days-of-sql/
+https://www.udemy.com/course/15-days-of-sql/
 
 
 3) PYTHON
@@ -24,7 +26,7 @@ https://external-teksystems.udemy.com/course/15-days-of-sql/
 Python for beginners
 Master the fundamentals of Python while working on various usecases in easy steps
 
-https://external-teksystems.udemy.com/course/python-core-and-advanced/
+https://www.udemy.com/course/python-core-and-advanced/
 
 
 

@@ -73,7 +73,7 @@ How do you Manage Airflow? Is it EC2 manged or Aws Managed MWFAA?
 20) What is SCD 2 Type 2 and explain in data warehousing
 
 
-Coding: Python
+Coding: Python AND SQL and Pyspark
 
 1) Given input (12th Mar 2017) expecting the output (12-03-2017) to get date and year and month with out using inbulit libraries. write python program
 2) Given input = sam bob and expecting output= "Sam Bob" write python program
@@ -87,7 +87,8 @@ Coding: Python
 10) Need to write Delete statement in sql to remove duplicate records on table (Note It is a delete statement)
 11) gave two data frames employee and salary. Write code where we build a dataftame with employee name, dept and level column where level column should be high or low if salary > 1000 or < 1000 respectively.
 12) gave a text file and write spark code to read data and write to a df
-
+13) find 4th highest salary
+14) Given 2 dataframes column names id, value to find sun of value for every id
 
 
 

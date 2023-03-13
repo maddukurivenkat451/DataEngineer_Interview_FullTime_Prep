@@ -52,10 +52,6 @@ https://medium.com/analytics-vidhya/data-warehousing-in-aws-part-2-aea9c458b383
 
 **********************AWS S3**********************
 
-AWS S3 Tutorial For Beginners| Introduction to Amazon S3|AWS S3 Bucket Tutorial|Cloud storage on AWS
-
-https://www.youtube.com/watch?v=Cij5_4yLHLA
-
 
 Explanation of The S3 Consistency Model
 
@@ -135,47 +131,10 @@ https://intro-to-analytics-on-aws.workshop.aws/en/lab-guide.html
 
 **********************Athena & Lambda**********************
 
-AWS Athena Overview - Key Concepts | Serverless Interactive Query Service
-
-https://www.youtube.com/watch?v=UwnRi4ZDJEk
-
-AWS Athena Partitioning | Athena Tutorials | Athena Query Performance Improvement | AWS Tutorials
-
-https://www.youtube.com/watch?v=okp25X03J-0
-
-AWS Athena Partitions with Lambda Function | Automatically Load Partitions | Athena + Lambda + S3
-
-https://www.youtube.com/watch?v=5ipPwfU6sFs
-
-Athena JDBC Connection Example | Querying Athena from Java | AWS Athena Tutorial | Athena Data Lake
-
-https://www.youtube.com/watch?v=tZ21W5V0UKg
-
-AWS Athena Tutorial l Athena Hands On LAB | Athena + Glue + S3 Data Lake | Athena AWS Tutorials
-
-https://www.youtube.com/watch?v=8VOf1PUFE0I
-
-How to Schedule Athena Queries with Lambda in AWS
-
-https://www.youtube.com/watch?v=jr54fOkT25w
-
-How to Use Athena with Json Data in AWS
-
-https://www.youtube.com/watch?v=PLtMYA7LpbE
-
-
-AWS Athena Glue and QuickSight Tutorial | Athena and QuickSight Integration | Serverless Analytics
-
-https://www.youtube.com/watch?v=Cg4DNZcLh5A
 
 
 **********************AWS LAMBDA**********************
 
-AWS Lambda Tutorial for Beginners | What is AWS Lambda | AWS Lambda Getting started | AWS Lambda
-
-https://www.youtube.com/watch?v=7HXjzrE8VWk&pbjreload=101
-
-https://www.youtube.com/watch?v=CgY2uxQPflY&list=PL5KTLzN85O4KO0qEeUVvwTTcHFsdE6Dhx
 
 What is AWS Lambda? Lambda Function with Examples
 
@@ -194,13 +153,6 @@ Build AWS Serverless Application
 
 https://mjpereira.medium.com/aws-serverless-application-model-7e2ebc18350f
 
-AWS Lambda function | Copy files from one S3 bucket to another S3 bucket as soon as uploaded
-
-https://www.youtube.com/watch?v=edqL5Rcf3ws
-
-AWS Read CSV file data from S3 via Lambda function and insert into MySQL
-
-https://www.youtube.com/watch?v=ozbsi3AVcZY
 
 
 Running Spark Application in the EMR Cluster through AWS Lambda Function

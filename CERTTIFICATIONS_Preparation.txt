@@ -1,12 +1,17 @@
 ********************PYTHON ****************
 
-PCAP:
+PCAP 31-03:
+
 https://www.itexams.com/exam/PCAP
+
+https://www.pass4success.com/python-institute/exam/pcap-31-03
+
+https://www.certification-questions.com/python-institute-dumps/pcap-31-03.html
 
 https://www.dumpsbase.com/freedumps/python-institute-pcap-certification-exam-updated-pcap-31-03-dumps-questions.html
 
 
-********************SPARK SPARK SPARK ***************
+******************** Databricks SPARK SPARK SPARK ***************
 
 
 Databricks Certified Associate Developer for Apache Spark 3.0- Preparation Tips, Info & Clarifications
@@ -27,6 +32,18 @@ Certification practise:
 
 https://www.udemy.com/course/databricks-apache-spark-3x-python-certification-practice/
 
+********************Databricks Certified Data Engineer Associate******************** 
+
+Udemy course:
+https://www.udemy.com/course/databricks-certified-data-engineer-associate/
+
+Certification practise:
+
+https://hangmortimer.medium.com/72-prepare-for-databricks-data-engineer-associate-certification-exam-part-1-basic-terminlogy-e7ce7d2e7148
+
+https://hangmortimer.medium.com/72-prepare-for-databricks-data-engineer-associate-certification-exam-part-2-databricks-lakehouse-76ccf698a619
+
+https://hangmortimer.medium.com/78-prepare-for-databricks-data-engineer-associate-certification-exam-part-3-sparksql-and-python-f7836946bc0e
 
 
 **************AWS AWS AWS*******************
@@ -53,3 +70,20 @@ https://www.koenig-solutions.com/aws
 
 
 *******************SNOWFLAKE ***************
+
+https://www.wisdomaxis.com/technology/software/certification-exams/snowflake-snowpro-certifications-exams-cost-details-fees-preparation-materials.php
+
+
+Ultimate SnowPro Core Certification Course & Exam - 2023:
+
+https://www.udemy.com/course/ultimate-snowpro-core-certification-course-exam
+
+https://poojakelgaonkar.medium.com/snowflake-pro-core-certification-guide-prepare-yourself-in-2-3-days-d96f468ff731
+
+https://servian.dev/snowflakes-snowpro-certification-exam-preparation-guide-how-to-pass-in-3-days-5e5baa484c68
+
+https://realitexams.com/questions/?exam=SnowPro-Core/
+
+
+
+******************* DBT *******************

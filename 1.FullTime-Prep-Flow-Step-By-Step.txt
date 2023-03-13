@@ -17,6 +17,10 @@
 
 #########################DATA ENGINEER PROCESS FOR BETTER UNDERSTANDING#########################
 
+Roadmap for Data Engineering 2023
+
+https://medium.com/@darshilp/roadmap-for-data-engineering-2023-13f62f85d866
+
 What Skills Do Data Engineers Need To Know
 
 https://www.youtube.com/watch?v=LgSHaOvNodA
