@@ -2,14 +2,12 @@
 ##########Data Modelling-Data Modelling-Data Modelling#########
 #################################################################
 
-amazon data model - 
-https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-relational-modeling.html
+*************** Data Modeling ***************
 
-uber data model - 
-https://allbigdatathings.blogspot.com/2019/04/uber-data-model.html
+Introduction to Data Modeling — 2024 Guide With Problems:
 
-facebook data model- 
-https://nehajirafe.medium.com/data-modeling-designing-facebook-style-comments-with-sql-4cf9e81eb164
+https://brilliantprogrammer.medium.com/introduction-to-data-modeling-2024-guide-with-problems-8f89edfa3b8b
+
 
 Data Modeling in the Modern Data Stack:
 
@@ -18,3 +16,13 @@ https://www.youtube.com/watch?v=IdCmMkQLvGA
 Design a Database for Flight Booking System from Scratch:
 
 https://medium.com/@abhishek.manjunath.1999/design-a-database-for-flight-booking-system-from-scratch-8f0e900ac9df
+
+
+amazon data model - 
+https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-relational-modeling.html
+
+uber data model - 
+https://allbigdatathings.blogspot.com/2019/04/uber-data-model.html
+
+facebook data model- 
+https://nehajirafe.medium.com/data-modeling-designing-facebook-style-comments-with-sql-4cf9e81eb164

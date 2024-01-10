@@ -26,19 +26,9 @@ What Skills Do Data Engineers Need To Know
 https://www.youtube.com/watch?v=LgSHaOvNodA
 
 
-Data Engineering Road Map - How To Learn Data Engineering Quickly( By A FAANG Data Engineer)
+How I became a Data Engineer from scratch
 
-https://www.youtube.com/watch?v=SpaFPPByOhM
-
-
-Data Engineering Career Tips By Airbnb Data Engineer | Part 1
-
-https://www.youtube.com/watch?v=NWVindWhIX8
-
-
-Data Engineering Interview Tips By Airbnb Data Engineer | Part 2
-
-https://www.youtube.com/watch?v=Yt3PQU_qEtc
+https://medium.com/@lucaspressi/how-i-became-a-data-engineer-from-scratch-6bb5165e67e6
 
 
 Data Engineering: Major Technologies To Learn
@@ -55,9 +45,19 @@ Data Engineering Interview Preparation Guide
 https://ajknzhol.medium.com/data-engineering-interview-preparation-guide-7a9e031426c9
 
 
-Responsibilities of a Data Engineer
+Data Engineering Road Map - How To Learn Data Engineering Quickly( By A FAANG Data Engineer)
 
-https://www.startdataengineering.com/post/n-job-reponsibilities-of-a-data-engineer/
+https://www.youtube.com/watch?v=SpaFPPByOhM
+
+
+Data Engineering Career Tips By Airbnb Data Engineer | Part 1
+
+https://www.youtube.com/watch?v=NWVindWhIX8
+
+
+Data Engineering Interview Tips By Airbnb Data Engineer | Part 2
+
+https://www.youtube.com/watch?v=Yt3PQU_qEtc
 
 
 Skills to Ace Your Data Engineering Interview
@@ -69,15 +69,6 @@ How to gather requirements to re-engineer a legacy data pipeline
 
 https://www.startdataengineering.com/post/how-to-gather-requirements-reengineering-data-pipeline/
 
-
-Start Data Engineering
-
-https://www.startdataengineering.com/
-
-
-How I became a Data Engineer from scratch
-
-https://medium.com/@lucaspressi/how-i-became-a-data-engineer-from-scratch-6bb5165e67e6
 
 
 

@@ -158,3 +158,4 @@ https://www.startdataengineering.com/post/how-to-join-fact-scd2-tables/
 
 https://www.startdataengineering.com/post/6-concepts-to-clearly-understand-window-functions/
 
+

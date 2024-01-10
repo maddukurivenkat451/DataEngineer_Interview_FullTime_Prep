@@ -11,6 +11,10 @@ https://www.certification-questions.com/python-institute-dumps/pcap-31-03.html
 https://www.dumpsbase.com/freedumps/python-institute-pcap-certification-exam-updated-pcap-31-03-dumps-questions.html
 
 
+
+************************************************************
+***************DATABRICKS**********************************
+************************************************************
 ******************** Databricks SPARK SPARK SPARK ***************
 
 
@@ -32,12 +36,18 @@ Certification practise:
 
 https://www.udemy.com/course/databricks-apache-spark-3x-python-certification-practice/
 
+
 ********************Databricks Certified Data Engineer Associate******************** 
+
+https://medium.com/@saikrishna_55717/databricks-certified-data-engineer-associate-preparation-strategy-and-tips-tricks-611add265555
+
 
 Udemy course:
 https://www.udemy.com/course/databricks-certified-data-engineer-associate/
 
 Certification practise:
+
+https://www.udemy.com/course/practice-exams-databricks-certified-data-engineer-associate/
 
 https://hangmortimer.medium.com/72-prepare-for-databricks-data-engineer-associate-certification-exam-part-1-basic-terminlogy-e7ce7d2e7148
 
@@ -46,7 +56,11 @@ https://hangmortimer.medium.com/72-prepare-for-databricks-data-engineer-associat
 https://hangmortimer.medium.com/78-prepare-for-databricks-data-engineer-associate-certification-exam-part-3-sparksql-and-python-f7836946bc0e
 
 
+************************************************************
 **************AWS AWS AWS*******************
+************************************************************
+
+AWS Data Analytics Speciality:
 
 Learnings from the AWS Data Analytics Speciality
 
@@ -68,8 +82,16 @@ AWS CERTIFICATION QUESTIONS:
 https://www.koenig-solutions.com/aws
 
 
+AWS Certified Solutions Architect Associate 2023 – SAA-C03:
 
-*******************SNOWFLAKE ***************
+
+https://www.udemy.com/course/aws-certified-solutions-architect-associate-certification-saa-c03/
+
+
+************************************************************
+*******************SNOWFLAKE SNOWFLAKE ************************
+************************************************************
+
 
 https://www.wisdomaxis.com/technology/software/certification-exams/snowflake-snowpro-certifications-exams-cost-details-fees-preparation-materials.php
 

@@ -166,8 +166,6 @@ https://www.startdataengineering.com/post/trigger-emr-spark-job-from-lambda/
 
 How to Pull Data from an API, Using AWS Lambda
 
-https://www.youtube.com/watch?v=iiIcS4FlX0M
-
 https://www.startdataengineering.com/post/pull-data-from-api-using-lambda-s3/
 
 Triggering an AWS Lambda with Kafka
