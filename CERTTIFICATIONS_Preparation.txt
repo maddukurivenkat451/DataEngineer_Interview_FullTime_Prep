@@ -100,6 +100,8 @@ Ultimate SnowPro Core Certification Course & Exam - 2023:
 
 https://www.udemy.com/course/ultimate-snowpro-core-certification-course-exam
 
+https://www.udemy.com/course/snowflake-certification-snowpro-core-exam-prep/
+
 https://poojakelgaonkar.medium.com/snowflake-pro-core-certification-guide-prepare-yourself-in-2-3-days-d96f468ff731
 
 https://servian.dev/snowflakes-snowpro-certification-exam-preparation-guide-how-to-pass-in-3-days-5e5baa484c68
@@ -107,5 +109,6 @@ https://servian.dev/snowflakes-snowpro-certification-exam-preparation-guide-how-
 https://realitexams.com/questions/?exam=SnowPro-Core/
 
 
-
+************************************************************
 ******************* DBT *******************
+************************************************************
