@@ -48,67 +48,24 @@ PySpark Snowflake Data Warehouse Read Write operations — Part2 (Read-Write)
 https://pub.towardsai.net/pyspark-snowflake-data-warehouse-read-write-operations-part2-read-write-c129a1260f7f
 
 
+Snowflake SQL best practices:
 
-******************DATABRICKS DATABRICKS************
-
-
-Revamping Data Engineering with Databricks
-
-https://royalcyberinc.medium.com/revamping-data-engineering-with-databricks-e85d799bd486
+https://medium.com/@vuppala.venkat/snowflake-sql-best-practices-6fd7573bd39d
 
 
-*************Delta Lake & APACHE HUDI****************
+******************************************
+*************DBT**************************
+******************************************
 
-Introduction to Delta Lake:
-
-https://www.data-stats.com/introduction-to-delta-lake/
-
-Delta lake with Spark: What and Why?
-
-https://towardsdatascience.com/delta-lake-with-spark-what-and-why-6d08bef7b963
-
-Apache HUDI vs Delta Lake:
-
-https://medium.com/swlh/apache-hudi-vs-delta-lake-295c019fe3c5
-
-Migrating from Hive to Delta Lake + Hive in Hybrid Cloud Environment:
-
-https://medium.com/amobee-engineering/migrating-from-hive-to-delta-lake-hive-in-hybrid-cloud-environment-38269ed45632
-
-Data Lakehouse: Building the Next Generation of Data Lakes using Apache Hudi:
-
-https://medium.com/slalom-build/data-lakehouse-building-the-next-generation-of-data-lakes-using-apache-hudi-41550f62f5f
-
-Introduction to Apache Hudi with PySpark
-
-https://medium.com/analytics-vidhya/introduction-to-apache-hudi-with-pyspark-62915e1a6c5c
-
-Hudi, Iceberg and Delta Lake: Data Lake Table Formats Compared:
-
-https://psingman.medium.com/hudi-iceberg-and-delta-lake-data-lake-table-formats-compared-27af5ab1de6e
-
-Delta Lake: The Data Engineer’s missing piece Part-1
-
-https://databeans-blogs.medium.com/delta-lake-the-data-engineers-missing-piece-part-1-ebab66a3f8c0
-
-
-Databricks Delta Lake — A Friendly Intro
-
-https://sertiscorp.medium.com/databricks-delta-lake-a-friendly-intro-9c3ff627e9f8
-
-https://docs.delta.io/latest/quick-start.html#create-a-table
-
-
-Simplify your streaming CDC architecture using Delta Streams
-
-https://databeans-blogs.medium.com/simplify-your-streaming-cdc-architecture-using-delta-streams-a61c2ae4543e
-
-
-*************DBT****************
 
 Data Build Tool) Tutorial
 
+https://levelup.gitconnected.com/what-is-data-build-tool-dbt-dbt-101-and-hands-on-dbt-example-7c3ed789ba83
+
+
 https://www.startdataengineering.com/post/dbt-data-build-tool-tutorial/
+
+
 
 Aggregate CloudTrail logs with DBT and Spark
 
@@ -117,3 +74,7 @@ https://medium.com/slalom-australia/aggregate-cloudtrail-logs-with-dbt-and-spark
 DBT in a Nutshell:
 
 https://blog.devgenius.io/dbt-data-build-tool-in-a-nutshell-29028bc4e164
+
+dbt + Airflow :
+
+https://medium.com/plum-fintech/dbt-airflow-50b2c93f91cc

@@ -1,0 +1,61 @@
+******************DATABRICKS DATABRICKS************
+
+
+Revamping Data Engineering with Databricks
+
+https://royalcyberinc.medium.com/revamping-data-engineering-with-databricks-e85d799bd486
+
+
+*************Delta Lake & APACHE HUDI****************
+
+Introduction to Delta Lake:
+
+https://www.data-stats.com/introduction-to-delta-lake/
+
+Delta lake with Spark: What and Why?
+
+https://towardsdatascience.com/delta-lake-with-spark-what-and-why-6d08bef7b963
+
+Apache HUDI vs Delta Lake:
+
+https://medium.com/swlh/apache-hudi-vs-delta-lake-295c019fe3c5
+
+Migrating from Hive to Delta Lake + Hive in Hybrid Cloud Environment:
+
+https://medium.com/amobee-engineering/migrating-from-hive-to-delta-lake-hive-in-hybrid-cloud-environment-38269ed45632
+
+Data Lakehouse: Building the Next Generation of Data Lakes using Apache Hudi:
+
+https://medium.com/slalom-build/data-lakehouse-building-the-next-generation-of-data-lakes-using-apache-hudi-41550f62f5f
+
+Introduction to Apache Hudi with PySpark
+
+https://medium.com/analytics-vidhya/introduction-to-apache-hudi-with-pyspark-62915e1a6c5c
+
+Hudi, Iceberg and Delta Lake: Data Lake Table Formats Compared:
+
+https://psingman.medium.com/hudi-iceberg-and-delta-lake-data-lake-table-formats-compared-27af5ab1de6e
+
+Delta Lake: The Data Engineer’s missing piece Part-1
+
+https://databeans-blogs.medium.com/delta-lake-the-data-engineers-missing-piece-part-1-ebab66a3f8c0
+
+
+Databricks Delta Lake — A Friendly Intro
+
+https://sertiscorp.medium.com/databricks-delta-lake-a-friendly-intro-9c3ff627e9f8
+
+https://docs.delta.io/latest/quick-start.html#create-a-table
+
+
+Simplify your streaming CDC architecture using Delta Streams
+
+https://databeans-blogs.medium.com/simplify-your-streaming-cdc-architecture-using-delta-streams-a61c2ae4543e
+
+Building Data Quality Checks using Delta Table Logs. Part 1:
+
+https://towardsdev.com/building-data-quality-checks-using-delta-table-logs-part-1-b06ead69a3d5
+
+Data Quality Framework in Databricks:
+
+https://medium.com/@imtheguna/data-quality-framework-in-databricks-ad044b507711

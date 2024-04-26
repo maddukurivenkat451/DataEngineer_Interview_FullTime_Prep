@@ -1,0 +1,9 @@
+####################################################################
+##########Bigdata: AWS & SCENARIOBASED Interview questions:#########
+#################################################################
+
+****************AWS********************
+
+Explain your data pipeline in AWS?
+
+Asked about building data pipeline and how I would handle, using AWS product, if the data volume increases.
