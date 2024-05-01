@@ -18,6 +18,19 @@ Design a Database for Flight Booking System from Scratch:
 https://medium.com/@abhishek.manjunath.1999/design-a-database-for-flight-booking-system-from-scratch-8f0e900ac9df
 
 
+Retailer Data Warehouse Data Engineering — Practical Problems
+
+https://medium.com/@poojatripathi0697/retailer-data-warehouse-data-engineering-practical-problems-23987662375b
+
+Data Modeling Interview Questions:
+
+https://www.analyticsvidhya.com/blog/2023/04/data-modeling-interview-questions/
+
+Data Modeling: Design the data model for a taxi service like Uber.:
+
+https://medium.com/towards-data-engineering/data-modelling-design-the-data-model-for-a-taxi-service-like-uber-eaedfa0e25f4
+
+
 amazon data model - 
 https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-relational-modeling.html
 
@@ -26,3 +39,4 @@ https://allbigdatathings.blogspot.com/2019/04/uber-data-model.html
 
 facebook data model- 
 https://nehajirafe.medium.com/data-modeling-designing-facebook-style-comments-with-sql-4cf9e81eb164
+

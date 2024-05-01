@@ -106,15 +106,7 @@ https://www.guru99.com/er-diagram-tutorial-dbms.html
 
 https://www.youtube.com/watch?v=UmFdZO1DgIE
 
-
-https://www.youtube.com/watch?v=rBPQ5fg_kiY
-
-
-https://www.javatpoint.com/dbms-normalization
-
-
-https://www.youtube.com/watch?v=QqlPXKxN6LQ
-
+https://www.youtube.com/watch?v=UewKG7G91U0
 
 https://www.analyticsvidhya.com/blog/2022/08/database-normalization-a-step-by-step-guide-with-examples/
 
