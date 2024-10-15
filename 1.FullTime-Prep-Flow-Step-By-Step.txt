@@ -105,4 +105,7 @@ Amazon Data Engineer
 
 https://prepfully.com/interview-guides/amazon-data-engineer
 
+TikTok Data Engineer Interview Process
+
+https://premvishnoi.medium.com/tiktok-data-engineer-interview-process-e5c9ac44131e
 

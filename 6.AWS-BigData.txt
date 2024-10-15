@@ -10,11 +10,9 @@ Concepts To Focus:
 5) AWS GLUE
 6) Athena & Lambda
 7) AWS LAMBDA
-8) AWS Kinesis
-9) AWS Step Functions
-10)AWS EMR
-11) AWS CI\CD
-12) AWS BLOGS
+8)AWS EMR
+9) AWS CI\CD
+10) AWS BLOGS
 
 
 ************AWS Basics************
@@ -185,51 +183,11 @@ Your AWS Lambda Function Failed, What Now?
 
 https://medium.com/equinox-media-tech/your-aws-lambda-function-failed-what-now-b534e10ebbba
 
-**********************AWS Kinesis**********************
 
-Kinesis Data Stream & Data Analytics Tutorial | AWS Kinesis Tutorial | Kinesis Stream Introduction
+Data Engineering — S3 + Lambda + EMR Serverless:
 
-https://www.youtube.com/watch?v=RR0hhZUyjjc&list=PLLv1Hn1N3bRwhRLFm37JGCgkcI8wWtQ-a
+https://awstip.com/data-engineering-s3-lambda-emr-serverless-8641876b5bb4
 
-Kinesis Firehose Tutorial
-
-https://www.youtube.com/watch?v=RFx1QmhjIws
-
-https://www.youtube.com/watch?v=I7fPRkZkld0&list=PLLv1Hn1N3bRw7nU-vYEuBz_3z6thTb3jl
-
-URLS:
-https://towardsdatascience.com/delivering-real-time-streaming-data-to-amazon-s3-using-amazon-kinesis-data-firehose-2cda5c4d1efe
-
-
-How to run a real-time pipeline in AWS Kinesis using PySpark Structured Streaming
-
-https://towardsdatascience.com/how-to-run-a-real-time-pipeline-in-aws-kinesis-using-pyspark-structured-streaming-1b6bc5e6edc9
-
-
-How to build a simple data lake using Amazon Kinesis Data Firehose and Amazon S3
-
-https://medium.com/dataseries/how-to-build-a-simple-data-lake-using-amazon-kinesis-data-firehose-and-amazon-s3-1a6a6887f441
-
-Spark Streaming & Real Time Analytics on AWS
-
-https://medium.com/swlh/spark-streaming-real-time-analytics-on-aws-59f731f36aa2
-
-
-Creating A Realtime Analytics & Event Processing System For Big Data Using Amazon Kinesis
-
-https://faun.pub/creating-a-realtime-analytics-event-processing-system-for-big-data-using-amazon-kinesis-756f5e5d1abf
-
-
-
-**********************AWS Step Functions**********************
-
-ETL Orchestration on AWS with AWS Step Functions.
-
-https://medium.com/proud2becloud/etl-orchestration-on-aws-with-aws-step-functions-244c2089807a
-
-Serverless Orchestration Workflows using AWS Step functions and Lambda:
-
-https://medium.com/swlh/aws-step-functions-and-lambda-5a649d255a6
 
 
 ************AWS EMR****************

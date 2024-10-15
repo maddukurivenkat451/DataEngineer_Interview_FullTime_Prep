@@ -59,3 +59,7 @@ https://towardsdev.com/building-data-quality-checks-using-delta-table-logs-part-
 Data Quality Framework in Databricks:
 
 https://medium.com/@imtheguna/data-quality-framework-in-databricks-ad044b507711
+
+Spark performance optimization in Databricks — A complete guide:
+
+https://medium.com/@kaviprakash.2007/spark-performance-optimization-in-databricks-a-complete-guide-ab57280a8260

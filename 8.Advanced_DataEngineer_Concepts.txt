@@ -5,6 +5,7 @@
 1) SNOWFLAKE PYSPARK
 2) Delta Lake
 3) DBT
+4) FiveTran
 
 *************SNOWFLAKE PYSPARK****************
 
@@ -78,3 +79,10 @@ https://blog.devgenius.io/dbt-data-build-tool-in-a-nutshell-29028bc4e164
 dbt + Airflow :
 
 https://medium.com/plum-fintech/dbt-airflow-50b2c93f91cc
+
+
+************************************************
+*************FIVE TRAN**************************
+************************************************
+
+https://www.phdata.io/blog/how-to-use-fivetran-to-ingest-salesforce-data-into-snowflake/

@@ -2,7 +2,7 @@
 ##########Bigdata: HADOOP -SPARK-KAFKA Interview questions:#########
 #################################################################
 
-******************ETL DATAWAREHOUSE *******************
+******************ETL DATAWAREHOUSE Data Warehousing interview questions *******************
 
 What is dimension Modelling
 
@@ -74,6 +74,32 @@ When should you consider denormalization?
 What is database cardinality?
 
 What are the different types of cardinal relationships?
+
+
+
+𝗣𝗛𝗔𝗦𝗘 𝟭 - 𝗕𝗮𝘀𝗶𝗰𝘀
+
+* What is a data warehouse, and why is it important?
+* Explain the difference between OLTP and OLAP systems.
+* What are the key components of a data warehouse architecture?
+* What is ETL, and how does it work in data warehousing?
+* What are facts and dimensions in a data warehouse?
+
+𝗣𝗛𝗔𝗦𝗘 𝟮 - 𝗜𝗻𝘁𝗲𝗿𝗺𝗲𝗱𝗶𝗮𝘁𝗲
+
+* Explain the different types of slowly changing dimensions (SCD).
+* What is a star schema, and how does it differ from a snowflake schema?
+* How do you handle data quality issues in a data warehouse?
+* What is a surrogate key, and why is it used in data warehousing?
+* How do you optimize query performance in a data warehouse?
+
+𝗣𝗛𝗔𝗦𝗘 𝟯 - 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱
+
+* How would you design a data warehouse for real-time analytics?
+* Explain the process of building a data warehouse using dimensional modeling.
+* How would you handle the challenge of maintaining data integrity across multiple sources in a data warehouse?
+* What are the best practices for data warehouse maintenance and performance tuning?
+* How do you ensure data security and privacy in a data warehouse?
 
 
 https://blog.imocha.io/etl-interview-questions-with-answers
