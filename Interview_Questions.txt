@@ -795,6 +795,22 @@ What is materialized views in Redshift?
 
 *********************DATABRICKS DELTA LAKE************
 
+https://medium.com/@sounder.rahul/top-25-databricks-interview-questions-and-answers-for-a-data-engineer-1998367837f5
+
+https://medium.com/@anubhav020909/day-12-scenario-based-azure-databricks-questions-b7e791e7efa0
+
+What is Databricks?
+
+How does Databricks handle data storage?
+
+What are the main components of Databricks?
+
+Explain what workspaces are in Databricks. 
+
+What is Apache Spark, and how does it integrate with Databricks?
+
+How do you use Databricks to build and manage data pipelines?
+
 What are the components of Databricks?
 
 What is Delta Lake?
