@@ -299,9 +299,6 @@ How to set the mapreduce heap settings for a hive session as parameters to hive 
 ********* SPARK SPARK SPARK ***********************
 
 
-https://www.knowledgehut.com/interview-questions/spark
-
-
 Explain about Spark Architecture?
 
 What are benefits of Spark over MapReduce?
@@ -322,7 +319,7 @@ What is resource manager in Spark?
 
 What are the different cluster managers supported by Spark?
 
-What are different deployment modes in spark (cluster mode and client mode) and how are different?
+What are different deployment modes in spark (cluster mode and client mode) and how are different? When to use client mode and cluster mode?
 
 What is spark SQL Warehouse Dir?
 
@@ -355,7 +352,6 @@ Define RDD Lineage?
 Difference between cache vs persist()
 
 What are the different levels of persistence in Spark?
-
 
 How to connect Hive through Spark SQL?
 
@@ -438,6 +434,11 @@ Explain spark submit command and what are the parameters to send and explain the
 You have dataframe "mydf" which have three columns a1,a2,a3, but it is required to have column a2 with the new name b2, how would you do it ?
 
 How to Flatten Json Files Dynamically Using Apache Spark
+
+
+Scenario Based:
+
+https://medium.com/@shrutighoradkar101/spark-scenario-based-interview-questions-1fd3485c2911
 
 
 ***********Spark Streaming **************

@@ -226,6 +226,10 @@ Spark! Core Concepts Revisited:
 
 https://www.linkedin.com/pulse/just-enough-spark-core-concepts-revisited-deepak-rajak
 
+Spark Submit Command Explained with Examples:
+
+https://medium.com/@ashwin_kumar_/spark-submit-command-explained-with-examples-e19228ec3847
+
 
 Persist and Cache in Apache Spark
 
