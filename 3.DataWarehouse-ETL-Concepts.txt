@@ -13,7 +13,7 @@ Concepts To focus:
 5)deisgn star schema etc
 6)given a table, create entity relationship , for example 
 7)normalization
-8)Data Reconciliation
+
 9)Slowly Changing Dimension
 
 
@@ -64,6 +64,19 @@ https://www.geeksforgeeks.org/dimensional-data-modeling/
 
 https://www.youtube.com/watch?v=0CZyRiAhlDA
 
+Types of Fact Tables: Data Warehouse
+
+https://medium.com/@changuru2023/types-of-fact-tables-data-warehouse-cec3cfaa2efe
+
+
+Early Arriving Facts / Late Arriving Dimensions:
+
+https://www.youtube.com/watch?v=YyaQbYYJlJc
+
+https://www.youtube.com/watch?v=J2DVhPcTzLM
+
+
+
 What to do with a Late Arriving Dimension or Early Arriving Facts
 
 https://www.matillion.com/resources/blog/what-to-do-with-a-late-arriving-dimension-or-early-arriving-facts
@@ -98,7 +111,10 @@ https://www.youtube.com/watch?v=ZBgXb66Ckz0&t=72s
 
 ER Diagram: Entity Relationship Diagram Model | DBMS Example:
 
-https://www.guru99.com/er-diagram-tutorial-dbms.html
+https://medium.com/@msa.sid/the-power-of-er-modeling-in-database-design-71a6d9ab2ffb
+
+https://adityakarad.medium.com/er-model-explained-dbms-concepts-coding-chronicles-86735559646d
+
 
 
 *************** Database Normalization***************
@@ -127,19 +143,9 @@ Relational Database Schema Design Overview:
 
 https://medium.com/@kimtnguyen/relational-database-schema-design-overview-70e447ff66f9
 
+Mastering Database Design: Denormalization:
 
-***************Data Reconciliation***************
-
-https://www.guru99.com/what-is-data-reconciliation.html
-
-Change Data Capture(CDC) for Data Lake Data Ingestion:
-
-https://towardsdatascience.com/change-data-capture-cdc-for-data-ingestion-ca81ff5934d2
-
-
-Next-Gen Data Movement Platform at PayPal
-
-https://medium.com/paypal-engineering/next-gen-data-movement-platform-at-paypal-100f70a7a6b
+https://luminousmen.com/post/mastering-database-design-denormalization
 
 
 ***************Slowly Changing Dimension***************

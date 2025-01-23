@@ -13,6 +13,12 @@ Data Modeling in the Modern Data Stack:
 
 https://www.youtube.com/watch?v=IdCmMkQLvGA
 
+
+Data Modeling Interview Guide: Beyond the Basics:
+
+https://medium.com/data-engineer-things/data-modeling-interview-guide-beyond-the-basics-key-areas-for-deeper-discussion-89639758cd42
+
+
 Design a Database for Flight Booking System from Scratch:
 
 https://medium.com/@abhishek.manjunath.1999/design-a-database-for-flight-booking-system-from-scratch-8f0e900ac9df
@@ -26,9 +32,49 @@ Data Modeling Interview Questions:
 
 https://www.analyticsvidhya.com/blog/2023/04/data-modeling-interview-questions/
 
-Data Modeling: Design the data model for a taxi service like Uber.:
+Data Modeling: Design the data model for a taxi service like Uber:
 
 https://medium.com/towards-data-engineering/data-modelling-design-the-data-model-for-a-taxi-service-like-uber-eaedfa0e25f4
+
+
+Data Modeling: Design a data model for a hotel booking system like Airbnb.
+
+https://medium.com/towards-data-engineering/data-modelling-design-a-data-model-for-a-hotel-booking-system-like-airbnb-2110a6d079c6
+
+
+Understanding Data Modeling: A Healthcare-Focused Guide to Efficient Database Design
+
+https://rycharlind.medium.com/understanding-data-modeling-a-healthcare-focused-guide-to-efficient-database-design-bf96cb88aa66
+
+Designing a Data Model for a Ride-Sharing App(Uber/Lyft): A Comprehensive Guide
+
+https://blog.det.life/designing-a-data-model-for-a-ride-sharing-app-uber-lyft-a-comprehensive-guide-4b1737e69bf7
+
+
+Designing a Data Model for a Streaming Video Platform(Netflix/Disney+): A Comprehensive Guide:
+
+https://blog.det.life/designing-a-data-model-for-a-streaming-video-platform-netflix-disney-a-comprehensive-guide-57f303138935
+
+Designing a Data Model for a Cloud Storage App(Dropbox/GoogleDrive):
+
+https://medium.com/data-engineer-things/designing-a-data-model-for-a-cloud-storage-app-dropbox-googledrive-a-comprehensive-guide-88069fe87f0b
+
+
+Complete Go-To-Market (GTM) Strategy :
+
+https://towardsdatascience.com/a-comprehensive-introduction-to-marketing-data-engineering-f292a4a6568b
+
+https://slideworks.io/resources/go-to-market-gtm-strategy
+
+https://onsiter.medium.com/a-step-by-step-guide-for-creating-a-go-to-market-strategy-62db552ba545
+
+Design Database for Marketing Analytics
+
+https://www.geeksforgeeks.org/how-to-design-database-for-marketing-analytics/
+
+How To Build a Data-Driven Email Marketing Campaign
+
+https://selzy.com/en/blog/data-driven-email-marketing/
 
 
 amazon data model - 
@@ -36,6 +82,8 @@ https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/bp-relational-m
 
 uber data model - 
 https://allbigdatathings.blogspot.com/2019/04/uber-data-model.html
+
+https://www.youtube.com/watch?v=f7v_1UmkAoM
 
 facebook data model- 
 https://nehajirafe.medium.com/data-modeling-designing-facebook-style-comments-with-sql-4cf9e81eb164

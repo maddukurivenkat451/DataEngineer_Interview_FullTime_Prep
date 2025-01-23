@@ -440,6 +440,8 @@ Scenario Based:
 
 https://medium.com/@shrutighoradkar101/spark-scenario-based-interview-questions-1fd3485c2911
 
+https://medium.com/@vishalbarvaliya/20-real-time-spark-scenario-based-questions-for-data-engineers-2dc893151169
+
 
 ***********Spark Streaming **************
 
@@ -564,7 +566,13 @@ What type of database is Snowflake?
 
 What is Snowflake Time Travel?
 
-What is SnowPipe
+What do you know about the failsafe in Snowflake?
+
+Why fail-safe instead of Backup?
+
+What is SnowPipe?
+
+What is Data Retention Period in Snowflake?
 
 What is “Stage” in Snowflake?
 
@@ -574,7 +582,7 @@ What makes Snowflake so fast?
 
 How to create a Snowflake task?
 
-What do you mean by Horizontal and Vertical Scaling in SNOWFLAKE?
+Explain Horizontal and Vertical Scaling in SNOWFLAKE?
 
 What is Auto-scaling in Snowflake?
 
@@ -586,21 +594,26 @@ How Does Snowflake Differ from AWS?
 
 How is metadata stored in Snowflake?
 
-What do you know about the failsafe in Snowflake?
-
-Why fail-safe instead of Backup?
-
 Can you store encrypted data in Snowflake?
 
 How data is secured in Snowflake?
 
 Explain the data compression in Snowflake?
 
+What is Materialized view in Snowflake?
+
 Name a few advantages that arise out of data compression in Snowflake?
 
 What is Snowflake Caching?
 
 What are the advantages of Snowflake Schema?
+
+Explain Snowflake streams and tasks?
+
+Explain dynamic masking of data in snowflake? How do you apply row level and column level masking?
+
+How to optimize or improve query performance in Snowflake?
+
 
 
 
@@ -799,19 +812,29 @@ https://medium.com/@sounder.rahul/top-25-databricks-interview-questions-and-answ
 
 https://medium.com/@anubhav020909/day-12-scenario-based-azure-databricks-questions-b7e791e7efa0
 
+https://www.adaface.com/blog/databricks-interview-questions/
+
 What is Databricks?
 
 How does Databricks handle data storage?
 
 What are the main components of Databricks?
 
-Explain what workspaces are in Databricks. 
+Explain what workspaces are in Databricks.?
+
+Explain Medallion Architecture in Data Lakehouse with Delta Lake and Databricks?
 
 What is Apache Spark, and how does it integrate with Databricks?
 
 How do you use Databricks to build and manage data pipelines?
 
 What are the components of Databricks?
+
+What is the role of Databricks Runtime?
+
+How do you secure data and manage permissions in Databricks?
+
+Can you explain the difference between Databricks SQL and Databricks notebooks?
 
 What is Delta Lake?
 
@@ -840,3 +863,19 @@ How do I ingest data into Delta Lake?
 How does Delta Lake help with compliance? And how does Delta Lake handle previous versions of data on delete for GDPR and CCPA support?
 
 How does Delta Lake help with streaming vs. batch operations?
+
+Difference Between EMR vs Data Bricks?
+
+https://hevodata.com/learn/databricks-vs-emr/
+
+
+************************************************
+*********************Azure Azure Azure************
+************************************************
+
+Azure — Azure Data Engineer role
+https://medium.com/@poojatripathi0697/most-asked-questions-on-azure-azure-data-engineer-6248646feeb5
+
+
+https://medium.com/@scholarhatblogs/top-50-azure-data-engineer-interview-questions-82c769823c24
+

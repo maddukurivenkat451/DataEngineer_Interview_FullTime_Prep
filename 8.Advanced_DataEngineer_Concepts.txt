@@ -10,9 +10,12 @@
 *************SNOWFLAKE PYSPARK****************
 
 
-Snowflake Architecture - Learn How Snowflake Stores Table data
+Snowflake Architecture :
 
-https://www.youtube.com/watch?v=dxrEHqMFUWI
+https://www.youtube.com/watch?v=IocdgUB94KQ&t=1242s
+
+https://medium.com/career-drill/what-is-snowflake-842316bd88fc
+
 
 
 SNOWFLAKE DATAWAREHOUSE
@@ -21,11 +24,6 @@ https://www.youtube.com/watch?v=WkXybqZ3GyA&list=PL3GCZkoyKK4ehbIEFG54P4NYG30rII
 
 https://www.youtube.com/watch?v=KG58ixkU2Es&list=PL3GCZkoyKK4ehbIEFG54P4NYG30rIIyRd&index=3
 
-
-Snowflake Architecture |
-
-
-https://www.youtube.com/watch?v=IocdgUB94KQ&t=1242s
 
 How Snowflake Can Transform the Way Data Engineering Works
 
@@ -59,7 +57,12 @@ https://medium.com/@vuppala.venkat/snowflake-sql-best-practices-6fd7573bd39d
 ******************************************
 
 
-Data Build Tool) Tutorial
+Data Build Tool:
+
+https://medium.com/@premvishnoi/what-is-dbt-1690b4fd8ede
+
+https://medium.com/towards-data-science/what-is-dbt-data-build-tool-and-when-should-you-use-it-9dc1566d960d
+
 
 https://levelup.gitconnected.com/what-is-data-build-tool-dbt-dbt-101-and-hands-on-dbt-example-7c3ed789ba83
 
@@ -67,6 +70,9 @@ https://levelup.gitconnected.com/what-is-data-build-tool-dbt-dbt-101-and-hands-o
 https://www.startdataengineering.com/post/dbt-data-build-tool-tutorial/
 
 
+DBT : what is DBT model:
+
+https://medium.com/@premvishnoi/dbt-what-is-dbt-model-12c9a342488e
 
 Aggregate CloudTrail logs with DBT and Spark
 

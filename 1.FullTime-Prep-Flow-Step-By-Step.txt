@@ -31,6 +31,11 @@ How I became a Data Engineer from scratch
 https://medium.com/@lucaspressi/how-i-became-a-data-engineer-from-scratch-6bb5165e67e6
 
 
+How to Start LeetCode in 2025 (as a beginner)
+
+https://medium.com/algomaster-io/how-to-start-leetcode-in-2025-as-a-beginner-5306b44e42f9
+
+
 Data Engineering: Major Technologies To Learn
 
 https://algochan0310.medium.com/data-engineering-major-technologies-to-learn-in-2022-eb879de59cc5
