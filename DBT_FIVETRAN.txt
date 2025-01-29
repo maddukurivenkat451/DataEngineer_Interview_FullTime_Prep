@@ -1,0 +1,142 @@
+******************************************
+*************DBT**************************
+******************************************
+
+
+Data Build Tool:
+
+https://medium.com/@premvishnoi/what-is-dbt-1690b4fd8ede
+
+https://medium.com/towards-data-science/what-is-dbt-data-build-tool-and-when-should-you-use-it-9dc1566d960d
+
+https://levelup.gitconnected.com/what-is-data-build-tool-dbt-dbt-101-and-hands-on-dbt-example-7c3ed789ba83
+
+
+DBT (Data Build Tool) Course:
+
+https://www.udemy.com/course/complete-dbt-data-build-tool-bootcamp-zero-to-hero-learn-dbt/?srsltid=AfmBOooVmGMVV8lpzsSsIGI_JeLIrOj2NWe74GE-4G3whpxOrykX2Owr&couponCode=24T2MT111524
+
+
+dbt Fundamentals with Certification:
+
+https://learn.getdbt.com/courses/dbt-fundamentals
+
+
+https://www.startdataengineering.com/post/dbt-data-build-tool-tutorial/
+
+https://towardsdatascience.com/dbt-55b35c974533
+
+https://medium.com/dev-genius/data-build-tool-dbt-1f0b03d97cc6
+
+
+DBT : what is DBT model:
+
+https://medium.com/@premvishnoi/dbt-what-is-dbt-model-12c9a342488e
+
+Additional Blogs for Depth Understanding:
+
+Comparing dbt Core vs Cloud for the Enterprise:
+
+https://cookjack248.medium.com/dbt-core-dbt-cloud-whats-the-difference-12993acc890a
+
+https://medium.com/tropos-io/the-only-guide-youll-need-to-decide-dbt-core-or-dbt-cloud-enterprise-d2880dc91706
+
+Why data teams need a semantic layer?
+
+https://medium.com/@blosher13/data-democracy-with-dbts-semantic-layer-6c160a30530b
+
+DBT Incremental Strategy and Idempotency
+
+https://techblog.finatext.com/dbt-incremental-strategy-and-idempotency-877993f48448
+
+dbt Macros:
+
+https://medium.com/data-engineering-with-dremio/a-guide-to-dbt-macros-purpose-benefits-and-usage-058f5d69254b
+
+https://www.youtube.com/watch?v=i38--1pNDUw&ab_channel=DataTech
+
+https://noahlk.medium.com/three-dbt-macros-i-use-every-day-2966b3ad9b26
+
+https://medium.com/@hugolu87/my-favourite-use-cases-for-dbt-macros-dd614d37fc99
+
+Zero to dbt: How to Analyze and Build Data Models from Spotify’s Million Playlist Data:
+
+https://medium.com/inthepipeline/from-zero-to-dbt-how-to-analyze-and-build-data-models-from-spotifys-million-playlist-data-241c3d8c9b5d
+
+https://medium.com/inthepipeline/from-zero-to-dbt-part-2-modeling-spotifys-million-playlist-dataset-e62e350d9945#36d5
+
+How to build an end-to-end testing pipeline with dbt on Databricks
+
+https://medium.com/dbsql-sme-engineering/how-to-build-an-end-to-end-testing-pipeline-with-dbt-on-databricks-cb6e179e646c
+
+
+Building Custom Tests in dbt for Superior Validation:
+
+https://medium.com/@savleenkr92/from-good-to-great-data-building-custom-tests-in-dbt-for-superior-validation-73fb85db37ac
+
+How to write fewer and better data tests?:
+
+https://www.elementary-data.com/post/dbt-tests
+
+GIT HUB PROJECT:
+
+https://github.com/Alister-Sundays/dbt_end_to_end_project
+
+DBT — Build your First Python Model
+
+https://blog.varunsingh.in/dbt-build-your-first-python-model-63412a0e6686
+
+DBT Paradime:
+
+https://medium.com/@danilo.drobac/revolutionising-analytics-engineering-with-paradime-io-f254c021ed7c
+
+
+## DBT on Snowflake:
+
+https://medium.com/@dipan.saha/dbt-on-snowflake-a-comprehensive-guide-a849e893a2e
+
+https://medium.com/@dipan.saha/the-ultimate-guide-to-dbt-on-snowflake-day-2-e1e9dcf5b372
+
+https://medium.com/@dipan.saha/the-ultimate-guide-to-dbt-on-snowflake-day-3-9bf0b7979761
+
+https://medium.com/@dipan.saha/the-ultimate-guide-to-dbt-on-snowflake-day-4-280eed1a763d
+
+https://medium.com/@dipan.saha/the-ultimate-guide-to-dbt-on-snowflake-day-5-123b5a3db595
+
+https://medium.com/@dipan.saha/the-ultimate-guide-to-dbt-on-snowflake-day-6-92940479b79c
+
+https://medium.com/@dipan.saha/the-ultimate-guide-to-dbt-on-snowflake-day-7-a5af4c9318d
+
+
+DBT with AIRFLOW:
+
+https://medium.com/@luisfelipe_342/orchestrating-multiple-dbt-projects-using-a-single-airflow-instance-on-kubernetes-0b1d270c07f9
+
+https://www.youtube.com/watch?v=9sU7I5AZKZU&ab_channel=DataTech
+
+
+DBT Interview Questions:
+
+https://snowflakemasters.in/dbt-interview-questions/
+
+https://www.projectpro.io/article/dbt-interview-questions-and-answers/1062
+
+
+Aggregate CloudTrail logs with DBT and Spark
+
+https://medium.com/slalom-australia/aggregate-cloudtrail-logs-with-dbt-and-spark-d3196248d2d4
+
+DBT in a Nutshell:
+
+https://blog.devgenius.io/dbt-data-build-tool-in-a-nutshell-29028bc4e164
+
+dbt + Airflow :
+
+https://medium.com/plum-fintech/dbt-airflow-50b2c93f91cc
+
+
+************************************************
+*************FIVE TRAN**************************
+************************************************
+
+https://www.phdata.io/blog/how-to-use-fivetran-to-ingest-salesforce-data-into-snowflake/

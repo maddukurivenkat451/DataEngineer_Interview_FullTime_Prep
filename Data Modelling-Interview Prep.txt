@@ -19,6 +19,11 @@ Data Modeling Interview Guide: Beyond the Basics:
 https://medium.com/data-engineer-things/data-modeling-interview-guide-beyond-the-basics-key-areas-for-deeper-discussion-89639758cd42
 
 
+Data Modeling Interview Questions:
+
+https://www.analyticsvidhya.com/blog/2023/04/data-modeling-interview-questions/
+
+
 Design a Database for Flight Booking System from Scratch:
 
 https://medium.com/@abhishek.manjunath.1999/design-a-database-for-flight-booking-system-from-scratch-8f0e900ac9df
@@ -28,9 +33,6 @@ Retailer Data Warehouse Data Engineering — Practical Problems
 
 https://medium.com/@poojatripathi0697/retailer-data-warehouse-data-engineering-practical-problems-23987662375b
 
-Data Modeling Interview Questions:
-
-https://www.analyticsvidhya.com/blog/2023/04/data-modeling-interview-questions/
 
 Data Modeling: Design the data model for a taxi service like Uber:
 

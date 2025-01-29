@@ -1,11 +1,8 @@
 ############################################
-****** SNOWFLAKE | Delta Lake | DBT*******:
+****** SNOWFLAKE*******:
 #############################################
 
 1) SNOWFLAKE PYSPARK
-2) Delta Lake
-3) DBT
-4) FiveTran
 
 *************SNOWFLAKE PYSPARK****************
 
@@ -15,8 +12,6 @@ Snowflake Architecture :
 https://www.youtube.com/watch?v=IocdgUB94KQ&t=1242s
 
 https://medium.com/career-drill/what-is-snowflake-842316bd88fc
-
-
 
 SNOWFLAKE DATAWAREHOUSE
 
@@ -52,43 +47,3 @@ Snowflake SQL best practices:
 https://medium.com/@vuppala.venkat/snowflake-sql-best-practices-6fd7573bd39d
 
 
-******************************************
-*************DBT**************************
-******************************************
-
-
-Data Build Tool:
-
-https://medium.com/@premvishnoi/what-is-dbt-1690b4fd8ede
-
-https://medium.com/towards-data-science/what-is-dbt-data-build-tool-and-when-should-you-use-it-9dc1566d960d
-
-
-https://levelup.gitconnected.com/what-is-data-build-tool-dbt-dbt-101-and-hands-on-dbt-example-7c3ed789ba83
-
-
-https://www.startdataengineering.com/post/dbt-data-build-tool-tutorial/
-
-
-DBT : what is DBT model:
-
-https://medium.com/@premvishnoi/dbt-what-is-dbt-model-12c9a342488e
-
-Aggregate CloudTrail logs with DBT and Spark
-
-https://medium.com/slalom-australia/aggregate-cloudtrail-logs-with-dbt-and-spark-d3196248d2d4
-
-DBT in a Nutshell:
-
-https://blog.devgenius.io/dbt-data-build-tool-in-a-nutshell-29028bc4e164
-
-dbt + Airflow :
-
-https://medium.com/plum-fintech/dbt-airflow-50b2c93f91cc
-
-
-************************************************
-*************FIVE TRAN**************************
-************************************************
-
-https://www.phdata.io/blog/how-to-use-fivetran-to-ingest-salesforce-data-into-snowflake/

@@ -62,27 +62,6 @@ DSA — Bubble Sort Algorithm
 https://yatin-pandit94.medium.com/dsa-bubble-sort-algorithm-dcd2fd59f72
 
 
-*************SQL************
-
-https://www.youtube.com/watch?v=4fJhFtxCgCc
-
-https://www.youtube.com/watch?v=K-_h-6NPak8&list=PLtPFQl_0853oNyMPC2Fd0K1uW9x41KQn6&index=16
-
-
-https://www.youtube.com/watch?v=OIRy7ZFSudA&list=PLtPFQl_0853oNyMPC2Fd0K1uW9x41KQn6&index=7
-
-
-https://www.geeksforgeeks.org/sql-top-n-queries/
-
-https://www.sqlshack.com/overview-of-the-sql-row-number-function/
-
-Learn SQL Window Functions
-
-https://lohithyelamanchi.medium.com/learn-sql-window-functions-in-5-minutes-2f513019dd40
-
-
-
-
 
 *********coding practise(PYTHON & SQL)**********
 

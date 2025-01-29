@@ -7,11 +7,61 @@ Introduction to SQL
 https://www.datacamp.com/courses/introduction-to-sql
 
 
-Practise SQL follow below youtube channel after you learn basic sql:
-
-https://www.youtube.com/@techTFQ
-
-
 SQL INTERVIEW QUESTIONS:
 
 https://www.youtube.com/watch?v=a3ngELoA9h0&list=PLtPFQl_0853oNyMPC2Fd0K1uW9x41KQn6
+
+
+##################################
+###SQL Client Questions###########
+##################################
+
+
+SQL Interview Question (Medium):
+
+https://medium.com/gitconnected/sql-interview-question-medium-most-profitable-companies-0d4093c874f2
+
+https://medium.com/@nirajan_DataAnalyst/15-common-sql-coding-interview-questions-and-answers-2024-e9e60cb4bd6b
+
+Five interesting SQL questions from Leetcode (With explanations)
+
+https://medium.com/data-engineer-things/five-interesting-sql-questions-from-leetcode-with-explanation-48e752db67ed
+
+SQL Interview Question asked in Amazon, Tiktok, Target, Databricks:
+
+https://medium.com/@poojatripathi0697/sql-interview-question-asked-in-amazon-tiktok-target-databricks-and-many-more-985da9068633
+
+Amazon Interviews:
+
+https://medium.com/@sqlfundamentals/sql-coding-questions-in-amazon-interviews-1ae7892ef271
+
+https://medium.com/javarevisited/highest-grossing-items-sql-question-asked-by-amazon-4bede9a83e2
+
+Advance SQL Interview Question 1:
+
+https://medium.com/@sangarg/advance-sql-interview-question-1-0018cd7324d1
+
+SQL interview at Microsoft:
+
+https://medium.com/@harshitbasti/sql-interview-at-microsoft-97e7c071515c
+
+SQL interview at Google & Netflix:
+
+https://medium.com/technology-hits/sql-interview-at-google-netflix-d638431e040f
+
+https://medium.com/h7w/sql-interview-at-google-eed3fd43842a
+
+https://medium.com/@harshitbasti/sql-interview-at-google-0792db6a6257
+
+SQL Interview question at Spotify:
+
+https://medium.com/@harshitbasti/sql-interview-question-at-spotify-d940cef079b3
+
+
+Netflix Analytics Engineer Interview Question — SQL
+
+https://medium.com/@poojatripathi0697/netflix-analytics-engineer-interview-question-sql-c225a59de536
+
+SQL interview at Meta:
+
+https://medium.com/lucid-plexus/sql-interview-at-meta-e2fae6f1b88e
