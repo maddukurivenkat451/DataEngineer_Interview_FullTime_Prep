@@ -1,0 +1,492 @@
+
+******************************************************
+************
+1) AWS
+2) DATABRICKS 
+3) DBT
+4) SNOWFLAKE **********************
+*******************************************************
+
+
+#####################AWS############
+
+What is EC2?
+
+What are the different types of EC2 instances based on their costs?
+
+What are Spot Instances and On-Demand Instances?
+
+What do you understand by stopping and terminating an EC2 Instance?
+
+What is SnowBall?
+
+What is CloudWatch?
+
+What do you understand by VPC?
+
+What are the Storage Classes available in Amazon S3?
+
+Explain what T2 instances are?
+
+What are Key-Pairs in AWS?
+
+Explain what S3 is?
+
+How can you send a request to Amazon S3?
+
+What is the lifecycle of object stored in S3?
+
+How long does it take for S3 lifecycle policy to take effect?
+
+What is retention period in S3 bucket?
+
+What are the different types of Instances in EC2 and EMR?
+
+What are the advantages of AWS IAM?
+
+What is AMI?
+
+Mention what the relationship between an instance and AMI is?
+
+What does an AMI include?
+
+How many buckets can you create in AWS by default?
+
+Explain can you vertically scale an Amazon instance? How?
+
+What are the advantages of auto-scaling?
+
+what is boto3 and advantage?
+
+******** AWS EMR*****************
+
+What is Amazon EMR?
+
+AWS EMR Master node, Worker Noode, Core Node types explain.
+
+What is bootstrapping in EMR and EC2? Explain
+
+What is the AWS EMR step?
+
+What is the main use of EMR in AWS?
+
+How many EMR clusters can be run simultaneously?
+
+What is the difference between EC2 and EMR in AWS?
+
+Where does EMR run?
+
+What is a cluster in AWS EMR?
+
+Does EMR make use of yarn?
+
+How do you execute several steps in EMR?
+
+What is Ganglia in EMR?
+
+******** AWS GLUE*****************
+
+What is AWS Glue?
+
+What are the Features of AWS Glue?
+
+How can AWS Glue manage ETL Service?
+
+What are the use cases of AWS Glue?
+
+What are the drawbacks of AWS Glue?
+
+How can we Automate Data Onboarding?
+
+How to list all databases and tables in AWS Glue Catalog?
+
+What is AWS Glue Data Catalog?
+
+How can AWS Glue Data Catalog access with Amazon Athena?
+
+What are AWS Glue Crawlers?
+
+How do you trigger a glue crawler in AWS Glue?
+
+What is the AWS Glue Schema Registry?
+
+How does Schema Registry be integrated?
+
+How can we solve this HIVE PARTITION SCHEMA MISMATCH?
+
+How to define nested array to ingest data and convert?
+
+How to execute aws glue scripts using python 2.7 from local machine?
+
+What is AWS Glue Streaming ETL?
+
+How set name for crawled table?
+
+How to specify join types in AWS Glue?
+
+How to join / merge all rows of an RDD in PySpark / AWS Glue into one single long line?
+
+How to create AWS glue job using CLI commands?
+
+How to get the total number of partitions in AWS Glue for specific range?
+
+When an AWS Glue job times out, how do we Retry it?
+
+
+******** AWS Lambda*****************
+
+What is AWS Lambda?
+
+What are the languages supported by AWS Lambda?
+
+What is automated deployment?
+
+What is Auto Scaling in Lambda?
+
+What type of storage is provided by Amazon?
+
+While performing DDOS, what is the limit for execution in Lambda?
+
+What do you think makes Lambda a timesaving approach?
+
+What is your understanding of AMI?
+
+Do you think there is a relation between Instance and AMI?
+
+What are the best practices for security in Lambda?
+
+What do you know about Zero downtime deployment?
+
+What restrictions apply to AWS Lambda function code?
+How long can an AWS Lambda function execute?
+
+How does AWS Lambda secure my code?
+
+On AWS Lambda what all kinds of code can run?
+
+Which all languages are supported by AWS Lambda?
+
+Is the infrastructure accessible on which the AWS Lambda runs?
+
+Can I use packages with AWS Lambda?
+
+Do the AWS Lambda-based functions stay available when code or its configuration is changed?
+Is there any limit to the quantity of AWS Lambda functions that can be executed at once?
+What happens when my account surpasses the default threshold limit on the executions?
+
+
+******** AWS Redshift*****************
+
+
+What is Amazon Redshift?
+Explain the process of Amazon Redshift?
+What is the purpose of using AWS Redshift database ?
+What are the features of Amazon Redshift?
+What is AQUA for Amazon Redshift?
+Which node types support AQUA?
+Explain the architecture of ELT and ETL patterna in AWS Redshift?
+What are the limitations of Amazon Redshift?
+How can we send a CSV File from S3 into Redshift with an AWS Lambda Function?
+How can we find size of database, schema, table in redshift?
+How to create an Index in Amazon Redshift?
+How to unload a table on RedShift to a single CSV file?
+How can Redshift load CSV File using Copy and Example?
+How can we measure table space on disk in RedShift?
+What is materialized views in Redshift?
+
+
+#################DATABRICKS DELTA LAKE#################
+
+https://medium.com/@sounder.rahul/top-25-databricks-interview-questions-and-answers-for-a-data-engineer-1998367837f5
+
+https://medium.com/@anubhav020909/day-12-scenario-based-azure-databricks-questions-b7e791e7efa0
+
+https://www.adaface.com/blog/databricks-interview-questions/
+
+What is Databricks?
+
+How does Databricks handle data storage?
+
+What are the main components of Databricks?
+
+Explain what workspaces are in Databricks.?
+
+Explain Medallion Architecture in Data Lakehouse with Delta Lake and Databricks?
+
+What is Apache Spark, and how does it integrate with Databricks?
+
+How do you use Databricks to build and manage data pipelines?
+
+What are the components of Databricks?
+
+What is the role of Databricks Runtime?
+
+How do you secure data and manage permissions in Databricks?
+
+Can you explain the difference between Databricks SQL and Databricks notebooks?
+
+What is Delta Lake?
+
+How is Delta Lake related to Apache Spark?
+
+What format does Delta Lake use to store data?
+
+What is Delta Lake time travel?
+
+How can I read and write data with Delta Lake?
+
+Where does Delta Lake store the data?
+
+Can I copy my Delta Lake table to another location?
+
+Can I stream data directly into and from Delta tables?
+
+When I use Delta Lake, will I be able to port my code to other Spark platforms easily?
+
+How does Delta Lake compare to other transactional storage layers?
+
+How do I ingest data into Delta Lake?
+
+How does Delta Lake help with compliance? And how does Delta Lake handle previous versions of data on delete for GDPR and CCPA support?
+
+How does Delta Lake help with streaming vs. batch operations?
+
+Difference Between EMR vs Data Bricks?
+
+How does Databricks handle cluster management and resource allocation for optimized performance?
+
+What are the best practices for optimizing Apache Spark jobs in Databricks?
+
+How does Databricks autoscaling work, and what are the key considerations when enabling it?
+
+What are the main performance bottlenecks in Databricks Spark jobs, and how do you troubleshoot them?
+
+What are Delta Lakes in Databricks, and how do they improve data reliability compared to Parquet or ORC?
+
+Explain how ACID transactions work in Delta Lake and their benefits in a Data Engineering workflow.
+
+How does Databricks handle schema evolution in Delta Lake, and what challenges can arise?
+
+What is data skipping in Delta Lake, and how does it optimize query performance?
+
+How can you implement data partitioning in Databricks, and when should you repartition data?
+
+What are the advantages and disadvantages of using caching in Databricks, and when should you use CACHE TABLE vs. persist()?
+
+How does Databricks handle data serialization, and which formats (Parquet, Avro, ORC) are best for different use cases?
+
+How can Z-Ordering improve query performance in Delta Lake tables?
+
+How can you implement Role-Based Access Control (RBAC) in Databricks for better security?
+
+How does Unity Catalog in Databricks enhance data governance and security?
+
+What are the best practices for managing secrets and credentials securely in Databricks?
+
+
+#################Azure Azure Azure#################
+
+Azure — Azure Data Engineer role
+https://medium.com/@poojatripathi0697/most-asked-questions-on-azure-azure-data-engineer-6248646feeb5
+
+
+https://medium.com/@scholarhatblogs/top-50-azure-data-engineer-interview-questions-82c769823c24
+
+
+************************************************
+*********************DBT DBT DBT************
+************************************************
+
+what is a DBT model?
+
+What are sources in DBT?
+
+How do you create a DBT model?
+
+How does DBT handle dependencies betwen models?
+
+what is the difference between dbt core and dbt cloud?
+
+Can you explain the difference between ‘ref’ and ‘source’ in DBT?
+
+What is the difference between ref() and source() in dbt? When should you use each?
+
+How do you run DBT models, and what key DBT commands are used in projects?
+
+What is the role of the dbt_project.yml file, and why is it important?
+
+What is the role of the profiles.yml file in dbt, and how does it manage connections to different environments?
+
+What are DBT macros, and how do they enhance SQL functionality in DBT?
+
+What is Metric and Metric Flow in DBT?
+
+What is package in dbt?Explain advantages of using Packages in DBT? What are the packages available in DBT?
+
+How can DBT be used to handle incremental data loads?
+
+How does dbt handle schema migrations?
+
+What are the different types of dbt hooks, and when would you use them?
+
+How does dbt handle incremental models? What are the key configurations required to implement them?
+
+What is the purpose of the dbt test command, and how can you write custom tests for your models?
+
+How does DBT handle testing of data models, and what are the different types of tests?
+
+How does DBT manage version control and collaboration in data projects?
+
+How do you use Jinja to improve sql code in DBT?
+
+Define are the four types of materializations in DBT?
+
+How do you create custom materialization in dbt?
+
+What are ephemeral models in DBT?
+
+How can you debug your DBT models? Tell me about two ways?
+
+Explain semantic layer architecture in DBT? Adavntages of using it?
+
+Explain how you’ve optimized complex DBT models to improve performance. What techniques do you use to minimize run times when dealing with large datasets?
+
+How do you handle dependency management in DBT in a project with hundreds of models? What strategies do you implement to ensure a smooth dependency graph?
+
+How do you manage dbt deployment accross multiple environments (dev, stg and prod)?
+
+
+How do you use DBT's ref() function, and what common pitfalls have you encountered when defining relationships between models?
+
+Can you explain the role of dbt run, dbt test, and dbt seed in your workflow? How do you automate these tasks in a CI/CD pipeline?
+
+How do you manage data freshness and handle incremental models in DBT? Can you describe a specific use case where an incremental model improved your ETL process?
+
+Describe a challenging debugging scenario you encountered in DBT. How did you identify and resolve the issue, especially with regard to model dependencies or data lineage?
+
+How do you approach testing in DBT? Can you explain how you set up custom tests using schema and data tests to ensure data quality?
+
+How do you use Jinja in DBT for dynamic SQL generation? Can you give an example of how you’ve used macros to create reusable SQL code blocks?
+
+Resources to prepare:
+
+https://snowflakemasters.in/dbt-interview-questions/
+
+
+################SNOWFLAKE
+
+
+What are the features of Snowflake? 
+
+What is the schema in Snowflake?
+
+What kind of SQL does Snowflake use?
+
+What ETL tools do you use with Snowflake?
+
+What type of database is Snowflake?
+
+What is Snowflake Time Travel?
+
+What do you know about the failsafe in Snowflake?
+
+Why fail-safe instead of Backup?
+
+What is SnowPipe?
+
+What is Data Retention Period in Snowflake?
+
+What is “Stage” in Snowflake?
+
+Is Snowflake OLTP or OLAP?
+
+What makes Snowflake so fast?
+
+How to create a Snowflake task?
+
+Explain Horizontal and Vertical Scaling in SNOWFLAKE?
+
+What is Auto-scaling in Snowflake?
+
+How is Snowflake different from Redshift?
+
+What do you mean by zero-copy cloning in Snowflake Explain the commands?
+
+How Does Snowflake Differ from AWS?
+
+How is metadata stored in Snowflake?
+
+Can you store encrypted data in Snowflake?
+
+How data is secured in Snowflake?
+
+Explain the data compression in Snowflake?
+
+What is Materialized view in Snowflake?
+
+Name a few advantages that arise out of data compression in Snowflake?
+
+What is Snowflake Caching?
+
+What are the advantages of Snowflake Schema?
+
+Explain Snowflake streams and tasks?
+
+Explain dynamic masking of data in snowflake? How do you apply row level and column level masking?
+
+How to optimize or improve query performance in Snowflake?
+
+Snowflake Interview Questions:
+
+https://skphd.medium.com/snowflake-interview-questions-and-answers-part-2-1c1ddeb1f300
+
+
+What is Snowflake & How it is different than On prem Data warehouses
+
+Explain the Snowflake Architecture or How Snowflake Compute & Storage separate Architecture help us
+
+What are the type of caching available in Snowflake, How would you identify if your query is returning result from Query Cache/ Metadata cache or VW cache
+
+What are common types of Tables we have in Snowflake
+
+Can you explain, when would you prefer Transient tables over Permanent Table in Snowflake
+
+How does Snowflake handle data storage & Processing
+
+What is Snowflake Stages & When would you use which Stage
+
+Why Cloning in Snowflake known as Zero copy clone
+
+What is Time Travel and How it works under the hood
+
+What is the role of virtual warehouses in Snowflake, and how do they affect performance?
+
+What are the limitation of Materialized views we have in Snowflake
+
+Can you explain the Query Execution flow in Snowflake
+
+What is Scale up vs Scale out in Snowflake
+
+How Snowflake processes queries using micro-partitions
+
+What are the size range of Micro Partition in Snowflake
+
+How would you choose the perfect size of Virtual warehouse for your requirement
+
+How can we Optimize the Storage & Compute cost in Snowflake
+
+Suppose you have given a requirement to migrate the Data from On prem to Snowflake, What all check you will perform
+
+What is the difference between Clustering vs Search Optimization Service , Where you will use SOS over Clustering
+
+How do you troubleshoot and optimize the slow running queries in Snowflake
+
+Write a query to find out if this table is being used in any View definition or not
+
+How would you implement SCD type 2 in Snowflake
+
+My client is giving me files in date wise folder in AWS S3 bucket, You need to implement this COPY activity in such a way that it should pick the file from current date folder and load in Snowflake
+
+I have one Parquet file in AWS s3 bucket, Now create table for that file without checking the Stage files
+
+How do you Integrate S3,ADLS or GCS with Snowflake? If i integrate AWS S3 with Access keys then will you face any challenges?

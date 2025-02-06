@@ -1,0 +1,552 @@
+####################################################################
+##########Bigdata: HADOOP -SPARK-KAFKA Interview questions:#########
+#################################################################
+
+******************ETL DATAWAREHOUSE Data Warehousing interview questions *******************
+
+What is dimension Modelling
+
+What is data mart?
+
+Fact table vs dimension table
+
+Explain the fact and fact table
+
+What is the fact less fact?
+
+Explain dimension and attribute
+
+What are late arriving records and late arriving dimensions
+
+Slowly changing dimensions and explain the types(SCD1, SCD2, SCD3)
+
+OLTP VS OLAP
+
+Roll up, slicing and dicing concepts
+
+What is Primary key, foreign key, natural key, Unique key and Surrogate key and explain them.
+
+What is a primary key constraint?
+
+What is a composite primary key constraint?
+
+What is a composite foreign key constraint?
+
+What is a foreign key constraint?
+
+Union vs Union all
+
+CTE in sql and use of it
+
+List out various design schema in data modelling
+
+Star Schema vs Snowflake Schema vs Galaxy schema.
+
+Window analytical functions in sql (Rank, dense rank, row number, lead, lag) explain
+
+What is lookup tables and use of it.
+
+Explain what is data purging in ETL?
+
+What is meant by snapshots in ETL?
+
+What is the Staging area referring to?
+
+What is an index?
+
+What is data modelling?
+
+What does the data model contain?
+
+Explain various types of data models?
+Conceptual,Logical and Physical
+
+What are a logical data model and logical data modeling?
+
+What are a physical data model and physical data modeling?
+
+What is the difference between a logical and physical data model?
+
+List out the types of normalization?
+ 
+When should you consider denormalization?
+
+What is database cardinality?
+
+What are the different types of cardinal relationships?
+
+
+
+𝗣𝗛𝗔𝗦𝗘 𝟭 - 𝗕𝗮𝘀𝗶𝗰𝘀
+
+* What is a data warehouse, and why is it important?
+* Explain the difference between OLTP and OLAP systems.
+* What are the key components of a data warehouse architecture?
+* What is ETL, and how does it work in data warehousing?
+* What are facts and dimensions in a data warehouse?
+
+𝗣𝗛𝗔𝗦𝗘 𝟮 - 𝗜𝗻𝘁𝗲𝗿𝗺𝗲𝗱𝗶𝗮𝘁𝗲
+
+* Explain the different types of slowly changing dimensions (SCD).
+* What is a star schema, and how does it differ from a snowflake schema?
+* How do you handle data quality issues in a data warehouse?
+* What is a surrogate key, and why is it used in data warehousing?
+* How do you optimize query performance in a data warehouse?
+
+𝗣𝗛𝗔𝗦𝗘 𝟯 - 𝗔𝗱𝘃𝗮𝗻𝗰𝗲𝗱
+
+* How would you design a data warehouse for real-time analytics?
+* Explain the process of building a data warehouse using dimensional modeling.
+* How would you handle the challenge of maintaining data integrity across multiple sources in a data warehouse?
+* What are the best practices for data warehouse maintenance and performance tuning?
+* How do you ensure data security and privacy in a data warehouse?
+
+
+https://blog.imocha.io/etl-interview-questions-with-answers
+
+
+***********UNIX SHELL COMMANDS**************
+
+What is grep use for and explain?
+
+Explain AWK, SED
+
+
+******************* BIG DATA - HADOOP ****************
+
+Data Lake vs Data base vs Data warehouse
+
+What Is Lambda Architecture?
+
+Data Challenges in Big Data
+
+Why do we need Hadoop?
+
+Why do we need BIG Data?
+
+What are the steps involved in deploying a big data solution?
+
+What do you understand by edge nodes in Hadoop?
+
+Why do we need Hadoop?
+
+What are the main components of a Hadoop Application?
+
+What are the most commonly defined input formats in Hadoop?
+
+https://svrtechnologies.com/top-50-hadoop-interview-questions-and-answers-pdf/
+
+
+******************* HDFS ******************************
+
+Explain HDFS Architecture
+
+HDFS COMMANDS
+
+https://medium.com/geekculture/hdfs-commands-cheat-sheet-1cd7bf22e795
+
+Difference between Local FS vs HDFS
+
+Default block size of a file in HDFS
+
+How can you overwrite the replication factors in HDFS?
+
+What happens to a NameNode that has no data?
+
+What is a checkpoint?
+
+What happens when a Data node fails?
+
+What happens when a Name node fails?
+
+How will you resolve the NameNode failure issue?
+
+What is HDFS High Availability?
+
+How can you overwrite the replication factors in HDFS?
+
+Explain about the indexing process in HDFS?
+
+********* YARN ****************
+
+What is YARN and explain its components?
+
+
+******************* SQOOP ***************
+
+Sqoop Architecture
+
+What is Sqoop Metastore? Explain it?
+
+What file formats does Sqoop support while importing the data?
+
+Can we control the number of mappers in sqoop? If yes, How?
+
+What is Sqoop-merge and explain its use?
+
+What is the split-by clause, and when do we use it?
+
+What is sqoop eval?
+
+What is boundary query in sqoop?
+
+Sqoop Blob and clob columns
+
+Sqoop Incremental data
+
+By Default how many mappers will sqoop import have?
+
+Volume of data you handeled in sqoop on daily basis, Weeklybasis, Monthly basis?
+
+Is it possible to do an incremental import using Sqoop?
+
+Is your tables from RDBMS to hadoop if full load or Incremental? 
+
+if full load volume of data whay you are doing full load for  those tables?
+
+If you are handling Incremental how are you doing and volume of data you are loading in to hive tables?
+
+Why do we need sqoop? Why not spark?
+
+What issues you have faced while doing sqoop import? Explain?
+
+Sqoop Parallelism? How to do it.
+
+What is sqoop export? 
+
+What issues you have faced while doing sqoop export? Explain?
+
+Sqoop performance tuning. Explain.
+
+boundary-query During sqoop import process, it uses this query to calculate the boundary for creating splits: select min(), max() from table_name.
+
+
+**************** Hive Hive Hive**************************
+
+https://career.guru99.com/top-30-hive-interview-questions/
+
+Hive Architecture
+
+Hive metastore
+
+Defalut hive warehouse directory or location?
+
+Mention what are the different types of tables (External vs Mangaged)available in Hive? Explain?
+
+Mention when to choose “Internal Table” and “External Table” in Hive?
+
+Difference between Hive Partition vs Bucketing? When to use partition or Bucketing
+
+Difference between Static vs Dynamic partition
+
+Hive performance tuning?
+
+Hive File formats(Avro, Parquet, ORC)
+
+Difference between AVRO vs Parquet vs ORC? When to use which one ?
+
+Parquet comes with snappy compression what is the use of it?
+
+Hive Map side join vs reduce side join?
+
+Different types of Execution engine in Hive? Explain below engines property to set?
+Map Reduce (MR)
+TEZ execution engine
+Spark execution engine
+
+What is Hive on TEZ?
+
+Hive different types of joins(Left, right, Inner, Left anti, Left semi)
+
+What is Sort merge Bucket join in Hive?
+
+Hive ALTER command and what is the use.
+
+How can you run hive query from command line with out logging in to hive.
+
+What is difference between Hive and beeline
+
+Hive window analytical functions(Row_numer, Rank, Dense_rank, Lead, Lag)
+
+How can you handle Incremental updates in Hive? Explain the process
+
+Hive small files issue what happen and how did you solve them?
+
+Hive index concepts?
+
+Explain what is a Hive variable? What for we use it?
+
+Mention what is (HS2) HiveServer2?
+
+show partitions in hive explain.
+
+MSCK repair in Hive explain.
+
+what does the below hive parameters does and explain?
+
+SET mapreduce.map.memory.mb=5120 ;
+
+SET mapreduce.reduce.memory.mb=5120 ;
+
+SET mapreduce.map.java.opts=-Xmx4608m ;
+
+SET mapreduce.reduce.java.opts=-Xmx4608m;
+
+How to set the mapreduce heap settings for a hive session as parameters to hive client?
+
+
+****************************************************
+********* SPARK SPARK SPARK ***********************
+
+
+Explain about Spark Architecture?
+
+What are benefits of Spark over MapReduce?
+
+What is an Executor in spark and how it supports to perform operation on volume of data?
+
+Explain spark flow when a job is submitted(i.e., explain spark architecture regarding driver manager,cluster manager ,executors ,DAG,execution plan etc flow)
+
+How are stages split into tasks in Spark?
+
+How many tasks does an executor Spark have?
+
+what are the spark job and spark task and spark staging?
+
+How Spark Internally Executes a Program?
+
+What is resource manager in Spark?
+
+What are the different cluster managers supported by Spark?
+
+What are different deployment modes in spark (cluster mode and client mode) and how are different? When to use client mode and cluster mode?
+
+What is spark SQL Warehouse Dir?
+
+How do you determine parallelism in Spark?
+
+Is Spark parallel or distributed?
+
+How do I run parallel processing in Pyspark?
+
+RDD:
+
+What is RDD?
+
+What are the main operations of RDD?
+
+Define Transformations in Spark? Examples of transformation used ad explain?
+
+What are the Actions in Spark?
+
+Narrow vs wide transformation in spark ?expamples and explain?
+
+Difference between Map vs flatmap?
+
+Difference between map() and mapPartitions() function in Spark?
+
+What is the function of filer()?
+
+Define RDD Lineage?
+
+Difference between cache vs persist()
+
+What are the different levels of persistence in Spark?
+
+How to connect Hive through Spark SQL?
+
+
+DataFrame:
+
+What is Dataframe?
+
+What are broadcast variables?
+
+Difference between RDD and Dataframe?
+
+Difference between Coalesce vs repartition? Adavantage and Disadvantages?
+
+Difference between Groupby key vs Reduceby key?
+
+Difference between Cluster mode vs client mode?
+
+When should we use DataFrames or Datasets?
+
+maxRecordsPerFile in spark?
+
+Is RDD better than Dataframes?
+
+Apache Spark Limitations?
+
+DATA SKEWNESS IN SPARK?
+
+How do I stop spark shuffling data?
+
+Broadcast Join?
+
+Shuffle join in Spark SQL?
+
+Shuffle partitions in Spark?
+
+Sort -Merge Join in Spark?
+
+Hash Partitioning in Spark?
+
+Spark Performance tuning or optimization techniques?
+
+Memory Management in Spark? Explain how it works?
+
+How did you handle CDC change data capture in SPARK?
+
+Difference between Spark 2.X vs Spark 3.X 
+
+Dynamic allocation in SPARK.
+
+Memory allocation in SPARK and explain
+
+How do you handle Data SkewNess in SPARK.
+
+Difference Spark 2.x VS spark 3.x. what are the advantages in spark 3.x has over spark 2.x
+
+If you want to rite a DF in to a s3 location on particular size what is the command ?
+
+How do you handle small file problems in spark and what would cause with small file problems.
+
+Numpartitions, Lowerbound, upperbound when to use and what is the use explain?
+
+What is the default parallelism in spark?
+
+How do I set spark SQL shuffle partitions in Spark session?
+
+What is the default number of partitions in Spark?
+
+How does Spark determine number of partitions?
+
+How Data Partitioning in Spark helps achieve more parallelism?
+
+Difference between spark.sql.shuffle.partitions vs spark.default.parallelism?
+
+Explain spark submit command and what are the parameters to send and explain them.
+–driver-memory 
+–executor-memory 
+–num-executors
+
+You have dataframe "mydf" which have three columns a1,a2,a3, but it is required to have column a2 with the new name b2, how would you do it ?
+
+How to Flatten Json Files Dynamically Using Apache Spark
+
+
+Scenario Based:
+
+https://medium.com/@shrutighoradkar101/spark-scenario-based-interview-questions-1fd3485c2911
+
+https://medium.com/@vishalbarvaliya/20-real-time-spark-scenario-based-questions-for-data-engineers-2dc893151169
+
+
+***********Spark Streaming **************
+
+What is window and sliding interval in spark streaming?
+
+What is Sliding Window in Spark? Give an example?
+
+What is Sliding Window in Spark? Give an example?
+
+
+***********KAFKA KAFKA KAFKA**************
+
+https://www.zeolearn.com/interview-questions/kafka
+
+
+***********OOZIE OOZIE OOZIE**************
+
+What is Apache Oozie Workflow?
+
+What are the key components of Apache Oozie Workflow? Explain?
+
+What are the different states of an Apache Oozie Workflow job?
+
+What are the different control flow nodes supported by Apache Oozie workflows that control the workflow execution path?
+
+What are the different Action nodes supported by Apache Oozie workflow?
+
+Describe the life-cycle of Apache Oozie workflow job?
+
+What is the use of Join and Fork nodes in Oozie?
+
+What are some of the useful EL functions in the Oozie workflow?
+
+
+
+********************AIRFLOW AIRFLOW AIRFLOW********************
+
+What is Airflow?
+
+What issues does Airflow resolve?
+
+Explain how workflow is designed in Airflow?
+
+How do we Instantiate a DAG?
+
+How do we Importing Modules in Airflow?
+
+How can we delete a DAG?
+
+What are the types of Executors in Airflow?
+
+What are the pros and cons of SequentialExecutor?
+
+What are the pros and cons of LocalExecutor?
+
+What are the pros and cons of CeleryExecutor?
+
+What are the pros and cons of KubernetesExecutor?
+
+How to define a workflow in Airflow?
+
+How do you make the module available to airflow if you're using Docker Compose?
+
+How to start scheduler DAG in Airflow?
+
+Default database in Airflow
+
+What is XComs In Airflow?
+
+What is xcom_pull in XCom Airflow?
+
+What is Jinja templates?
+
+How to use Airflow XComs in templates?
+
+What is sensor in airflow and use of it?
+
+What is Macros?
+
+Default timezone used to schedule in airflow dags.
+
+what is operator in airflow.
+
+How do you write a custom operator in Airflow?
+
+What is Dagrun_timeout?
+
+What is catch up in airflow?
+
+What is hook in Airflow?
+
+What is dummy operator?
+
+How do I submit spark jobs to EMR cluster from Airflow?
+
+How do you create an EMR cluster in Airflow?
+
+What is celery in Airflow?
+
+What is flower in Airflow?
+
+Can we create a single node cluster using EMR?
+
+What are advantages and disadvantages of AIRFLOW?
+
+What are the limitations in Airflow?
+
+
