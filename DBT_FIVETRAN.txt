@@ -90,6 +90,9 @@ DBT Paradime:
 
 https://medium.com/@danilo.drobac/revolutionising-analytics-engineering-with-paradime-io-f254c021ed7c
 
+How I built a Data Model using dbt:
+
+https://blog.det.life/how-i-built-a-data-model-using-dbt-f287ea1adc36
 
 ## DBT on Snowflake:
 
