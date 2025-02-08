@@ -337,6 +337,13 @@ Spark perfomance issues? Let’s optimize that code!
 https://medium.com/plumbersofdatascience/this-spark-code-is-slower-than-a-snail-lets-optimize-it-dbe6736c784d
 
 
+How Apache Spark Uses CPU, Memory, and Storage:
+
+https://medium.com/@vijaygadhave2014/how-apache-spark-uses-cpu-memory-and-storage-095151ad08ca
+
+https://medium.com/@vijaygadhave2014/how-many-tasks-can-run-in-parallel-in-your-spark-cluster-e9bef91dd436
+
+
 Apache Spark Memory Management 
 
 https://databricks.com/blog/2015/05/28/tuning-java-garbage-collection-for-spark-applications.html

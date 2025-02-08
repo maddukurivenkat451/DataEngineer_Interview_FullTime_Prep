@@ -1,0 +1,68 @@
+####################################################################
+#****************DATA ENGINEER & SR DATA ENGINEER ****************
+****************PYTHON & SQL*******************
+###############################################################
+
+Concepts To focus:
+
+1)geek for geeks problems for python and Code Academy and W3 schools
+2)Data Structures - Python
+
+CODING TIPS:
+
+https://youtu.be/K_oJLQx2ySY
+
+https://www.youtube.com/watch?v=27u8xHqLMZE
+
+
+#############################PYTHON#############################
+
+Code Academy:
+
+1) https://www.codecademy.com/learn/learn-python-3
+
+
+Python Programming Examples
+
+2) https://www.geeksforgeeks.org/python-programming-examples/
+
+
+Python Exercises, Practice Questions and Solutions
+
+https://www.geeksforgeeks.org/python-exercises-practice-questions-and-solutions/
+
+https://www.programiz.com/python-programming/examples
+
+
+Data Engineering Cheat Sheet
+
+https://shahinrahbariasl.medium.com/data-engineering-cheat-sheet-28c653859da0
+
+Design patterns:
+
+https://codeburst.io/design-patterns-101-9fe18d5a1bd9
+
+Data Structures & Algorithms:
+
+https://www.youtube.com/watch?v=_t2GVaQasRY&list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12
+
+
+Algoexpert (Problem Solving)
+
+https://mega.nz/folder/WEVGkRpB#piUgI_XI5q8qyomyQEajjA
+
+
+Python Interview Questions:
+
+https://www.youtube.com/playlist?list=PLFV6T8f5WU2FRO_Hu7q9b18yB1P98NSZd
+
+
+DSA — Bubble Sort Algorithm
+
+https://yatin-pandit94.medium.com/dsa-bubble-sort-algorithm-dcd2fd59f72
+
+
+
+*********coding practise(PYTHON & SQL)**********
+
+https://leetcode.com/

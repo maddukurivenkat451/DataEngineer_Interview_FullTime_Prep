@@ -1,0 +1,60 @@
+############################################
+****** SNOWFLAKE*******:
+#############################################
+
+1) SNOWFLAKE PYSPARK
+
+*************SNOWFLAKE PYSPARK****************
+
+
+Snowflake Architecture:
+
+https://medium.com/@sounder.rahul/02-snowflake-architecture-explained-for-data-engineers-fe7ec2f98a0a
+
+https://medium.com/@msharma.ac.12/snowflake-101-a-beginners-guide-93332aab9cbd
+
+https://medium.com/@gaurav05/snowflake-architecture-a-comprehensive-technical-guide-ce66eb52d85a
+
+https://medium.com/@msharma.ac.12/connecting-snowflake-with-databricks-for-advanced-analytics-19b669148660
+
+https://medium.com/@Shamimw/snowflake-commands-cheat-sheet-46b47d0e383a
+
+How to Handle Failed Tasks in Snowflake’s Task Trees: A Step-by-Step Guide:
+
+https://medium.com/@AmaraiahP/how-to-handle-failed-tasks-in-snowflakes-task-trees-a-step-by-step-guide-03df5f757bb9
+
+How to Archive Files in S3 After a COPY INTO Command in Snowflake:
+
+https://medium.com/@AmaraiahP/how-to-archive-files-in-s3-after-a-copy-into-command-in-snowflake-61ee8668ab71
+
+
+How to Use Databricks and PySpark to Write Delta Table Data to Snowflake: A Step-by-Step Guide:
+
+https://medium.com/bi3-technologies/migrating-different-database-tables-into-databricks-b7b1a4cb0392
+
+https://medium.com/@singhaldhruv/how-to-use-databricks-and-pyspark-to-write-delta-table-data-to-snowflake-a-step-by-step-guide-e70d7db5034a
+
+
+Snowflake Interview Questions:
+
+https://skphd.medium.com/snowflake-interview-questions-and-answers-part-2-1c1ddeb1f300
+
+How Snowflake Can Transform the Way Data Engineering Works
+
+https://royalcyberinc.medium.com/how-snowflake-can-transform-the-way-data-engineering-works-c30f6b159f2
+
+
+PySpark Snowflake Data Warehouse Read Write operations — Part1 (Read-Only)
+
+https://pub.towardsai.net/pyspark-snowflake-data-warehouse-read-write-operations-part1-read-only-3331d113635e
+
+PySpark Snowflake Data Warehouse Read Write operations — Part2 (Read-Write)
+
+https://pub.towardsai.net/pyspark-snowflake-data-warehouse-read-write-operations-part2-read-write-c129a1260f7f
+
+
+Snowflake SQL best practices:
+
+https://medium.com/@vuppala.venkat/snowflake-sql-best-practices-6fd7573bd39d
+
+
