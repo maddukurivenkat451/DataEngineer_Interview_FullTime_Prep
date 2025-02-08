@@ -1,0 +1,123 @@
+
+
+
+Advanced Data Engineering Interview Questions
+
+https://medium.com/towards-data-engineering/advanced-data-engineering-interview-questions-part-1-e6a0dc0ebbdd
+
+https://medium.com/art-of-data-engineering/advanced-data-engineering-interview-questions-part-2-8b0780cdb96a
+
+https://blog.det.life/advanced-data-engineering-interview-questions-part-3-98e5d894eb10
+
+https://medium.com/art-of-data-engineering/advanced-data-engineering-interview-questions-part-4-387cbfe41816
+
+https://medium.com/towards-data-engineering/advanced-data-engineering-interview-questions-part-5-c0020346ace0
+
+https://blog.det.life/advanced-data-engineering-interview-questions-part-6-c82c59b10e6a
+
+
+
+#####APPLE 
+
+What are the common strategies for tuning Spark jobs to improve performance?
+Explain the role of spark.sql.shuffle.partitions and how it affects the performance of Spark SQL queries.
+How do you optimize join operations in Spark, particularly when dealing with large datasets?
+What are the implications of using wide transformations in Spark? How can you minimize the performance impact of shuffles?
+How does Spark’s memory management model influence the performance of a Spark application?
+Explain the concept of speculative execution in Spark. When would you enable it, and what are the benefits?
+How can you reduce the impact of garbage collection (GC) on Spark performance?
+What are the best practices for setting the number of partitions in a Spark job?
+Explain the significance of the broadcast join in Spark SQL. How do you determine when to use it?
+How do you profile and diagnose performance issues in Spark applications? What tools and techniques do you use?
+Explain the concept of Data Locality in Spark. How does it impact job execution?
+What is the role of checkpointing in Spark? How is it different from caching?
+How does Spark integrate with Hive? Explain how Spark can use Hive metastore and execute Hive queries.
+What are the implications of using Dynamic Resource Allocation in Spark? How does it help in optimizing resource usage?
+Discuss the use of the Delta Lake with Apache Spark. How does it improve data reliability and consistency in big data pipelines?
+What are the challenges associated with running Spark on Kubernetes, and how do you address them?
+How can you implement and optimize iterative algorithms in Spark, such as PageRank or k-means clustering?
+Describe a complex Spark job you have implemented. What challenges did you face, and how did you overcome them?
+How would you design a real-time data processing pipeline using Spark?
+Explain how you would optimize a Spark job that is suffering from data skew?
+How do you manage large-scale Spark jobs that need to run on a daily schedule?
+Discuss a scenario where you had to integrate Spark with other big data tools like Kafka, HBase, or Cassandra.
+How would you approach migrating a legacy ETL process to a Spark-based solution?
+What strategies would you use to handle late-arriving data in a real-time analytics application built on Spark?
+How would you design a Spark application to process IoT data at scale?
+What considerations would you make when running Spark jobs on a cloud platform like AWS EMR or Databricks?
+Discuss a scenario where Spark’s native capabilities were insufficient, and you had to extend Spark with custom code or third-party libraries?
+
+https://medium.com/data-engineer-things/apple-pyspark-interview-question-hard-level-75fa47600b70
+
+
+
+#####TREDENCE
+
+
+What is Snowflake & How it is different than On prem Data warehouses
+Explain the Snowflake Architecture or How Snowflake Compute & Storage separate Architecture help us
+What are the type of caching available in Snowflake, How would you identify if your query is returning result from Query Cache/ Metadata cache or VW cache
+Explain Snowflake’s multi-cluster architecture and its benefits.
+What are common types of Tables we have in Snowflake
+Can you explain, when would you prefer Transient tables over Permanent Table in Snowflake
+How does Snowflake handle data storage & Processing
+What is Snowflake Stages & When would you use which Stage
+Why Cloning in Snowflake known as Zero copy clone
+What is Time Travel and How it works under the hood
+What is the role of virtual warehouses in Snowflake, and how do they affect performanc
+What are the limitation of Materialized views we have in Snowflake
+Can you explain the Query Execution flow in Snowflake
+What is Scale up vs Scale out in Snowflake
+How Snowflake processes queries using micro-partitions
+What are the size range of Micro Partition in Snowflake
+How would you choose the perfect size of Virtual warehouse for your requirement
+How can we Optimize the Storage & Compute cost in Snowflake
+Suppose you have given a requirement to migrate the Data from On prem to Snowflake, What all check you will perform
+What is the difference between Clustering vs Search Optimization Service , Where you will use SOS over Clustering
+How do you troubleshoot and optimize the slow running queries in Snowflake
+Write a query to find out if this table is being used in any View definition or not
+How would you implement SCD type 2 in Snowflake
+My client is giving me files in date wise folder in AWS S3 bucket, You need to implement this COPY activity in such a way that it should pick the file from current date folder and load in Snowflake
+I have one Parquet file in AWS s3 bucket, Now create table for that file without checking the Stage files
+How do you Integrate S3 with Snowflake? If i integrate AWS S3 with Access keys then will you face any challenges?
+What is the concept of micro-partitioning in Snowflake?
+Can you explain the difference between Snowflake's virtual warehouse and database?
+How do Snowflake's scaling and auto-suspend features work?
+What is the difference between Snowflake's transient and permanent tables?
+How does Snowflake handle data sharing between different accounts?
+What are Snowflake stages and how do they work?
+What is the role of Snowflake’s Data Exchange?
+How does Snowflake ensure data security, and what features does it offer?
+What are Snowflake roles and how is access control managed?
+How do you optimize Snowflake queries for performance?
+What is the Snowflake's data loading process? How do you load data from different file formats (e.g., CSV, Parquet)?
+Can you explain Snowflake's time travel feature and its use cases?
+How does Snowflake handle semi-structured data (JSON, Avro, Parquet)?
+What are Snowflake streams and tasks, and how are they used for data processing?
+What is the purpose of clustering in Snowflake, and how does it work?
+How does Snowflake handle failover and disaster recovery?
+Explain Snowflake's pricing model.
+What are some common performance issues in Snowflake, and how can they be addressed?
+What is the role of Snowflake's external tables?
+How do you troubleshoot and resolve query performance issues in Snowflake?
+Can you explain the difference between Snowflake and traditional OLTP databases?
+How do you manage Snowflake data warehouse lifecycle and storage?
+What are Snowflake’s best practices for data modeling?
+What is a Snowflake schema and how does it differ from a star schema?
+How do you implement ETL processes in Snowflake?
+What are Snowflake's capabilities regarding data governance and auditing?
+How would you migrate data from an on-premises data warehouse to Snowflake?
+How can you mask dynamically PHI or PII data in snowflake and what is the process?
+I want to restrict viewing data for few users only how to do that in snowflake?
+If you create temporary tables with the same name as permanent tables, which one will be referenced when queried within the same session?
+
+If your warehouse is suspended and you have already queried the data, will the query be served from the cache or will it compute anew?
+
+What is the setup process for Snowpipe?
+
+What happens if the same file is placed in an S3 bucket while Snowpipe is running? Will it load the same file multiple times?
+
+If your data contains commas and you’ve specified the delimiter as ',', how would you handle and load the data?
+
+
+

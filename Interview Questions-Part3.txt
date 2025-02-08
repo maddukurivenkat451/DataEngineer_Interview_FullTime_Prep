@@ -309,3 +309,16 @@ What are advantages and disadvantages of AIRFLOW?
 
 What are the limitations in Airflow?
 
+How do you make the module available to airflow if you're using Docker Compose?
+
+How do you schedule a DAG to run at a specific interval in Airflow?
+
+How can you trigger DAGs in Airflow, and what are the different ways to do so?
+
+How to control the parallelism or concurrency of tasks in Apache Airflow configuration?
+
+What if your Apache Airflow DAG failed for the last ten days, and now you want to backfill those last ten days' data, but you don't need to run all the tasks of the dag to backfill the data?
+
+What will happen if you set 'catchup=False' in the dag and 'latest_only = True' for some of the dag tasks?
+
+How would you approach if you wanted to queue up multiple dags with order dependencies?
