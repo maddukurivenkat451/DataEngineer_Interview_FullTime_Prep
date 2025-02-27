@@ -33,6 +33,10 @@ What are DBT macros, and how do they enhance SQL functionality in DBT?
 
 What is Metric and Metric Flow in DBT?
 
+How would you define a macro in dbt, and what is the syntax for creating one? Can you provide an example of a simple macro and explain how you would use it within a dbt model?
+
+Can you explain how Jinja works within macros and give an example where you would use a Jinja template to dynamically generate SQL code based on input parameters?
+
 What is package in dbt?Explain advantages of using Packages in DBT? What are the packages available in DBT?
 
 How can DBT be used to handle incremental data loads?
@@ -67,8 +71,15 @@ How do you handle dependency management in DBT in a project with hundreds of mod
 
 How do you manage dbt deployment accross multiple environments (dev, stg and prod)?
 
-
 How do you use DBT's ref() function, and what common pitfalls have you encountered when defining relationships between models?
+
+What are some best practices you follow when implementing DBT hooks to ensure they don't introduce unnecessary complexity or performance issues? Are there any limitations or pitfalls to watch out for when using hooks in DBT?
+
+You need to run a data quality check every time a DBT model finishes execution to ensure data completeness and integrity. How would you implement this using a post-hook, and what kind of checks might you include?
+
+Can you explain what DBT hooks are and provide examples of scenarios where you would use pre-hook and post-hook in your data pipeline?
+ 
+After executing a DBT model, you want to run a query that checks whether the data meets certain conditions (e.g., no null values in a critical column). How would you implement this logic using a post-hook in DBT?
 
 Can you explain the role of dbt run, dbt test, and dbt seed in your workflow? How do you automate these tasks in a CI/CD pipeline?
 
@@ -148,10 +159,7 @@ Explain dynamic masking of data in snowflake? How do you apply row level and col
 
 How to optimize or improve query performance in Snowflake?
 
-Snowflake Interview Questions:
-
-https://skphd.medium.com/snowflake-interview-questions-and-answers-part-2-1c1ddeb1f300
-
+Explain Snowflake's pricing model.
 
 What is Snowflake & How it is different than On prem Data warehouses
 
@@ -220,7 +228,7 @@ How does Snowflake handle semi-structured data (JSON, Avro, Parquet)?
 What are Snowflake streams and tasks, and how are they used for data processing?
 What is the purpose of clustering in Snowflake, and how does it work?
 How does Snowflake handle failover and disaster recovery?
-Explain Snowflake's pricing model.
+
 What are some common performance issues in Snowflake, and how can they be addressed?
 What is the role of Snowflake's external tables?
 How do you troubleshoot and resolve query performance issues in Snowflake?
@@ -233,6 +241,11 @@ What are Snowflake's capabilities regarding data governance and auditing?
 How would you migrate data from an on-premises data warehouse to Snowflake?
 How can you mask dynamically PHI or PII data in snowflake and what is the process?
 I want to restrict viewing data for few users only how to do that in snowflake?
+
+
+Snowflake Interview Questions:
+
+https://skphd.medium.com/snowflake-interview-questions-and-answers-part-2-1c1ddeb1f300
 
 
 ############ AIRFLOW ############
@@ -270,6 +283,8 @@ Default database in Airflow
 What is XComs In Airflow?
 
 What is xcom_pull in XCom Airflow?
+
+Explain how XComs work in Airflow and give an example of how you would use them to pass data between tasks in a DAG. What are some limitations or potential pitfalls of using XComs?
 
 What is Jinja templates?
 
@@ -322,3 +337,17 @@ What if your Apache Airflow DAG failed for the last ten days, and now you want t
 What will happen if you set 'catchup=False' in the dag and 'latest_only = True' for some of the dag tasks?
 
 How would you approach if you wanted to queue up multiple dags with order dependencies?
+
+In Airflow, what happens if a task fails? How would you configure retry behavior, and what are the options for alerting the team if a task continues to fail after multiple retries?
+
+You need to dynamically generate multiple tasks in an Airflow DAG based on a set of parameters or configurations (e.g., looping over a list of values). How would you handle dynamic DAG generation in Airflow? Can you provide an example?
+
+Can you explain what an Airflow sensor is and how it differs from other operators? How do sensors work, and what is their purpose in a DAG?
+
+If an Airflow sensor fails (for example, if the file it’s waiting for does not appear within the expected timeframe), how would you handle such failures? What are the options for retrying or alerting on sensor failures?
+
+Can you describe some of the major features and improvements that were introduced in Airflow 2.8, especially regarding performance, UI, and security? How do these improvements enhance the user experience and DAG management?
+
+Your team is currently using an older version of Airflow, and you are tasked with upgrading to Airflow 2.8. What steps would you take to ensure a smooth upgrade process? What are the key things to watch out for when migrating to Airflow 2.8?
+
+Airflow 2.8 introduced enhancements to the TaskFlow API. Can you explain how the TaskFlow API works in Airflow 2.8 and provide an example of how you would use it to create Python-based tasks in a DAG? How does it improve task management compared to older versions?
