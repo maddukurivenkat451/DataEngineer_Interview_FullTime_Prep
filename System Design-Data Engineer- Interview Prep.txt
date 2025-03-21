@@ -1,0 +1,69 @@
+
+##################
+System Design
+###################
+
+
+Common System Design Interview Questions:
+
+https://medium.com/@dataeducationholdings/system-design-interviews-for-data-engineers-questions-and-strategies-c70ddc3cc816
+
+How would you design a highly available and fault-tolerant web application architecture?
+Explain the principles of microservices architecture and when it is suitable for an application.
+Design a URL shortening service like Bitly, discussing scalability and data storage.
+Describe the architecture of a content delivery network (CDN) and its benefits for web applications.
+How would you design a distributed cache system to improve application performance?
+Discuss the design considerations for building a real-time chat application capable of handling millions of users.
+Design a recommendation system for an e-commerce platform, considering personalization and scalability.
+Explain the architecture of a distributed file storage system like Hadoop HDFS.
+How would you design a secure authentication and authorization system for a web application?
+Discuss the components and considerations for building a message queuing system for asynchronous communication between services.
+Design a scalable and fault-tolerant database system for a high-traffic application.
+Explain the principles of load balancing and the different load balancing algorithms.
+Describe the architecture of a logging and monitoring system for tracking application performance.
+Design a data pipeline for processing and analyzing large volumes of data efficiently.
+How would you create a global load-balancing system to distribute traffic across multiple data centers?
+
+
+The System Design Interview:
+
+https://medium.com/@seancoyne/cracking-the-data-engineering-interview-the-system-design-interview-fcda02d95c65
+
+
+Data Engineering System Design Interview Framework:
+
+https://www.youtube.com/watch?v=ceClqzlmXaM&ab_channel=DataGuy
+
+
+Data Engineering: Practice System Design Question and Solution: Batch:
+
+https://medium.com/@seancoyne/data-engineering-practice-system-design-question-and-solution-batch-b971eae7637b
+
+
+Uber Architecture and System Design
+
+https://medium.com/nerd-for-tech/uber-architecture-and-system-design-e8ac26690dfc
+
+
+Spotify Data Engineer - System Design Interview:
+
+https://www.youtube.com/watch?v=ukWwlnBizaM&ab_channel=Prepfully
+
+Meta system design interview: 
+
+Design Instagram (with ex-Meta data engineer):
+
+https://www.youtube.com/watch?v=DXpJCh5_KT4
+
+Design Live Comments:
+
+https://www.youtube.com/watch?v=LjLx0fCd1k8
+
+Data Engineering Interview - Netflix Clickstream Data Pipeline:
+
+https://www.youtube.com/watch?v=53tcAZ6Qda8
+
+
+System Design Interview: Design Netflix:
+
+https://www.youtube.com/watch?v=VvZf7lISfgs
