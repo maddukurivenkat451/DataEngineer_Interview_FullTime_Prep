@@ -169,7 +169,9 @@ Is the infrastructure accessible on which the AWS Lambda runs?
 Can I use packages with AWS Lambda?
 
 Do the AWS Lambda-based functions stay available when code or its configuration is changed?
+
 Is there any limit to the quantity of AWS Lambda functions that can be executed at once?
+
 What happens when my account surpasses the default threshold limit on the executions?
 
 
@@ -280,3 +282,54 @@ How can you implement Role-Based Access Control (RBAC) in Databricks for better 
 How does Unity Catalog in Databricks enhance data governance and security?
 
 What are the best practices for managing secrets and credentials securely in Databricks?
+
+How does Databricks handle cluster management and resource allocation for optimized performance?
+
+What are the best practices for optimizing Apache Spark jobs in Databricks?
+
+How does Databricks autoscaling work, and what are the key considerations
+when enabling it?
+
+What are the main performance bottlenecks in Databricks Spark jobs, and how do you troubleshoot them?
+
+What are Delta Lakes in Databricks, and how do they improve data reliability compared to Parquet or ORC?
+
+Explain how ACID transactions work in Delta Lake and their benefits in a Data Engineering workflow.
+
+How does Databricks handle schema evolution in Delta Lake, and what challenges can arise?
+
+What is data skipping in Delta Lake, and how does it optimize query performance?
+
+How can you implement data partitioning in Databricks, and when should you repartition data?
+
+What are the advantages and disadvantages of using caching in Databricks, and when should you use CACHE TABLE vs. persist()?
+
+How does Databricks handle data serialization, and which formats (Parquet, Avro, ORC) are best for different use cases?
+
+How can Z-Ordering improve query performance in Delta Lake tables?
+
+How can you implement Role-Based Access Control (RBAC) in Databricks for better security?
+
+How does Unity Catalog in Databricks enhance data governance and security?
+
+What are the best practices for managing secrets and credentials securely in Databricks?
+
+You have an AWS Databricks job processing a large dataset stored in S3 that is running slower than expected. What are the possible reasons, and how would you troubleshoot and optimize the job?
+
+You need to process both streaming and batch data in AWS Databricks. How would you design a solution to ensure both workloads run efficiently without resource contention?
+
+You notice a significant performance drop when using joins in a Databricks notebook. What strategies can you apply to optimize joins in large datasets?
+
+A team wants to use Delta Lake in AWS Databricks for their ETL jobs. What are the key challenges in managing Delta Lake tables, and how would you ensure high performance and data consistency?
+
+How would you handle schema evolution when reading data from S3 using Delta Lake in AWS Databricks?
+
+Your Spark job running on AWS Databricks is getting OutOfMemory errors when processing a large dataset. What are the steps you would take to resolve this?
+
+How would you reduce costs while running large-scale jobs in AWS Databricks, especially when dealing with spot instances and on-demand instances?
+
+You’ve been asked to optimize a long-running AWS Databricks job that processes terabytes of data. How would you approach this task, focusing on both performance and cost?
+
+How would you configure AWS Databricks Auto-scaling for optimal performance, and when would you use a standard vs. a high-concurrency cluster?
+
+You have a requirement to process IoT sensor data in real-time using AWS Databricks. How would you design and optimize a real-time pipeline that ingests data from Kinesis or Kafka?

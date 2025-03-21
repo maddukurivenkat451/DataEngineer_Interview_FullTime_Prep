@@ -212,13 +212,21 @@ I have one Parquet file in AWS s3 bucket, Now create table for that file without
 How do you Integrate S3,ADLS or GCS with Snowflake? If i integrate AWS S3 with Access keys then will you face any challenges?
 
 How do you Integrate S3 with Snowflake? If i integrate AWS S3 with Access keys then will you face any challenges?
+
 What is the concept of micro-partitioning in Snowflake?
+
 Can you explain the difference between Snowflake's virtual warehouse and database?
+
 How do Snowflake's scaling and auto-suspend features work?
+
 What is the difference between Snowflake's transient and permanent tables?
+
 How does Snowflake handle data sharing between different accounts?
+
 What are Snowflake stages and how do they work?
+
 What is the role of Snowflake’s Data Exchange?
+
 How does Snowflake ensure data security, and what features does it offer?
 What are Snowflake roles and how is access control managed?
 How do you optimize Snowflake queries for performance?
