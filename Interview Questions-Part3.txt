@@ -91,6 +91,10 @@ How do you approach testing in DBT? Can you explain how you set up custom tests 
 
 How do you use Jinja in DBT for dynamic SQL generation? Can you give an example of how you’ve used macros to create reusable SQL code blocks?
 
+You’re tasked with ensuring high data quality in a dbt-based pipeline. How would you implement data quality checks within your dbt models, and how would you handle situations where a test fails?
+
+A business team has reported that some dbt models are taking longer than expected to run, and the overall performance of the data pipeline is degrading. How would you approach identifying performance bottlenecks, and what specific dbt techniques or strategies would you use to optimize the performance of the models?
+
 Resources to prepare:
 
 https://snowflakemasters.in/dbt-interview-questions/
@@ -228,13 +232,25 @@ What are Snowflake stages and how do they work?
 What is the role of Snowflake’s Data Exchange?
 
 How does Snowflake ensure data security, and what features does it offer?
+
+You need to store sensitive customer data in Snowflake. What steps would you take to ensure compliance with data protection regulations?
+
 What are Snowflake roles and how is access control managed?
+
 How do you optimize Snowflake queries for performance?
+
 What is the Snowflake's data loading process? How do you load data from different file formats (e.g., CSV, Parquet)?
+
 Can you explain Snowflake's time travel feature and its use cases?
+
 How does Snowflake handle semi-structured data (JSON, Avro, Parquet)?
+
 What are Snowflake streams and tasks, and how are they used for data processing?
+
+How do you implement real-time analytics using Snowflake. How would you design a pipeline to support this?
+
 What is the purpose of clustering in Snowflake, and how does it work?
+
 How does Snowflake handle failover and disaster recovery?
 
 What are some common performance issues in Snowflake, and how can they be addressed?
@@ -248,6 +264,7 @@ How do you implement ETL processes in Snowflake?
 What are Snowflake's capabilities regarding data governance and auditing?
 How would you migrate data from an on-premises data warehouse to Snowflake?
 How can you mask dynamically PHI or PII data in snowflake and what is the process?
+
 I want to restrict viewing data for few users only how to do that in snowflake?
 
 

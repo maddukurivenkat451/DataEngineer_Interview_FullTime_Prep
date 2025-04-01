@@ -1,5 +1,15 @@
 
 
+Behavioral Interview:
+
+https://medium.com/@seancoyne/preparing-for-the-data-engineering-behavioral-interview-1-of-2-1b729b89e4b1
+
+
+
+Agoda Data Engineer First Round-Interview Experience:
+
+https://medium.com/towardsdev/agoda-data-engineer-first-round-interview-experience-01c993ea2b0a
+
 
 Advanced Data Engineering Interview Questions
 
@@ -112,6 +122,9 @@ I want to restrict viewing data for few users only how to do that in snowflake?
 If you create temporary tables with the same name as permanent tables, which one will be referenced when queried within the same session?
 
 If your warehouse is suspended and you have already queried the data, will the query be served from the cache or will it compute anew?
+
+A new business requirement mandates that all data, especially customer information, must be encrypted both in transit and at rest,and certain users should have granular access to specific columns or tables in Snowflake. 
+How would you design the architecture and access controls in Snowflake to meet these requirements?
 
 What is the setup process for Snowpipe?
 
